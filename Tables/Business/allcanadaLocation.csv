@@ -1,0 +1,724 @@
+﻿ComID,GeogName
+can,Canada
+CHB11,Lunenburg County
+CHB12,Queens County
+CHB21,Clare
+CHB22,Digby & Area
+CHB23,Shelburne
+CHB24,Yarmouth
+CHB31,Annapolis
+CHB32,Central Kings
+CHB33,Kingston/Greenwood
+CHB34,Eastern Kings
+CHB35,Western Kings
+CHB41,Along The Shore
+CHB42,East Hants
+CHB43,North Shore Area
+CHB44,South Colchester
+CHB45,Truro & Area
+CHB51,Pugwash and Area
+CHB52,"Southhampton, Parrsboro, Advocate and Regions"
+CHB53,"Springhill, Oxford, Amherst and Regions"
+CHB61,Central and East Pictou
+CHB62,Pictou West
+CHB71,Antigonish Town and County
+CHB72,Guysborough County
+CHB73,Strait Richmond
+CHB81,Central Inverness
+CHB82,North Inverness
+CHB83,Victoria County
+CHB84,Central Cape Breton County
+CHB85,East Cape Breton County
+CHB86,Northside The Lakes
+CHB91,Eastern Shore - Musquodoboit
+CHB92,West Hants
+CHB93,Cobequid
+CHB94,Dartmouth
+CHB95,Southeastern
+CHB96,Halifax Peninsula
+CHB97,Chebucto West
+CNT1201,Shelburne County
+CNT1202,Yarmouth County
+CNT1203,Digby County
+CNT1204,Queens County
+CNT1205,Annapolis County
+CNT1206,Lunenburg County
+CNT1207,Kings County
+CNT1208,Hants County
+CNT1209,Halifax County
+CNT1210,Colchester County
+CNT1211,Cumberland County
+CNT1212,Pictou County
+CNT1213,Guysborough County
+CNT1214,Antigonish County
+CNT1215,Inverness County
+CNT1216,Richmond County
+CNT1217,Cape Breton County
+CNT1218,Victoria County
+COM1001,Wittenburg
+COM1002,Stewiacke
+COM1003,Old Barns
+COM1004,Brookfield
+COM1005,Upper Stewiacke
+COM1006,Greenfield
+COM1007,Hilden
+COM1008,Millbrook First Nation (Millbrook (27))
+COM1009,Truro
+COM101,Welshtown
+COM1010,Bible Hill
+COM1011,East Mountain
+COM1012,Earltown
+COM1013,Tatamagouche
+COM1014,New Annan
+COM1015,Lower Onslow
+COM1016,Debert
+COM1017,Glenholme
+COM1018,Economy
+COM102,Lockeport
+COM103,Shelburne
+COM104,Clyde River
+COM105,Barrington
+COM106,Cape Sable Island
+COM107,Tobeatic - Tidney River Wilderness
+COM1101,Parrsboro
+COM1102,Advocate Harbour
+COM1103,River Hebert
+COM1104,Springhill
+COM1105,Wentworth
+COM1106,Oxford
+COM1107,Amherst
+COM1108,Tidnish
+COM1109,Port Howe
+COM1110,Pugwash
+COM1111,Wallace
+com1112,Paqtnkek First Nation (Franklin Manor (22))
+COM1201,River John
+COM1202,Pictou
+COM1203,Scotsburn
+COM1204,Salt Springs
+COM1205,Hopewell
+COM1206,Westville
+COM1207,Stellarton
+COM1208,New Glasgow
+COM1209,Trenton
+COM1210,Pictou Landing
+COM1211,Pictou Landing First Nation (Fisher's Grant (24))
+COM1212,Little Harbour
+COM1213,Thorburn
+COM1214,Blue Mountain
+COM1215,Merigomish
+com1216,Pictou Landing First Nation (Boat Harbour West (37))
+COM1217,Pictou Landing First Nation (Merigomish Harbour (31))
+COM1301,Melrose
+COM1302,Sherbrooke
+COM1303,Cross Roads Country Harbour
+COM1304,Larrys River
+COM1305,Canso
+COM1306,Guysborough
+COM1307,Mulgrave
+COM1401,Lochaber
+COM1402,Salt Springs
+COM1403,James River
+COM1404,Clydesdale
+COM1405,Malignant Cove
+COM1406,Mahoneys Beach
+COM1407,Antigonish
+COM1408,Lower South River
+COM1409,St. Andrews
+COM1410,Pomquet
+COM1411,Paqtnkek First Nation (Pomquet & Afton (23))
+COM1412,Tracadie
+COM1413,Havre Boucher
+com1414,Paqtnkek First Nation (Summerside (38))
+COM1501,Port Hawkesbury
+COM1502,Long Point
+COM1503,Port Hood
+COM1504,Mabou
+COM1505,Glendale
+COM1506,Waycobah First Nation (Whycocomagh (2))
+COM1507,Whycocomagh
+COM1508,Inverness
+COM1509,Margaree
+COM1510,Cheticamp
+COM1511,Pictou Landing First Nation (Malagawatch (4))
+COM1601,Dundee
+COM1602,Isle Madame
+COM1603,Louisdale
+COM1604,St. Peter's
+COM1605,L'Ardoise
+COM1606,Chapel Island First Nation (Chapel Island (5))
+COM1701,Boularderie Island (Victoria)
+COM1702,Albert Bridge
+COM1703,Big Ridge-French Road
+COM1704,Birch Grove-Tower Road
+COM1705,Blacketts Lake
+COM1706,Boisdale-Castle Bay and Area
+COM1707,Boularderie Island (CBRM)
+COM1708,Coxheath
+COM1709,Dominion
+COM1710,Donkin-Port Caledonia
+COM1711,Dutch Brook-Caribou Marsh
+COM1712,East Bay Area
+COM1713,Eskasoni First Nation (Eskasoni (3))
+COM1714,Florence-Bras D'Or
+COM1715,Frenchvale-Beechmont and Area
+COM1716,Gardiner Mines
+COM1717,Georges River and Area
+COM1718,Glace Bay
+COM1719,Grand Lake Road
+COM1720,Grand Mira North
+COM1721,Grand Mira South
+COM1722,Greater Gabarus
+COM1723,Howie Centre
+COM1724,Lingan Road
+COM1725,Lingan-River Ryan and Area
+COM1726,Louisbourg
+COM1727,Marion Bridge
+COM1728,Membertou First Nation (Membertou (28B))
+COM1729,Mira Gut-Lorraine and Area
+COM1730,Mira Road
+COM1731,New Victoria-Victoria Mines
+COM1732,New Waterford
+COM1733,North Sydney
+COM1734,Northside East Bay-Islandview
+COM1735,Point Edward Peninsula
+COM1736,Port Morien
+COM1737,Prime Brook
+COM1738,Reserve Mines
+COM1739,Round Island-Black Brook and Area
+COM1740,South Bar
+COM1741,Sydney
+COM1742,Sydney Forks-Portage
+COM1743,Sydney Mines
+COM1744,Sydney River
+COM1745,Upper North Sydney-Leitches Creek and Area
+COM1746,Westmount
+COM1747,Fortress of Louisbourg
+com1748,Membertou First Nation (Sydney (28A))
+com1749,Membertou First Nation (Caribou Marsh (29))
+COM1801,Little Narrows
+COM1802,Baddeck
+COM1803,Wagmatcook First Nation (Wagmatcook (1))
+COM1804,Englishtown
+COM1805,Ingonish
+COM1806,Cape Breton Highlands National Park
+COM1807,Dingwall
+COM201,Pubnico
+COM202,Tusket
+COM203,Argyle
+COM204,Amiraults Hill
+COM205,Wedgeport
+COM206,Arcadia
+COM207,Yarmouth
+COM208,Acadia First Nation (Yarmouth (33))
+COM209,Hebron
+COM210,Port Maitland
+COM211,South Ohio
+COM212,Carleton
+COM213,Quinan
+COM301,Salmon River
+COM302,Meteghan
+COM303,Saulnierville
+COM304,Church Point
+COM305,Weymouth
+COM306,Barton
+COM307,Digby Neck
+COM308,Digby
+COM309,Smiths Cove
+COM310,Bear River
+COM311,St. Joseph
+COM312,Bear River First Nation (Bear River (6))
+COM401,North Queens
+COM402,Port Mouton
+COM403,Liverpool
+COM404,Medway
+COM405,Greenfield
+com406,Acadia First Nation (Wildcat (12))
+com407,Acadia First Nation (Ponhook Lake (10))
+COM408,Acadia First Nation (Medway River (11))
+COM501,Kejimkujik National Park
+COM502,Milford
+COM503,Cornwallis Park
+COM504,Port Royal
+COM505,Granville Ferry
+COM506,Annapolis Royal
+COM507,Bear River First Nation (Bear River (6B))
+COM508,Bridgetown
+COM509,Port Lorne
+COM510,Lawrencetown
+COM511,Middleton
+COM512,Margaretsville
+COM601,Broad Cove
+COM602,Petite Riviere
+COM603,Italy Cross
+COM604,Chelsea
+COM605,Newcombville
+COM606,Hemford
+COM607,New Germany
+COM608,Northfield
+COM609,Bridgewater
+COM610,LaHave
+COM611,Lunenburg
+COM612,Maitland
+COM613,Mahone Bay
+COM614,New Cornwall
+COM615,Maplewood
+COM616,New Ross
+com617,Indian Brook First Nation (Pennal (19))
+COM618,Chester Basin
+com619,Acadia First Nation (Gold River (21))
+COM620,Western Shore
+COM621,Chester
+COM622,Windsor Road
+COM623,Blandford
+COM701,Lake George
+COM702,Greenwood
+COM703,Kingston
+COM704,Aylesford
+COM705,Millville
+COM706,Berwick
+COM707,Waterville
+COM708,Somerset
+COM709,Harbourville
+COM710,Lakeville
+COM711,Cambridge
+COM712,Annapolis Valley First Nation (Cambridge (32))
+COM713,Coldbrook
+COM714,Alton
+COM715,Kentville
+COM716,Centreville
+COM717,Blomidon
+COM718,Canning
+COM719,Port Williams
+COM720,New Minas
+COM721,Gaspereau
+COM722,Wolfville
+COM723,Grand Pre
+COM724,Hantsport
+com725,Glooscap First Nation (Horton (Glooscap) (35))
+COM801,Falmouth
+COM802,Windsor Forks
+COM803,Smiths Corner
+COM804,Newport Corner
+COM805,Three Mile Plains
+COM806,Windsor
+COM807,Brooklyn
+COM808,Summerville
+COM809,Kempt Shore
+COM810,Noel
+COM811,Kennetcook
+COM812,Upper Rawdon
+COM813,Mount Uniacke
+COM814,Enfield
+COM815,Nine Mile River
+COM816,Elmsdale
+COM817,Lantz
+COM818,Milford
+COM819,Indian Brook First Nation (Indian Brook (14))
+COM820,Shubenacadie
+COM821,Maitland
+COM822,Annapolis Valley First Nation (St. Croix (34))
+COM901,Hubbards
+COM902,St. Margarets Bay
+COM903,Tantallon
+COM904,Hacketts Cove
+COM905,Peggys Cove
+COM906,Prospect
+COM907,Terence Bay
+COM908,Hatchet Lake
+COM909,Sambro
+COM910,Herring Cove
+COM911,Spryfield
+COM912,Armdale-Northwest Arm
+COM913,Fairview
+COM914,Halifax Chebucto
+COM915,Halifax Citadel
+COM916,Halifax Needham
+COM917,Clayton Park
+COM918,Timberlea
+COM919,Hammonds Plains
+COM920,Bedford
+COM921,Middle Sackville
+COM922,Upper Sackville
+COM923,Beaver Bank
+COM924,Fall River
+COM925,Waverley
+COM926,Dartmouth North
+COM927,Dartmouth East
+COM928,Dartmouth South
+COM929,Eastern Passage
+COM930,Millbrook First Nation (Cole Harbour (30))
+COM931,Cole Harbour
+COM932,Preston
+COM933,Lawrencetown
+COM934,Lake Echo
+COM935,Porters Lake
+COM936,Chezzetcook
+COM937,Musquodoboit Harbour
+COM938,Jeddore
+COM939,Middle Musquodoboit
+COM940,Upper Musquodoboit
+COM941,Ship Harbour
+COM942,Sheet Harbour
+COM943,Millbrook First Nation (Sheet Harbour (36))
+COM944,Moser River
+com945,Sable Island
+COM946,Liscomb Game Sanctuary
+COM947,Millbrook First Nation (Beaver Lake (17))
+COM948,Lower Sackville
+DHA1,South Shore Health
+DHA2,South West Health
+DHA3,Annapolis Valley Health
+DHA4,Colchester East Hants Health Authority
+DHA5,Cumberland Health Authority
+DHA6,Pictou County Health Authority
+DHA7,Guysborough Antigonish Strait Health Authority
+DHA8,Cape Breton District Health Authority
+DHA9,Capital Health
+DHZ1,District Health Zone 1
+DHZ2,District Health Zone 2
+DHZ3,District Health Zone 3
+DHZ4,District Health Zone 4
+DHZ5,District Health Zone 5
+DHZ6,District Health Zone 6
+ECR21,Cape Breton
+ECR22,North Shore
+ECR23,Annapolis Valley
+ECR24,Southern
+ECR25,Halifax
+FED12001,Cape Breton - Canso
+FED12002,Central Nova
+FED12003,Dartmouth - Cole Harbour
+FED12004,Halifax
+FED12005,Halifax West
+FED12006,Kings - Hants
+FED12007,Cumberland - Colchester - Musquodoboit Valley
+FED12008,Sackville - Eastern Shore
+FED12009,South Shore - St. Margaret''s
+FED12010,Sydney - Victoria
+FED12011,West Nova
+HRM1,HRM1
+HRM2,HRM2
+HRM3,HRM3
+HRM4,HRM4
+HRM5,HRM5
+HRM6,HRM6
+HRM7,HRM7
+HRM8,HRM8
+HRM9,HRM9
+JPD1,Amherst
+JPD10,Pictou County
+JPD16,Richmond County
+JPD18,Cape Breton Regional Municipality
+JPD2,Annapolis Royal
+JPD23,Kentville
+JPD43,Springhill
+JPD44,Stellarton
+JPD52,Truro
+JPD54,Westville
+JPD58,New Glasgow
+JPD6,Bridgewater
+JPD7,Eskasoni
+JPD702,Barrington Municipality
+JPD703,Annapolis County
+JPD704,Lunenburg County
+JPD709,Digby Municipality
+JPD711,Digby
+JPD712,Parrsboro
+JPD720,Kings County
+JPD723,Queens County
+JPD726,Meteghan
+JPD736,Shelburne Municipality
+JPD744,Windsor
+JPD745,West Hants
+JPD747,Yarmouth County
+JPD750,Cumberland County
+JPD751,Antigonish County
+JPD752,Antigonish
+JPD760,Guysborough County
+JPD776,Pictou
+JPD782,Enfield
+JPD802,Victoria County
+JPD813,Inverness County
+JPD821,Port Hawkesbury
+JPD833,Oxford
+JPD834,Yarmouth
+JPD836,Shelburne
+JPD849,Indian Brook
+JPD850,Millbrook
+JPD9,Colchester County
+JPD999,Halifax Regional Municipality (HRPS/RCMP)
+JUC1,Bridgewater
+JUC10,Port Hawkesbury
+JUC11,Sydney
+JUC2,Yarmouth
+JUC3,Digby
+JUC4,Kentville
+JUC5,Halifax
+JUC6,Truro
+JUC7,Amherst
+JUC8,New Glasgow
+JUC9,Antigonish
+MED1701,CBRM (District 1)
+MED1702,CBRM (District 2)
+MED1703,CBRM (District 3)
+MED1704,CBRM (District 4)
+MED1705,CBRM (District 5)
+MED1706,CBRM (District 6)
+MED1707,CBRM (District 7)
+MED1708,CBRM (District 8)
+MED1709,CBRM (District 9)
+MED1710,CBRM (District 10)
+MED1711,CBRM (District 11)
+MED1712,CBRM (District 12)
+MED401,RQM (DISTRICT 1)
+MED402,RQM (DISTRICT 2)
+MED403,RQM (DISTRICT 3)
+MED404,RQM (DISTRICT 4)
+MED405,RQM (DISTRICT 5)
+MED406,RQM (DISTRICT 6)
+MED407,RQM (DISTRICT 7)
+MED701,KINGS (District 1)
+MED702,KINGS (District 2)
+MED703,KINGS (District 3)
+MED704,KINGS (District 4)
+MED705,KINGS (District 5)
+MED706,KINGS (District 6)
+MED708,KINGS (District 8)
+MED709,KINGS (District 9)
+MED710,KINGS (District 10)
+MED711,KINGS (District 11)
+MED712,KINGS (District 12)
+MED799,KINGS (Not part of KINGS)
+MED901,HRM (Waverley - Fall River - Musquodoboit Valley)
+MED902,HRM (Preston - Porters Lake - Eastern Shore)
+MED903,HRM (Woodside - Dartmouth South - Eastern Passage)
+MED904,HRM (Cole Harbour - Westphal)
+MED905,HRM (Dartmouth Centre)
+MED906,HRM (Harbourview - Burnside - Dartmouth East)
+MED907,HRM (Peninsula South - Downtown)
+MED908,HRM (Peninsula North)
+MED909,HRM (Peninsula West - Armdale)
+MED910,HRM (Birch Cove - Rockingham - Fairview)
+MED911,HRM (Spryfield - Sambro - Prospect Road)
+MED912,HRM (Timberlea - Beechville - Clayton Park West)
+MED913,HRM (Hammonds Plains - St. Margarets)
+MED914,HRM (Upper/Middle Sackville - Beaver Bank)
+MED915,HRM (Lower Sackville)
+MED916,HRM (Bedford - Wentworth)
+MPD1,Eastern Shore - Musquodoboit Valley
+MPD10,Clayton Park West
+MPD11,Halifax North End
+MPD12,Halifax Downtown
+MPD13,Northwest Arm - South End
+MPD14,Connaught - Quinpool
+MPD15,Fairview - Clayton Park
+MPD16,Rockingham - Wentworth
+MPD17,Purcell's Cove - Armdale
+MPD18,Spryfield - Herring Cove
+MPD19,Middle & Upper Sackville - Lucasville
+MPD2,Waverley - Fall River - Beaver Bank
+MPD20,Lower Sackville
+MPD21,Bedford
+MPD22,Timberlea - Prospect
+MPD23,Hammond's Plains - St. Margarets
+MPD3,Preston - Lawrencetown - Chezzetcook
+MPD4,Cole Harbour
+MPD5,Dartmouth Centre
+MPD6,East Dartmouth - The Lakes
+MPD7,Portland - East Woodlawn
+MPD8,Woodside - Eastern Passage
+MPD9,Albro Lake - Harbourview
+MUN101,Town of Stewiacke
+MUN102,Town of Truro
+MUN103,County of Colchester
+MUN11,Town of Clark's Harbour
+MUN111,Town of Amherst
+MUN112,Town of Oxford
+MUN113,Town of Parrsboro
+MUN114,Town of Springhill
+MUN115,County of Cumberland
+MUN12,Town of Lockeport
+MUN121,Town of New Glasgow
+MUN122,Town of Pictou
+MUN123,Town of Stellarton
+MUN124,Town of Trenton
+MUN125,Town of Westville
+MUN126,County of Pictou
+MUN13,Town of Shelburne
+MUN132,Town of Mulgrave
+MUN133,District of Guysborough
+MUN134,District of St. Mary's
+MUN14,District of Barrington
+MUN141,Town of Antigonish
+MUN142,County of Antigonish
+MUN15,District of Shelburne
+MUN151,Town of Port Hawkesbury
+MUN152,County of Inverness
+MUN161,County of Richmond
+MUN171,Cape Breton Regional Municipality
+MUN181,County of Victoria
+MUN21,Town of Yarmouth
+MUN22,District of Argyle
+MUN23,District of Yarmouth
+MUN31,Town of Digby
+MUN32,District of Clare
+MUN33,District of Digby
+MUN41,Region of Queens Municipality
+MUN51,Town of Annapolis Royal
+MUN52,Town of Bridgetown
+MUN53,Town of Middleton
+MUN54,County of Annapolis
+MUN61,Town of Bridgewater
+MUN62,Town of Lunenburg
+MUN63,Town of Mahone Bay
+MUN64,District of Chester
+MUN65,District of Lunenburg
+MUN71,Town of Berwick
+MUN72,Town of Kentville
+MUN73,Town of Wolfville
+MUN74,County of Kings
+MUN81,Town of Hantsport
+MUN82,Town of Windsor
+MUN83,District of East Hants
+MUN84,District of West Hants
+MUN91,Halifax Regional Municipality
+PED1,Annapolis
+PED10,Colchester-Musquodoboit Valley
+PED11,Colchester North
+PED12,Cole Harbour-Eastern Passage
+PED13,Cole Harbour-Portland Valley
+PED14,Cumberland North
+PED15,Cumberland South
+PED16,Dartmouth East
+PED17,Dartmouth North
+PED18,Preston-Dartmouth
+PED19,Dartmouth South
+PED2,Antigonish
+PED20,Guysborough-Eastern Shore-Tracadie
+PED21,Eastern Shore
+PED22,Fairview-Clayton Park
+PED23,Glace Bay
+PED24,Halifax Armdale
+PED25,Halifax Atlantic
+PED26,Halifax Chebucto
+PED27,Halifax Citadel-Sable Island
+PED28,Halifax Needham
+PED29,Hammonds Plains-Lucasville
+PED3,Argyle-Barrington
+PED30,Hants East
+PED31,Hants West
+PED32,Inverness
+PED33,Kings North
+PED34,Kings South
+PED35,Kings West
+PED36,Lunenburg
+PED37,Lunenburg West
+PED38,Northside-Westmount
+PED39,Pictou Centre
+PED4,Bedford
+PED40,Pictou East
+PED41,Pictou West
+PED42,Queens-Shelburne
+PED43,Sackville-Beaverbank
+PED44,Sackville-Cobequid
+PED45,Sydney-Whitney Pier
+PED46,Sydney River-Mira-Louisbourg
+PED47,Timberlea-Prospect
+PED48,Truro-Bible Hill-Millbrook-Salmon River
+PED49,Victoria-The Lakes
+PED5,Cape Breton Centre
+PED50,Waverley-Fall River-Beaver Bank
+PED51,Yarmouth
+ped52,Yarmouth
+PED6,Cape Breton-Richmond
+PED7,Chester-St. Margaret's
+PED8,Clare-Digby
+PED9,Clayton Park West
+PRO9010,Newfoundland and Labrador
+PRO9011,Prince Edward Island
+PRO9012,Nova Scotia
+PRO9013,New Brunswick
+PRO9024,Québec
+PRO9035,Ontario
+PRO9046,Manitoba
+PRO9047,Saskatchewan
+PRO9048,Alberta
+PRO9059,British Columbia
+PRO9060,Yukon Territory
+PRO9061,Northwest Territories
+pro9062,Nunavut
+RDA1,Lunenburg/Queens Regional Development Agency
+RDA10,Strait-Highlands Regional Development Agency
+RDA11,Cape Breton County Economic Development Authority
+RDA12,Guysborough County Regional Development Authority
+RDA13,Greater Halifax Partnership
+RDA3,Annapolis & Digby Economic Development Agency
+RDA4,Kings Regional Development Agency
+RDA5,Hants Regional Development Authority
+RDA6,Colchester Regional Development Agency
+RDA7,Cumberland Regional Economic Development Association
+RDA8,Pictou Regional Development Commission
+RDA9,Antigonish Regional Development Authority
+REG9014,Atlantic Canada
+SBD51,Cape Breton - Victoria Regional School Board
+SBD52,Strait Regional School Board
+SBD53,Chignecto - Central Regional School Board
+SBD54,Halifax Regional School Board
+SBD55,Annapolis Valley Regional School Board
+SBD58,South Shore Regional School Board
+SBD59,Tri County Regional School Board
+SCB51,Cape Breton - Victoria Regional School Board
+SCB52,Strait Regional School Board
+SCB53,Chignecto - Central Regional School Board
+SCB54,Halifax Regional School Board
+SCB55,Annapolis Valley Regional School Board
+SCB58,South Shore Regional School Board
+SCB59,Tri County Regional School Board
+WSP1,Missaguash
+WSP10,Economy
+WSP11,Parrsboro
+WSP12,Kelly/Maccan/Hebert
+WSP13,Tidnish/Shinimicas
+WSP14,Philip/Wallace
+WSP15,River John
+WSP16,East/Middle/West (Pictou)
+WSP17,French
+WSP18,South/West
+WSP19,Tracadie
+WSP2,Meteghan
+WSP20,Tusket River
+WSP21,Barrington/Clyde
+WSP22,Roseway/Sable/Jordan
+WSP23,Mersey
+WSP24,Herring Cove/Medway
+WSP25,Lahave
+WSP26,Gold
+WSP27,East/Indian River
+WSP28,Sackville
+WSP29,Musquodoboit
+WSP3,Sissiboo/Bear
+WSP30,Tangier
+WSP31,East/West  (Sheet Harbour)
+WSP32,Liscomb
+WSP33,St. Marys
+WSP34,Country Harbour
+WSP35,New Harbour/Salmon
+WSP36,Clam Harbour/St. Francis
+WSP37,River Inhabitants
+WSP38,Margaree
+WSP39,Cheticamp River
+WSP4,Annapolis
+WSP40,Wreck Cove
+WSP41,Indian
+WSP42,North/Baddeck/Middle
+WSP43,River Denys/Big
+WSP44,Grand
+WSP45,Salmon/Mira
+WSP46,Isle Madame
+WSP47,Small Island / Shoreline
+WSP5,Gaspereau
+WSP6,St. Croix
+WSP7,Kennetcook
+WSP8,Shubenacadie/Stewiacke
+WSP9,Salmon/Debert

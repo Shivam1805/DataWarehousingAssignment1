@@ -1,0 +1,2 @@
+SELECT location from (SELECT location , count(*) numcrime FROM mydb.crime group by location) as table1 
+where numcrime = (select max(numcrime) from (SELECT location , count(*) numcrime FROM mydb.crime group by location) as table2);

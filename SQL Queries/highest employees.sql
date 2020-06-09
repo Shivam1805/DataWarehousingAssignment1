@@ -1,0 +1,2 @@
+SELECT  TypeOFBusiness, sum(TotalEmployees) employees FROM mydb.business_establishment 
+where Location_comid='cnt1209' and TypeOfBusiness <> 'All Industries' group by typeofbusiness order by employees desc limit 1; 	 	

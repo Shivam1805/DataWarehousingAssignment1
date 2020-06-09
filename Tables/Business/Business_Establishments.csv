@@ -1,0 +1,1954 @@
+﻿ComID,GeogName,Datagroup,Year,total
+pro9046,Manitoba,Retail Trade,2011,6746
+can,Canada,All Industries,2010,2362860
+can,Canada,All Industries,2011,2405323
+cnt1201,Shelburne County,All Industries,2011,1331
+cnt1201,Shelburne County,All Industries,2010,1372
+cnt1202,Yarmouth County,All Industries,2011,2066
+cnt1202,Yarmouth County,All Industries,2010,2072
+cnt1203,Digby County,All Industries,2010,1348
+cnt1203,Digby County,All Industries,2011,1297
+cnt1204,Queens County,All Industries,2010,556
+cnt1204,Queens County,All Industries,2011,543
+cnt1205,Annapolis County,All Industries,2011,1309
+cnt1205,Annapolis County,All Industries,2010,1037
+cnt1206,Lunenburg County,All Industries,2010,3032
+cnt1206,Lunenburg County,All Industries,2011,3069
+cnt1207,Kings County,All Industries,2011,3242
+cnt1207,Kings County,All Industries,2010,3577
+cnt1208,Hants County,All Industries,2010,2043
+cnt1208,Hants County,All Industries,2011,2006
+cnt1209,Halifax County,All Industries,2010,24030
+cnt1209,Halifax County,All Industries,2011,23997
+cnt1210,Colchester County,All Industries,2010,2963
+cnt1210,Colchester County,All Industries,2011,2862
+cnt1211,Cumberland County,All Industries,2010,1644
+cnt1211,Cumberland County,All Industries,2011,1639
+cnt1212,Pictou County,All Industries,2010,2243
+cnt1212,Pictou County,All Industries,2011,2373
+cnt1213,Guysborough County,All Industries,2010,553
+cnt1213,Guysborough County,All Industries,2011,508
+cnt1214,Antigonish County,All Industries,2010,1239
+cnt1214,Antigonish County,All Industries,2011,1262
+cnt1215,Inverness County,All Industries,2011,974
+cnt1215,Inverness County,All Industries,2010,1054
+cnt1216,Richmond County,All Industries,2010,458
+cnt1216,Richmond County,All Industries,2011,437
+cnt1217,Cape Breton County,All Industries,2010,3957
+cnt1217,Cape Breton County,All Industries,2011,3850
+cnt1218,Victoria County,All Industries,2010,884
+cnt1218,Victoria County,All Industries,2011,865
+ecr21,Cape Breton Region,All Industries,2011,6126
+ecr21,Cape Breton Region,All Industries,2010,6353
+ecr22,North Shore Region,All Industries,2010,8642
+ecr22,North Shore Region,All Industries,2011,8644
+ecr23,Annapolis Valley Region,All Industries,2010,6657
+ecr23,Annapolis Valley Region,All Industries,2011,6557
+ecr24,Southern Region,All Industries,2010,8380
+ecr24,Southern Region,All Industries,2011,8306
+ecr25,Halifax Region,All Industries,2011,23997
+ecr25,Halifax Region,All Industries,2010,24030
+pro9010,Newfoundland and Labrador,All Industries,2011,26014
+pro9010,Newfoundland and Labrador,All Industries,2010,25958
+pro9011,Prince Edward Island,All Industries,2010,10324
+pro9011,Prince Edward Island,All Industries,2011,10359
+pro9012,Nova Scotia,All Industries,2010,54115
+pro9012,Nova Scotia,All Industries,2011,53933
+pro9013,New Brunswick,All Industries,2010,42281
+pro9013,New Brunswick,All Industries,2011,41756
+pro9024,Quebec,All Industries,2010,474111
+pro9024,Quebec,All Industries,2011,494673
+pro9035,Ontario,All Industries,2010,880358
+pro9035,Ontario,All Industries,2011,889621
+pro9046,Manitoba,All Industries,2010,76680
+pro9046,Manitoba,All Industries,2011,77458
+pro9047,Saskatchewan,All Industries,2010,94512
+pro9047,Saskatchewan,All Industries,2011,96367
+pro9048,Alberta,All Industries,2010,338462
+pro9048,Alberta,All Industries,2011,340027
+pro9059,British Columbia,All Industries,2010,359786
+pro9059,British Columbia,All Industries,2011,368879
+pro9060,Yukon Territory,All Industries,2011,2955
+pro9060,Yukon Territory,All Industries,2010,2881
+pro9061,Northwest Territories,All Industries,2010,2564
+pro9061,Northwest Territories,All Industries,2011,2465
+pro9062,Nunavut,All Industries,2011,816
+pro9062,Nunavut,All Industries,2010,828
+can,Canada,"Agriculture, Forestry, Fishing and Hunting",2010,0
+can,Canada,"Agriculture, Forestry, Fishing and Hunting",2011,169538
+cnt1201,Shelburne County,"Agriculture, Forestry, Fishing and Hunting",2011,559
+cnt1201,Shelburne County,"Agriculture, Forestry, Fishing and Hunting",2010,549
+cnt1202,Yarmouth County,"Agriculture, Forestry, Fishing and Hunting",2011,615
+cnt1202,Yarmouth County,"Agriculture, Forestry, Fishing and Hunting",2010,599
+cnt1203,Digby County,"Agriculture, Forestry, Fishing and Hunting",2010,343
+cnt1203,Digby County,"Agriculture, Forestry, Fishing and Hunting",2011,337
+cnt1204,Queens County,"Agriculture, Forestry, Fishing and Hunting",2010,76
+cnt1204,Queens County,"Agriculture, Forestry, Fishing and Hunting",2011,75
+cnt1205,Annapolis County,"Agriculture, Forestry, Fishing and Hunting",2011,161
+cnt1205,Annapolis County,"Agriculture, Forestry, Fishing and Hunting",2010,137
+cnt1206,Lunenburg County,"Agriculture, Forestry, Fishing and Hunting",2010,281
+cnt1206,Lunenburg County,"Agriculture, Forestry, Fishing and Hunting",2011,308
+cnt1207,Kings County,"Agriculture, Forestry, Fishing and Hunting",2011,403
+cnt1207,Kings County,"Agriculture, Forestry, Fishing and Hunting",2010,424
+cnt1208,Hants County,"Agriculture, Forestry, Fishing and Hunting",2010,211
+cnt1208,Hants County,"Agriculture, Forestry, Fishing and Hunting",2011,213
+cnt1209,Halifax County,"Agriculture, Forestry, Fishing and Hunting",2010,287
+cnt1209,Halifax County,"Agriculture, Forestry, Fishing and Hunting",2011,321
+cnt1210,Colchester County,"Agriculture, Forestry, Fishing and Hunting",2010,287
+cnt1210,Colchester County,"Agriculture, Forestry, Fishing and Hunting",2011,287
+cnt1211,Cumberland County,"Agriculture, Forestry, Fishing and Hunting",2010,245
+cnt1211,Cumberland County,"Agriculture, Forestry, Fishing and Hunting",2011,261
+cnt1212,Pictou County,"Agriculture, Forestry, Fishing and Hunting",2010,273
+cnt1212,Pictou County,"Agriculture, Forestry, Fishing and Hunting",2011,300
+cnt1213,Guysborough County,"Agriculture, Forestry, Fishing and Hunting",2010,179
+cnt1213,Guysborough County,"Agriculture, Forestry, Fishing and Hunting",2011,162
+cnt1214,Antigonish County,"Agriculture, Forestry, Fishing and Hunting",2010,229
+cnt1214,Antigonish County,"Agriculture, Forestry, Fishing and Hunting",2011,235
+cnt1215,Inverness County,"Agriculture, Forestry, Fishing and Hunting",2011,244
+cnt1215,Inverness County,"Agriculture, Forestry, Fishing and Hunting",2010,241
+cnt1216,Richmond County,"Agriculture, Forestry, Fishing and Hunting",2010,84
+cnt1216,Richmond County,"Agriculture, Forestry, Fishing and Hunting",2011,71
+cnt1217,Cape Breton County,"Agriculture, Forestry, Fishing and Hunting",2010,306
+cnt1218,Victoria County,Construction,2010,59
+cnt1217,Cape Breton County,"Agriculture, Forestry, Fishing and Hunting",2011,298
+cnt1218,Victoria County,"Agriculture, Forestry, Fishing and Hunting",2010,253
+cnt1218,Victoria County,"Agriculture, Forestry, Fishing and Hunting",2011,261
+ecr21,Cape Breton Region,"Agriculture, Forestry, Fishing and Hunting",2011,874
+ecr21,Cape Breton Region,"Agriculture, Forestry, Fishing and Hunting",2010,884
+ecr22,North Shore Region,"Agriculture, Forestry, Fishing and Hunting",2010,1213
+ecr22,North Shore Region,"Agriculture, Forestry, Fishing and Hunting",2011,1245
+ecr23,Annapolis Valley Region,"Agriculture, Forestry, Fishing and Hunting",2010,772
+ecr23,Annapolis Valley Region,"Agriculture, Forestry, Fishing and Hunting",2011,777
+ecr24,Southern Region,"Agriculture, Forestry, Fishing and Hunting",2010,1848
+ecr24,Southern Region,"Agriculture, Forestry, Fishing and Hunting",2011,1894
+ecr25,Halifax Region,"Agriculture, Forestry, Fishing and Hunting",2011,321
+ecr25,Halifax Region,"Agriculture, Forestry, Fishing and Hunting",2010,287
+pro9010,Newfoundland and Labrador,"Agriculture, Forestry, Fishing and Hunting",2011,1562
+pro9010,Newfoundland and Labrador,"Agriculture, Forestry, Fishing and Hunting",2010,0
+pro9011,Prince Edward Island,"Agriculture, Forestry, Fishing and Hunting",2010,0
+pro9011,Prince Edward Island,"Agriculture, Forestry, Fishing and Hunting",2011,2224
+pro9012,Nova Scotia,"Agriculture, Forestry, Fishing and Hunting",2010,5008
+pro9012,Nova Scotia,"Agriculture, Forestry, Fishing and Hunting",2011,5129
+pro9013,New Brunswick,"Agriculture, Forestry, Fishing and Hunting",2010,0
+pro9013,New Brunswick,"Agriculture, Forestry, Fishing and Hunting",2011,3828
+pro9024,Quebec,"Agriculture, Forestry, Fishing and Hunting",2010,0
+pro9024,Quebec,"Agriculture, Forestry, Fishing and Hunting",2011,28533
+pro9035,Ontario,"Agriculture, Forestry, Fishing and Hunting",2010,0
+pro9035,Ontario,"Agriculture, Forestry, Fishing and Hunting",2011,34838
+pro9046,Manitoba,"Agriculture, Forestry, Fishing and Hunting",2010,0
+pro9046,Manitoba,"Agriculture, Forestry, Fishing and Hunting",2011,13908
+pro9047,Saskatchewan,"Agriculture, Forestry, Fishing and Hunting",2010,0
+pro9047,Saskatchewan,"Agriculture, Forestry, Fishing and Hunting",2011,31705
+pro9048,Alberta,"Agriculture, Forestry, Fishing and Hunting",2010,0
+pro9048,Alberta,"Agriculture, Forestry, Fishing and Hunting",2011,32236
+pro9059,British Columbia,"Agriculture, Forestry, Fishing and Hunting",2010,0
+pro9059,British Columbia,"Agriculture, Forestry, Fishing and Hunting",2011,15499
+pro9060,Yukon Territory,"Agriculture, Forestry, Fishing and Hunting",2011,44
+pro9060,Yukon Territory,"Agriculture, Forestry, Fishing and Hunting",2010,0
+cnt1213,Guysborough County,"Mining, Quarrying, and Oil and Gas Extraction",2010,3
+pro9061,Northwest Territories,"Agriculture, Forestry, Fishing and Hunting",2010,0
+pro9061,Northwest Territories,"Agriculture, Forestry, Fishing and Hunting",2011,25
+pro9062,Nunavut,"Agriculture, Forestry, Fishing and Hunting",2011,7
+pro9062,Nunavut,"Agriculture, Forestry, Fishing and Hunting",2010,0
+can,Canada,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+can,Canada,"Mining, Quarrying, and Oil and Gas Extraction",2011,18089
+cnt1201,Shelburne County,"Mining, Quarrying, and Oil and Gas Extraction",2011,0
+cnt1201,Shelburne County,"Mining, Quarrying, and Oil and Gas Extraction",2010,2
+cnt1202,Yarmouth County,"Mining, Quarrying, and Oil and Gas Extraction",2011,2
+cnt1202,Yarmouth County,"Mining, Quarrying, and Oil and Gas Extraction",2010,2
+cnt1203,Digby County,"Mining, Quarrying, and Oil and Gas Extraction",2010,1
+cnt1203,Digby County,"Mining, Quarrying, and Oil and Gas Extraction",2011,1
+cnt1204,Queens County,"Mining, Quarrying, and Oil and Gas Extraction",2010,1
+cnt1204,Queens County,"Mining, Quarrying, and Oil and Gas Extraction",2011,1
+cnt1205,Annapolis County,"Mining, Quarrying, and Oil and Gas Extraction",2011,8
+cnt1205,Annapolis County,"Mining, Quarrying, and Oil and Gas Extraction",2010,9
+cnt1206,Lunenburg County,"Mining, Quarrying, and Oil and Gas Extraction",2010,7
+cnt1206,Lunenburg County,"Mining, Quarrying, and Oil and Gas Extraction",2011,7
+cnt1207,Kings County,"Mining, Quarrying, and Oil and Gas Extraction",2011,7
+cnt1207,Kings County,"Mining, Quarrying, and Oil and Gas Extraction",2010,7
+cnt1208,Hants County,"Mining, Quarrying, and Oil and Gas Extraction",2010,7
+cnt1208,Hants County,"Mining, Quarrying, and Oil and Gas Extraction",2011,8
+cnt1209,Halifax County,"Mining, Quarrying, and Oil and Gas Extraction",2010,89
+cnt1209,Halifax County,"Mining, Quarrying, and Oil and Gas Extraction",2011,85
+cnt1210,Colchester County,"Mining, Quarrying, and Oil and Gas Extraction",2010,7
+cnt1210,Colchester County,"Mining, Quarrying, and Oil and Gas Extraction",2011,5
+cnt1211,Cumberland County,"Mining, Quarrying, and Oil and Gas Extraction",2010,5
+cnt1211,Cumberland County,"Mining, Quarrying, and Oil and Gas Extraction",2011,5
+cnt1212,Pictou County,"Mining, Quarrying, and Oil and Gas Extraction",2010,8
+cnt1212,Pictou County,"Mining, Quarrying, and Oil and Gas Extraction",2011,8
+ecr25,Halifax Region,Utilities,2010,27
+cnt1213,Guysborough County,"Mining, Quarrying, and Oil and Gas Extraction",2011,3
+cnt1214,Antigonish County,"Mining, Quarrying, and Oil and Gas Extraction",2010,7
+cnt1214,Antigonish County,"Mining, Quarrying, and Oil and Gas Extraction",2011,8
+cnt1215,Inverness County,"Mining, Quarrying, and Oil and Gas Extraction",2011,4
+cnt1215,Inverness County,"Mining, Quarrying, and Oil and Gas Extraction",2010,4
+cnt1216,Richmond County,"Mining, Quarrying, and Oil and Gas Extraction",2010,1
+cnt1216,Richmond County,"Mining, Quarrying, and Oil and Gas Extraction",2011,1
+cnt1217,Cape Breton County,"Mining, Quarrying, and Oil and Gas Extraction",2010,12
+cnt1217,Cape Breton County,"Mining, Quarrying, and Oil and Gas Extraction",2011,8
+pro9059,British Columbia,"Mining, Quarrying, and Oil and Gas Extraction",2011,2151
+cnt1218,Victoria County,"Mining, Quarrying, and Oil and Gas Extraction",2010,1
+cnt1218,Victoria County,"Mining, Quarrying, and Oil and Gas Extraction",2011,1
+ecr21,Cape Breton Region,"Mining, Quarrying, and Oil and Gas Extraction",2011,14
+ecr21,Cape Breton Region,"Mining, Quarrying, and Oil and Gas Extraction",2010,18
+ecr22,North Shore Region,"Mining, Quarrying, and Oil and Gas Extraction",2010,30
+ecr22,North Shore Region,"Mining, Quarrying, and Oil and Gas Extraction",2011,29
+ecr23,Annapolis Valley Region,"Mining, Quarrying, and Oil and Gas Extraction",2010,23
+ecr23,Annapolis Valley Region,"Mining, Quarrying, and Oil and Gas Extraction",2011,23
+ecr24,Southern Region,"Mining, Quarrying, and Oil and Gas Extraction",2010,13
+ecr24,Southern Region,"Mining, Quarrying, and Oil and Gas Extraction",2011,11
+ecr25,Halifax Region,"Mining, Quarrying, and Oil and Gas Extraction",2011,85
+ecr25,Halifax Region,"Mining, Quarrying, and Oil and Gas Extraction",2010,89
+cnt1204,Queens County,Utilities,2011,2
+pro9010,Newfoundland and Labrador,"Mining, Quarrying, and Oil and Gas Extraction",2011,109
+pro9010,Newfoundland and Labrador,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9011,Prince Edward Island,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9011,Prince Edward Island,"Mining, Quarrying, and Oil and Gas Extraction",2011,6
+pro9012,Nova Scotia,"Mining, Quarrying, and Oil and Gas Extraction",2010,173
+pro9012,Nova Scotia,"Mining, Quarrying, and Oil and Gas Extraction",2011,163
+pro9013,New Brunswick,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9013,New Brunswick,"Mining, Quarrying, and Oil and Gas Extraction",2011,94
+pro9024,Quebec,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9024,Quebec,"Mining, Quarrying, and Oil and Gas Extraction",2011,706
+pro9035,Ontario,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9035,Ontario,"Mining, Quarrying, and Oil and Gas Extraction",2011,1341
+pro9046,Manitoba,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9046,Manitoba,"Mining, Quarrying, and Oil and Gas Extraction",2011,223
+pro9047,Saskatchewan,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9047,Saskatchewan,"Mining, Quarrying, and Oil and Gas Extraction",2011,1642
+pro9048,Alberta,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9048,Alberta,"Mining, Quarrying, and Oil and Gas Extraction",2011,11531
+pro9059,British Columbia,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9060,Yukon Territory,"Mining, Quarrying, and Oil and Gas Extraction",2011,91
+pro9060,Yukon Territory,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9061,Northwest Territories,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+pro9061,Northwest Territories,"Mining, Quarrying, and Oil and Gas Extraction",2011,31
+pro9062,Nunavut,"Mining, Quarrying, and Oil and Gas Extraction",2011,1
+pro9062,Nunavut,"Mining, Quarrying, and Oil and Gas Extraction",2010,0
+can,Canada,Utilities,2010,0
+can,Canada,Utilities,2011,2359
+cnt1201,Shelburne County,Utilities,2011,0
+cnt1201,Shelburne County,Utilities,2010,0
+cnt1202,Yarmouth County,Utilities,2011,1
+cnt1202,Yarmouth County,Utilities,2010,0
+cnt1203,Digby County,Utilities,2010,0
+cnt1203,Digby County,Utilities,2011,0
+cnt1204,Queens County,Utilities,2010,2
+cnt1205,Annapolis County,Utilities,2011,1
+cnt1205,Annapolis County,Utilities,2010,1
+cnt1206,Lunenburg County,Utilities,2010,2
+cnt1206,Lunenburg County,Utilities,2011,3
+cnt1207,Kings County,Utilities,2011,1
+cnt1207,Kings County,Utilities,2010,1
+cnt1208,Hants County,Utilities,2010,2
+cnt1208,Hants County,Utilities,2011,1
+cnt1209,Halifax County,Utilities,2010,27
+cnt1209,Halifax County,Utilities,2011,23
+cnt1210,Colchester County,Utilities,2010,4
+cnt1210,Colchester County,Utilities,2011,2
+cnt1211,Cumberland County,Utilities,2010,1
+cnt1211,Cumberland County,Utilities,2011,1
+cnt1212,Pictou County,Utilities,2010,2
+cnt1212,Pictou County,Utilities,2011,4
+cnt1213,Guysborough County,Utilities,2010,2
+cnt1213,Guysborough County,Utilities,2011,1
+cnt1214,Antigonish County,Utilities,2010,2
+cnt1214,Antigonish County,Utilities,2011,1
+cnt1215,Inverness County,Utilities,2011,2
+cnt1215,Inverness County,Utilities,2010,4
+cnt1216,Richmond County,Utilities,2010,0
+cnt1216,Richmond County,Utilities,2011,0
+cnt1217,Cape Breton County,Utilities,2010,8
+cnt1217,Cape Breton County,Utilities,2011,8
+cnt1218,Victoria County,Utilities,2010,0
+cnt1218,Victoria County,Utilities,2011,0
+ecr21,Cape Breton Region,Utilities,2011,10
+ecr21,Cape Breton Region,Utilities,2010,12
+ecr22,North Shore Region,Utilities,2010,11
+ecr22,North Shore Region,Utilities,2011,9
+ecr23,Annapolis Valley Region,Utilities,2010,4
+ecr23,Annapolis Valley Region,Utilities,2011,3
+ecr24,Southern Region,Utilities,2010,4
+ecr24,Southern Region,Utilities,2011,6
+ecr25,Halifax Region,Utilities,2011,23
+pro9010,Newfoundland and Labrador,Utilities,2011,44
+pro9010,Newfoundland and Labrador,Utilities,2010,0
+pro9011,Prince Edward Island,Utilities,2010,0
+pro9011,Prince Edward Island,Utilities,2011,12
+pro9012,Nova Scotia,Utilities,2010,58
+pro9012,Nova Scotia,Utilities,2011,54
+pro9013,New Brunswick,Utilities,2010,0
+pro9013,New Brunswick,Utilities,2011,54
+pro9024,Quebec,Utilities,2010,0
+pro9024,Quebec,Utilities,2011,287
+pro9035,Ontario,Utilities,2010,0
+pro9035,Ontario,Utilities,2011,876
+pro9046,Manitoba,Utilities,2010,0
+pro9046,Manitoba,Utilities,2011,62
+pro9047,Saskatchewan,Utilities,2010,0
+pro9047,Saskatchewan,Utilities,2011,78
+pro9048,Alberta,Utilities,2010,0
+pro9048,Alberta,Utilities,2011,507
+pro9059,British Columbia,Utilities,2010,0
+pro9059,British Columbia,Utilities,2011,365
+pro9060,Yukon Territory,Utilities,2011,4
+pro9060,Yukon Territory,Utilities,2010,0
+pro9061,Northwest Territories,Utilities,2010,0
+pro9061,Northwest Territories,Utilities,2011,14
+pro9062,Nunavut,Utilities,2011,2
+pro9062,Nunavut,Utilities,2010,0
+can,Canada,Construction,2010,0
+can,Canada,Construction,2011,276942
+cnt1201,Shelburne County,Construction,2011,81
+cnt1201,Shelburne County,Construction,2010,85
+cnt1202,Yarmouth County,Construction,2011,145
+cnt1202,Yarmouth County,Construction,2010,147
+cnt1203,Digby County,Construction,2010,138
+ecr23,Annapolis Valley Region,Construction,2010,956
+cnt1203,Digby County,Construction,2011,137
+cnt1204,Queens County,Construction,2010,65
+cnt1204,Queens County,Construction,2011,64
+cnt1205,Annapolis County,Construction,2011,185
+cnt1205,Annapolis County,Construction,2010,127
+cnt1206,Lunenburg County,Construction,2010,444
+cnt1206,Lunenburg County,Construction,2011,457
+cnt1207,Kings County,Construction,2011,413
+cnt1207,Kings County,Construction,2010,445
+cnt1208,Hants County,Construction,2010,384
+cnt1208,Hants County,Construction,2011,389
+cnt1209,Halifax County,Construction,2010,2749
+cnt1209,Halifax County,Construction,2011,2748
+cnt1210,Colchester County,Construction,2010,326
+cnt1210,Colchester County,Construction,2011,312
+cnt1211,Cumberland County,Construction,2010,167
+cnt1211,Cumberland County,Construction,2011,166
+cnt1212,Pictou County,Construction,2010,266
+cnt1212,Pictou County,Construction,2011,283
+cnt1213,Guysborough County,Construction,2010,54
+cnt1213,Guysborough County,Construction,2011,50
+cnt1214,Antigonish County,Construction,2010,125
+cnt1214,Antigonish County,Construction,2011,131
+cnt1215,Inverness County,Construction,2011,92
+cnt1215,Inverness County,Construction,2010,99
+cnt1216,Richmond County,Construction,2010,55
+cnt1216,Richmond County,Construction,2011,59
+cnt1217,Cape Breton County,Construction,2010,383
+cnt1217,Cape Breton County,Construction,2011,406
+cnt1218,Victoria County,Construction,2011,59
+ecr21,Cape Breton Region,Construction,2011,616
+ecr21,Cape Breton Region,Construction,2010,596
+ecr22,North Shore Region,Construction,2010,938
+ecr22,North Shore Region,Construction,2011,942
+ecr23,Annapolis Valley Region,Construction,2011,987
+ecr24,Southern Region,Construction,2010,879
+ecr24,Southern Region,Construction,2011,884
+ecr25,Halifax Region,Construction,2011,2748
+ecr25,Halifax Region,Construction,2010,2749
+pro9010,Newfoundland and Labrador,Construction,2011,2957
+pro9010,Newfoundland and Labrador,Construction,2010,0
+pro9011,Prince Edward Island,Construction,2010,0
+pro9011,Prince Edward Island,Construction,2011,1082
+pro9012,Nova Scotia,Construction,2010,6123
+pro9012,Nova Scotia,Construction,2011,6198
+pro9013,New Brunswick,Construction,2010,0
+pro9013,New Brunswick,Construction,2011,4875
+pro9024,Quebec,Construction,2010,0
+pro9024,Quebec,Construction,2011,46782
+pro9035,Ontario,Construction,2010,0
+pro9035,Ontario,Construction,2011,101765
+pro9046,Manitoba,Construction,2010,0
+pro9046,Manitoba,Construction,2011,8020
+pro9047,Saskatchewan,Construction,2010,0
+pro9047,Saskatchewan,Construction,2011,8663
+pro9048,Alberta,Construction,2010,0
+pro9048,Alberta,Construction,2011,44557
+pro9059,British Columbia,Construction,2010,0
+pro9059,British Columbia,Construction,2011,51237
+pro9060,Yukon Territory,Construction,2011,444
+pro9060,Yukon Territory,Construction,2010,0
+pro9061,Northwest Territories,Construction,2010,0
+pro9061,Northwest Territories,Construction,2011,297
+pro9062,Nunavut,Construction,2011,65
+pro9062,Nunavut,Construction,2010,0
+can,Canada,Manufacturing,2010,0
+can,Canada,Manufacturing,2011,78912
+cnt1201,Shelburne County,Manufacturing,2011,126
+cnt1201,Shelburne County,Manufacturing,2010,136
+cnt1202,Yarmouth County,Manufacturing,2011,98
+cnt1202,Yarmouth County,Manufacturing,2010,106
+cnt1203,Digby County,Manufacturing,2010,89
+cnt1203,Digby County,Manufacturing,2011,73
+cnt1204,Queens County,Manufacturing,2010,29
+cnt1204,Queens County,Manufacturing,2011,27
+cnt1205,Annapolis County,Manufacturing,2011,46
+cnt1205,Annapolis County,Manufacturing,2010,41
+cnt1206,Lunenburg County,Manufacturing,2010,136
+cnt1206,Lunenburg County,Manufacturing,2011,126
+cnt1207,Kings County,Manufacturing,2011,83
+cnt1207,Kings County,Manufacturing,2010,96
+cnt1208,Hants County,Manufacturing,2010,83
+cnt1208,Hants County,Manufacturing,2011,70
+cnt1209,Halifax County,Manufacturing,2010,553
+cnt1209,Halifax County,Manufacturing,2011,498
+cnt1210,Colchester County,Manufacturing,2010,112
+cnt1210,Colchester County,Manufacturing,2011,90
+cnt1211,Cumberland County,Manufacturing,2010,59
+cnt1211,Cumberland County,Manufacturing,2011,51
+cnt1212,Pictou County,Manufacturing,2010,82
+cnt1212,Pictou County,Manufacturing,2011,83
+cnt1213,Guysborough County,Manufacturing,2010,22
+cnt1213,Guysborough County,Manufacturing,2011,20
+cnt1214,Antigonish County,Manufacturing,2010,34
+cnt1214,Antigonish County,Manufacturing,2011,28
+cnt1215,Inverness County,Manufacturing,2011,19
+cnt1215,Inverness County,Manufacturing,2010,24
+cnt1216,Richmond County,Manufacturing,2010,20
+cnt1216,Richmond County,Manufacturing,2011,19
+cnt1217,Cape Breton County,Manufacturing,2010,106
+cnt1217,Cape Breton County,Manufacturing,2011,85
+cnt1218,Victoria County,Manufacturing,2010,34
+cnt1218,Victoria County,Manufacturing,2011,33
+ecr21,Cape Breton Region,Manufacturing,2011,156
+ecr21,Cape Breton Region,Manufacturing,2010,184
+ecr22,North Shore Region,Manufacturing,2010,309
+ecr22,North Shore Region,Manufacturing,2011,272
+ecr23,Annapolis Valley Region,Manufacturing,2010,220
+ecr23,Annapolis Valley Region,Manufacturing,2011,199
+ecr24,Southern Region,Manufacturing,2010,496
+ecr24,Southern Region,Manufacturing,2011,450
+ecr25,Halifax Region,Manufacturing,2011,498
+ecr25,Halifax Region,Manufacturing,2010,553
+pro9010,Newfoundland and Labrador,Manufacturing,2011,661
+pro9010,Newfoundland and Labrador,Manufacturing,2010,0
+pro9011,Prince Edward Island,Manufacturing,2010,0
+pro9011,Prince Edward Island,Manufacturing,2011,313
+pro9012,Nova Scotia,Manufacturing,2010,1765
+pro9012,Nova Scotia,Manufacturing,2011,1589
+pro9013,New Brunswick,Manufacturing,2010,0
+pro9013,New Brunswick,Manufacturing,2011,1266
+pro9024,Quebec,Manufacturing,2010,0
+pro9024,Quebec,Manufacturing,2011,20950
+pro9035,Ontario,Manufacturing,2010,0
+pro9035,Ontario,Manufacturing,2011,31274
+pro9046,Manitoba,Manufacturing,2010,0
+pro9046,Manitoba,Manufacturing,2011,2161
+pro9047,Saskatchewan,Manufacturing,2010,0
+pro9047,Saskatchewan,Manufacturing,2011,1682
+pro9048,Alberta,Manufacturing,2010,0
+pro9048,Alberta,Manufacturing,2011,7661
+pro9059,British Columbia,Manufacturing,2010,0
+pro9059,British Columbia,Manufacturing,2011,11287
+pro9060,Yukon Territory,Manufacturing,2011,44
+pro9060,Yukon Territory,Manufacturing,2010,0
+pro9061,Northwest Territories,Manufacturing,2010,0
+pro9061,Northwest Territories,Manufacturing,2011,14
+pro9062,Nunavut,Manufacturing,2011,10
+pro9062,Nunavut,Manufacturing,2010,0
+can,Canada,Wholesale Trade,2010,0
+can,Canada,Wholesale Trade,2011,102569
+cnt1201,Shelburne County,Wholesale Trade,2011,69
+cnt1201,Shelburne County,Wholesale Trade,2010,68
+cnt1202,Yarmouth County,Wholesale Trade,2011,100
+cnt1202,Yarmouth County,Wholesale Trade,2010,101
+cnt1203,Digby County,Wholesale Trade,2010,49
+cnt1203,Digby County,Wholesale Trade,2011,44
+cnt1204,Queens County,Wholesale Trade,2010,18
+cnt1204,Queens County,Wholesale Trade,2011,20
+cnt1205,Annapolis County,Wholesale Trade,2011,44
+cnt1205,Annapolis County,Wholesale Trade,2010,34
+cnt1206,Lunenburg County,Wholesale Trade,2010,122
+cnt1206,Lunenburg County,Wholesale Trade,2011,115
+cnt1207,Kings County,Wholesale Trade,2011,125
+cnt1207,Kings County,Wholesale Trade,2010,145
+cnt1208,Hants County,Wholesale Trade,2010,58
+cnt1208,Hants County,Wholesale Trade,2011,57
+cnt1209,Halifax County,Wholesale Trade,2010,1244
+cnt1209,Halifax County,Wholesale Trade,2011,1133
+cnt1210,Colchester County,Wholesale Trade,2010,164
+cnt1210,Colchester County,Wholesale Trade,2011,146
+cnt1211,Cumberland County,Wholesale Trade,2010,79
+cnt1211,Cumberland County,Wholesale Trade,2011,71
+cnt1212,Pictou County,Wholesale Trade,2010,83
+cnt1212,Pictou County,Wholesale Trade,2011,82
+cnt1213,Guysborough County,Wholesale Trade,2010,21
+cnt1213,Guysborough County,Wholesale Trade,2011,16
+cnt1214,Antigonish County,Wholesale Trade,2010,31
+cnt1214,Antigonish County,Wholesale Trade,2011,30
+cnt1215,Inverness County,Wholesale Trade,2011,19
+cnt1215,Inverness County,Wholesale Trade,2010,21
+cnt1216,Richmond County,Wholesale Trade,2010,12
+cnt1216,Richmond County,Wholesale Trade,2011,13
+cnt1217,Cape Breton County,Wholesale Trade,2010,146
+cnt1217,Cape Breton County,Wholesale Trade,2011,142
+cnt1218,Victoria County,Wholesale Trade,2010,19
+cnt1218,Victoria County,Wholesale Trade,2011,19
+ecr21,Cape Breton Region,Wholesale Trade,2011,193
+ecr21,Cape Breton Region,Wholesale Trade,2010,198
+ecr22,North Shore Region,Wholesale Trade,2010,378
+ecr22,North Shore Region,Wholesale Trade,2011,345
+ecr23,Annapolis Valley Region,Wholesale Trade,2010,237
+ecr23,Annapolis Valley Region,Wholesale Trade,2011,226
+ecr24,Southern Region,Wholesale Trade,2010,358
+ecr24,Southern Region,Wholesale Trade,2011,348
+ecr25,Halifax Region,Wholesale Trade,2011,1133
+ecr25,Halifax Region,Wholesale Trade,2010,1244
+pro9010,Newfoundland and Labrador,Wholesale Trade,2011,1016
+pro9010,Newfoundland and Labrador,Wholesale Trade,2010,0
+pro9011,Prince Edward Island,Wholesale Trade,2010,0
+pro9011,Prince Edward Island,Wholesale Trade,2011,281
+pro9012,Nova Scotia,Wholesale Trade,2010,2418
+pro9012,Nova Scotia,Wholesale Trade,2011,2259
+pro9013,New Brunswick,Wholesale Trade,2010,0
+pro9013,New Brunswick,Wholesale Trade,2011,1680
+pro9024,Quebec,Wholesale Trade,2010,0
+pro9024,Quebec,Wholesale Trade,2011,23573
+pro9035,Ontario,Wholesale Trade,2010,0
+pro9035,Ontario,Wholesale Trade,2011,39781
+pro9046,Manitoba,Wholesale Trade,2010,0
+pro9046,Manitoba,Wholesale Trade,2011,3167
+pro9047,Saskatchewan,Wholesale Trade,2010,0
+pro9047,Saskatchewan,Wholesale Trade,2011,3132
+pro9048,Alberta,Wholesale Trade,2010,0
+pro9048,Alberta,Wholesale Trade,2011,11730
+pro9059,British Columbia,Wholesale Trade,2010,0
+pro9059,British Columbia,Wholesale Trade,2011,15812
+pro9060,Yukon Territory,Wholesale Trade,2011,53
+pro9060,Yukon Territory,Wholesale Trade,2010,0
+pro9061,Northwest Territories,Wholesale Trade,2010,0
+pro9061,Northwest Territories,Wholesale Trade,2011,70
+pro9062,Nunavut,Wholesale Trade,2011,15
+pro9062,Nunavut,Wholesale Trade,2010,0
+can,Canada,Retail Trade,2010,0
+can,Canada,Retail Trade,2011,214067
+cnt1201,Shelburne County,Retail Trade,2011,106
+cnt1201,Shelburne County,Retail Trade,2010,111
+cnt1202,Yarmouth County,Retail Trade,2011,211
+cnt1202,Yarmouth County,Retail Trade,2010,215
+cnt1203,Digby County,Retail Trade,2010,176
+cnt1203,Digby County,Retail Trade,2011,173
+cnt1204,Queens County,Retail Trade,2010,63
+cnt1204,Queens County,Retail Trade,2011,59
+cnt1205,Annapolis County,Retail Trade,2011,176
+cnt1205,Annapolis County,Retail Trade,2010,126
+cnt1206,Lunenburg County,Retail Trade,2010,393
+cnt1206,Lunenburg County,Retail Trade,2011,400
+cnt1207,Kings County,Retail Trade,2011,394
+cnt1207,Kings County,Retail Trade,2010,447
+cnt1208,Hants County,Retail Trade,2010,226
+cnt1208,Hants County,Retail Trade,2011,219
+cnt1209,Halifax County,Retail Trade,2010,2308
+cnt1209,Halifax County,Retail Trade,2011,2328
+cnt1210,Colchester County,Retail Trade,2010,384
+cnt1210,Colchester County,Retail Trade,2011,374
+cnt1211,Cumberland County,Retail Trade,2010,240
+cnt1211,Cumberland County,Retail Trade,2011,236
+cnt1212,Pictou County,Retail Trade,2010,284
+cnt1212,Pictou County,Retail Trade,2011,287
+cnt1213,Guysborough County,Retail Trade,2010,56
+cnt1213,Guysborough County,Retail Trade,2011,50
+cnt1214,Antigonish County,Retail Trade,2010,158
+cnt1214,Antigonish County,Retail Trade,2011,157
+cnt1215,Inverness County,Retail Trade,2011,116
+cnt1215,Inverness County,Retail Trade,2010,127
+cnt1216,Richmond County,Retail Trade,2010,53
+cnt1216,Richmond County,Retail Trade,2011,49
+cnt1217,Cape Breton County,Retail Trade,2010,579
+cnt1217,Cape Breton County,Retail Trade,2011,563
+cnt1218,Victoria County,Retail Trade,2010,94
+cnt1218,Victoria County,Retail Trade,2011,101
+ecr21,Cape Breton Region,Retail Trade,2011,829
+ecr21,Cape Breton Region,Retail Trade,2010,853
+ecr22,North Shore Region,Retail Trade,2010,1122
+ecr22,North Shore Region,Retail Trade,2011,1104
+ecr23,Annapolis Valley Region,Retail Trade,2010,799
+ecr23,Annapolis Valley Region,Retail Trade,2011,789
+ecr24,Southern Region,Retail Trade,2010,958
+ecr24,Southern Region,Retail Trade,2011,949
+ecr25,Halifax Region,Retail Trade,2011,2328
+ecr25,Halifax Region,Retail Trade,2010,2308
+pro9010,Newfoundland and Labrador,Retail Trade,2011,3637
+pro9010,Newfoundland and Labrador,Retail Trade,2010,0
+pro9046,Manitoba,Finance and Insurance,2011,4458
+pro9011,Prince Edward Island,Retail Trade,2010,0
+pro9011,Prince Edward Island,Retail Trade,2011,940
+pro9012,Nova Scotia,Retail Trade,2010,6053
+pro9012,Nova Scotia,Retail Trade,2011,6038
+pro9013,New Brunswick,Retail Trade,2010,0
+pro9013,New Brunswick,Retail Trade,2011,4788
+pro9024,Quebec,Retail Trade,2010,0
+pro9024,Quebec,Retail Trade,2011,49839
+pro9035,Ontario,Retail Trade,2010,0
+pro9035,Ontario,Retail Trade,2011,81055
+pro9046,Manitoba,Retail Trade,2010,0
+pro9047,Saskatchewan,Retail Trade,2010,0
+pro9047,Saskatchewan,Retail Trade,2011,6762
+pro9048,Alberta,Retail Trade,2010,0
+pro9048,Alberta,Retail Trade,2011,23699
+pro9059,British Columbia,Retail Trade,2010,0
+pro9059,British Columbia,Retail Trade,2011,29977
+pro9060,Yukon Territory,Retail Trade,2011,261
+pro9060,Yukon Territory,Retail Trade,2010,0
+pro9061,Northwest Territories,Retail Trade,2010,0
+pro9061,Northwest Territories,Retail Trade,2011,240
+pro9062,Nunavut,Retail Trade,2011,85
+pro9062,Nunavut,Retail Trade,2010,0
+can,Canada,Transportation and Warehousing,2010,0
+can,Canada,Transportation and Warehousing,2011,124910
+cnt1201,Shelburne County,Transportation and Warehousing,2011,39
+cnt1201,Shelburne County,Transportation and Warehousing,2010,38
+cnt1202,Yarmouth County,Transportation and Warehousing,2011,72
+cnt1202,Yarmouth County,Transportation and Warehousing,2010,76
+cnt1203,Digby County,Transportation and Warehousing,2010,53
+cnt1203,Digby County,Transportation and Warehousing,2011,49
+cnt1204,Queens County,Transportation and Warehousing,2010,29
+cnt1204,Queens County,Transportation and Warehousing,2011,28
+cnt1205,Annapolis County,Transportation and Warehousing,2011,50
+ecr25,Halifax Region,Public Administration,2011,217
+cnt1205,Annapolis County,Transportation and Warehousing,2010,48
+cnt1206,Lunenburg County,Transportation and Warehousing,2010,108
+cnt1206,Lunenburg County,Transportation and Warehousing,2011,105
+cnt1207,Kings County,Transportation and Warehousing,2011,120
+cnt1207,Kings County,Transportation and Warehousing,2010,145
+cnt1208,Hants County,Transportation and Warehousing,2010,141
+cnt1208,Hants County,Transportation and Warehousing,2011,122
+cnt1209,Halifax County,Transportation and Warehousing,2010,941
+cnt1209,Halifax County,Transportation and Warehousing,2011,936
+cnt1210,Colchester County,Transportation and Warehousing,2010,195
+cnt1210,Colchester County,Transportation and Warehousing,2011,185
+cnt1211,Cumberland County,Transportation and Warehousing,2010,99
+cnt1211,Cumberland County,Transportation and Warehousing,2011,93
+cnt1212,Pictou County,Transportation and Warehousing,2010,107
+cnt1212,Pictou County,Transportation and Warehousing,2011,102
+cnt1213,Guysborough County,Transportation and Warehousing,2010,24
+cnt1213,Guysborough County,Transportation and Warehousing,2011,21
+cnt1214,Antigonish County,Transportation and Warehousing,2010,52
+cnt1209,Halifax County,Information and Cultural Industries,2011,481
+cnt1214,Antigonish County,Transportation and Warehousing,2011,48
+cnt1215,Inverness County,Transportation and Warehousing,2011,44
+cnt1215,Inverness County,Transportation and Warehousing,2010,54
+cnt1216,Richmond County,Transportation and Warehousing,2010,18
+cnt1216,Richmond County,Transportation and Warehousing,2011,15
+cnt1217,Cape Breton County,Transportation and Warehousing,2010,176
+cnt1217,Cape Breton County,Transportation and Warehousing,2011,172
+cnt1218,Victoria County,Transportation and Warehousing,2010,33
+cnt1218,Victoria County,Transportation and Warehousing,2011,26
+can,Canada,"Arts, Entertainment and Recreation",2010,0
+ecr21,Cape Breton Region,Transportation and Warehousing,2011,257
+ecr21,Cape Breton Region,Transportation and Warehousing,2010,281
+ecr22,North Shore Region,Transportation and Warehousing,2010,477
+ecr22,North Shore Region,Transportation and Warehousing,2011,449
+ecr23,Annapolis Valley Region,Transportation and Warehousing,2010,334
+ecr23,Annapolis Valley Region,Transportation and Warehousing,2011,292
+ecr24,Southern Region,Transportation and Warehousing,2010,304
+ecr24,Southern Region,Transportation and Warehousing,2011,293
+ecr25,Halifax Region,Transportation and Warehousing,2011,936
+ecr25,Halifax Region,Transportation and Warehousing,2010,941
+pro9010,Newfoundland and Labrador,Transportation and Warehousing,2011,1231
+pro9010,Newfoundland and Labrador,Transportation and Warehousing,2010,0
+pro9011,Prince Edward Island,Transportation and Warehousing,2010,0
+pro9011,Prince Edward Island,Transportation and Warehousing,2011,390
+pro9012,Nova Scotia,Transportation and Warehousing,2010,2340
+pro9012,Nova Scotia,Transportation and Warehousing,2011,2244
+pro9013,New Brunswick,Transportation and Warehousing,2010,0
+pro9013,New Brunswick,Transportation and Warehousing,2011,2665
+pro9024,Quebec,Transportation and Warehousing,2010,0
+pro9024,Quebec,Transportation and Warehousing,2011,24288
+pro9035,Ontario,Transportation and Warehousing,2010,0
+pro9035,Ontario,Transportation and Warehousing,2011,47682
+pro9046,Manitoba,Transportation and Warehousing,2010,0
+pro9046,Manitoba,Transportation and Warehousing,2011,4707
+pro9047,Saskatchewan,Transportation and Warehousing,2010,0
+pro9047,Saskatchewan,Transportation and Warehousing,2011,4438
+pro9048,Alberta,Transportation and Warehousing,2010,0
+pro9048,Alberta,Transportation and Warehousing,2011,18347
+pro9059,British Columbia,Transportation and Warehousing,2010,0
+pro9059,British Columbia,Transportation and Warehousing,2011,18568
+pro9060,Yukon Territory,Transportation and Warehousing,2011,109
+pro9060,Yukon Territory,Transportation and Warehousing,2010,0
+pro9061,Northwest Territories,Transportation and Warehousing,2010,0
+pro9061,Northwest Territories,Transportation and Warehousing,2011,169
+pro9062,Nunavut,Transportation and Warehousing,2011,72
+pro9062,Nunavut,Transportation and Warehousing,2010,0
+can,Canada,Information and Cultural Industries,2010,0
+can,Canada,Information and Cultural Industries,2011,32622
+cnt1201,Shelburne County,Information and Cultural Industries,2011,6
+cnt1201,Shelburne County,Information and Cultural Industries,2010,5
+cnt1202,Yarmouth County,Information and Cultural Industries,2011,13
+cnt1202,Yarmouth County,Information and Cultural Industries,2010,13
+cnt1203,Digby County,Information and Cultural Industries,2010,8
+cnt1203,Digby County,Information and Cultural Industries,2011,8
+cnt1204,Queens County,Information and Cultural Industries,2010,6
+cnt1204,Queens County,Information and Cultural Industries,2011,4
+cnt1205,Annapolis County,Information and Cultural Industries,2011,13
+cnt1205,Annapolis County,Information and Cultural Industries,2010,10
+cnt1206,Lunenburg County,Information and Cultural Industries,2010,47
+cnt1206,Lunenburg County,Information and Cultural Industries,2011,41
+cnt1207,Kings County,Information and Cultural Industries,2011,31
+cnt1207,Kings County,Information and Cultural Industries,2010,31
+cnt1208,Hants County,Information and Cultural Industries,2010,13
+cnt1208,Hants County,Information and Cultural Industries,2011,12
+cnt1209,Halifax County,Information and Cultural Industries,2010,527
+cnt1210,Colchester County,Information and Cultural Industries,2010,22
+cnt1210,Colchester County,Information and Cultural Industries,2011,22
+cnt1211,Cumberland County,Information and Cultural Industries,2010,14
+cnt1211,Cumberland County,Information and Cultural Industries,2011,16
+cnt1212,Pictou County,Information and Cultural Industries,2010,18
+cnt1212,Pictou County,Information and Cultural Industries,2011,16
+cnt1213,Guysborough County,Information and Cultural Industries,2010,3
+cnt1213,Guysborough County,Information and Cultural Industries,2011,3
+cnt1214,Antigonish County,Information and Cultural Industries,2010,7
+cnt1214,Antigonish County,Information and Cultural Industries,2011,7
+cnt1215,Inverness County,Information and Cultural Industries,2011,9
+cnt1215,Inverness County,Information and Cultural Industries,2010,8
+cnt1216,Richmond County,Information and Cultural Industries,2010,1
+cnt1216,Richmond County,Information and Cultural Industries,2011,2
+cnt1217,Cape Breton County,Information and Cultural Industries,2010,38
+cnt1217,Cape Breton County,Information and Cultural Industries,2011,34
+cnt1218,Victoria County,Information and Cultural Industries,2010,8
+cnt1218,Victoria County,Information and Cultural Industries,2011,7
+ecr21,Cape Breton Region,Information and Cultural Industries,2011,52
+ecr21,Cape Breton Region,Information and Cultural Industries,2010,55
+ecr22,North Shore Region,Information and Cultural Industries,2010,64
+ecr22,North Shore Region,Information and Cultural Industries,2011,64
+ecr23,Annapolis Valley Region,Information and Cultural Industries,2010,54
+ecr23,Annapolis Valley Region,Information and Cultural Industries,2011,56
+ecr24,Southern Region,Information and Cultural Industries,2010,79
+ecr24,Southern Region,Information and Cultural Industries,2011,72
+ecr25,Halifax Region,Information and Cultural Industries,2011,481
+ecr25,Halifax Region,Information and Cultural Industries,2010,527
+pro9010,Newfoundland and Labrador,Information and Cultural Industries,2011,241
+pro9010,Newfoundland and Labrador,Information and Cultural Industries,2010,0
+pro9011,Prince Edward Island,Information and Cultural Industries,2010,0
+pro9011,Prince Edward Island,Information and Cultural Industries,2011,93
+pro9012,Nova Scotia,Information and Cultural Industries,2010,780
+pro9012,Nova Scotia,Information and Cultural Industries,2011,731
+pro9013,New Brunswick,Information and Cultural Industries,2010,0
+pro9013,New Brunswick,Information and Cultural Industries,2011,402
+pro9024,Quebec,Information and Cultural Industries,2010,0
+pro9024,Quebec,Information and Cultural Industries,2011,7294
+pro9035,Ontario,Information and Cultural Industries,2010,0
+pro9035,Ontario,Information and Cultural Industries,2011,14022
+pro9046,Manitoba,Information and Cultural Industries,2010,0
+pro9046,Manitoba,Information and Cultural Industries,2011,751
+pro9047,Saskatchewan,Information and Cultural Industries,2010,0
+pro9047,Saskatchewan,Information and Cultural Industries,2011,808
+pro9048,Alberta,Information and Cultural Industries,2010,0
+pro9048,Alberta,Information and Cultural Industries,2011,2618
+pro9059,British Columbia,Information and Cultural Industries,2010,0
+pro9059,British Columbia,Information and Cultural Industries,2011,5574
+pro9060,Yukon Territory,Information and Cultural Industries,2011,47
+pro9060,Yukon Territory,Information and Cultural Industries,2010,0
+pro9061,Northwest Territories,Information and Cultural Industries,2010,0
+pro9061,Northwest Territories,Information and Cultural Industries,2011,26
+pro9062,Nunavut,Information and Cultural Industries,2011,15
+pro9062,Nunavut,Information and Cultural Industries,2010,0
+can,Canada,Finance and Insurance,2010,0
+can,Canada,Finance and Insurance,2011,134049
+cnt1201,Shelburne County,Finance and Insurance,2011,41
+cnt1201,Shelburne County,Finance and Insurance,2010,42
+cnt1202,Yarmouth County,Finance and Insurance,2011,121
+cnt1202,Yarmouth County,Finance and Insurance,2010,116
+cnt1203,Digby County,Finance and Insurance,2010,67
+cnt1203,Digby County,Finance and Insurance,2011,63
+cnt1204,Queens County,Finance and Insurance,2010,22
+cnt1204,Queens County,Finance and Insurance,2011,23
+cnt1205,Annapolis County,Finance and Insurance,2011,54
+cnt1205,Annapolis County,Finance and Insurance,2010,40
+cnt1206,Lunenburg County,Finance and Insurance,2010,168
+cnt1206,Lunenburg County,Finance and Insurance,2011,179
+cnt1207,Kings County,Finance and Insurance,2011,190
+cnt1207,Kings County,Finance and Insurance,2010,215
+cnt1208,Hants County,Finance and Insurance,2010,77
+cnt1208,Hants County,Finance and Insurance,2011,81
+cnt1209,Halifax County,Finance and Insurance,2010,1717
+cnt1209,Halifax County,Finance and Insurance,2011,1740
+cnt1210,Colchester County,Finance and Insurance,2010,165
+cnt1210,Colchester County,Finance and Insurance,2011,152
+cnt1211,Cumberland County,Finance and Insurance,2010,80
+cnt1211,Cumberland County,Finance and Insurance,2011,87
+cnt1212,Pictou County,Finance and Insurance,2010,136
+cnt1212,Pictou County,Finance and Insurance,2011,156
+cnt1213,Guysborough County,Finance and Insurance,2010,15
+cnt1213,Guysborough County,Finance and Insurance,2011,19
+cnt1214,Antigonish County,Finance and Insurance,2010,68
+cnt1214,Antigonish County,Finance and Insurance,2011,72
+cnt1215,Inverness County,Finance and Insurance,2011,34
+cnt1215,Inverness County,Finance and Insurance,2010,36
+cnt1216,Richmond County,Finance and Insurance,2010,15
+cnt1216,Richmond County,Finance and Insurance,2011,15
+cnt1217,Cape Breton County,Finance and Insurance,2010,189
+cnt1217,Cape Breton County,Finance and Insurance,2011,190
+cnt1218,Victoria County,Finance and Insurance,2010,28
+cnt1218,Victoria County,Finance and Insurance,2011,29
+ecr21,Cape Breton Region,Finance and Insurance,2011,268
+ecr21,Cape Breton Region,Finance and Insurance,2010,268
+ecr22,North Shore Region,Finance and Insurance,2010,464
+ecr22,North Shore Region,Finance and Insurance,2011,486
+ecr23,Annapolis Valley Region,Finance and Insurance,2010,332
+ecr23,Annapolis Valley Region,Finance and Insurance,2011,325
+ecr24,Southern Region,Finance and Insurance,2010,415
+ecr24,Southern Region,Finance and Insurance,2011,427
+ecr25,Halifax Region,Finance and Insurance,2011,1740
+ecr25,Halifax Region,Finance and Insurance,2010,1717
+pro9010,Newfoundland and Labrador,Finance and Insurance,2011,949
+pro9010,Newfoundland and Labrador,Finance and Insurance,2010,0
+ecr24,Southern Region,Public Administration,2011,34
+pro9011,Prince Edward Island,Finance and Insurance,2010,0
+pro9011,Prince Edward Island,Finance and Insurance,2011,468
+pro9012,Nova Scotia,Finance and Insurance,2010,3200
+pro9012,Nova Scotia,Finance and Insurance,2011,3274
+pro9013,New Brunswick,Finance and Insurance,2010,0
+pro9013,New Brunswick,Finance and Insurance,2011,2110
+pro9024,Quebec,Finance and Insurance,2010,0
+pro9024,Quebec,Finance and Insurance,2011,27117
+pro9035,Ontario,Finance and Insurance,2010,0
+pro9035,Ontario,Finance and Insurance,2011,54345
+pro9046,Manitoba,Finance and Insurance,2010,0
+pro9047,Saskatchewan,Finance and Insurance,2010,0
+pro9047,Saskatchewan,Finance and Insurance,2011,3859
+pro9048,Alberta,Finance and Insurance,2010,0
+pro9048,Alberta,Finance and Insurance,2011,16517
+pro9059,British Columbia,Finance and Insurance,2010,0
+pro9059,British Columbia,Finance and Insurance,2011,20688
+pro9060,Yukon Territory,Finance and Insurance,2011,139
+pro9060,Yukon Territory,Finance and Insurance,2010,0
+pro9061,Northwest Territories,Finance and Insurance,2010,0
+pro9061,Northwest Territories,Finance and Insurance,2011,105
+pro9062,Nunavut,Finance and Insurance,2011,20
+pro9062,Nunavut,Finance and Insurance,2010,0
+can,Canada,"Real Estate, Rental and Leasing",2010,0
+can,Canada,"Real Estate, Rental and Leasing",2011,240839
+cnt1201,Shelburne County,"Real Estate, Rental and Leasing",2011,38
+cnt1201,Shelburne County,"Real Estate, Rental and Leasing",2010,43
+cnt1202,Yarmouth County,"Real Estate, Rental and Leasing",2011,119
+cnt1202,Yarmouth County,"Real Estate, Rental and Leasing",2010,113
+cnt1203,Digby County,"Real Estate, Rental and Leasing",2010,42
+cnt1203,Digby County,"Real Estate, Rental and Leasing",2011,44
+cnt1204,Queens County,"Real Estate, Rental and Leasing",2010,30
+cnt1204,Queens County,"Real Estate, Rental and Leasing",2011,28
+cnt1205,Annapolis County,"Real Estate, Rental and Leasing",2011,84
+cnt1205,Annapolis County,"Real Estate, Rental and Leasing",2010,51
+cnt1206,Lunenburg County,"Real Estate, Rental and Leasing",2010,201
+cnt1206,Lunenburg County,"Real Estate, Rental and Leasing",2011,207
+cnt1207,Kings County,"Real Estate, Rental and Leasing",2011,263
+cnt1207,Kings County,"Real Estate, Rental and Leasing",2010,243
+cnt1208,Hants County,"Real Estate, Rental and Leasing",2010,121
+cnt1208,Hants County,"Real Estate, Rental and Leasing",2011,143
+cnt1209,Halifax County,"Real Estate, Rental and Leasing",2010,2261
+cnt1209,Halifax County,"Real Estate, Rental and Leasing",2011,2580
+cnt1210,Colchester County,"Real Estate, Rental and Leasing",2010,180
+cnt1210,Colchester County,"Real Estate, Rental and Leasing",2011,217
+cnt1211,Cumberland County,"Real Estate, Rental and Leasing",2010,83
+cnt1211,Cumberland County,"Real Estate, Rental and Leasing",2011,95
+cnt1212,Pictou County,"Real Estate, Rental and Leasing",2010,155
+cnt1212,Pictou County,"Real Estate, Rental and Leasing",2011,177
+cnt1213,Guysborough County,"Real Estate, Rental and Leasing",2010,18
+cnt1213,Guysborough County,"Real Estate, Rental and Leasing",2011,18
+cnt1214,Antigonish County,"Real Estate, Rental and Leasing",2010,88
+cnt1214,Antigonish County,"Real Estate, Rental and Leasing",2011,103
+cnt1215,Inverness County,"Real Estate, Rental and Leasing",2011,39
+cnt1215,Inverness County,"Real Estate, Rental and Leasing",2010,41
+cnt1216,Richmond County,"Real Estate, Rental and Leasing",2010,31
+cnt1216,Richmond County,"Real Estate, Rental and Leasing",2011,29
+cnt1217,Cape Breton County,"Real Estate, Rental and Leasing",2010,273
+cnt1217,Cape Breton County,"Real Estate, Rental and Leasing",2011,284
+cnt1218,Victoria County,"Real Estate, Rental and Leasing",2010,25
+cnt1218,Victoria County,"Real Estate, Rental and Leasing",2011,30
+ecr21,Cape Breton Region,"Real Estate, Rental and Leasing",2011,382
+ecr21,Cape Breton Region,"Real Estate, Rental and Leasing",2010,370
+ecr22,North Shore Region,"Real Estate, Rental and Leasing",2010,524
+ecr22,North Shore Region,"Real Estate, Rental and Leasing",2011,610
+ecr23,Annapolis Valley Region,"Real Estate, Rental and Leasing",2010,415
+ecr23,Annapolis Valley Region,"Real Estate, Rental and Leasing",2011,490
+ecr24,Southern Region,"Real Estate, Rental and Leasing",2010,429
+ecr24,Southern Region,"Real Estate, Rental and Leasing",2011,436
+ecr25,Halifax Region,"Real Estate, Rental and Leasing",2011,2580
+ecr25,Halifax Region,"Real Estate, Rental and Leasing",2010,2261
+pro9010,Newfoundland and Labrador,"Real Estate, Rental and Leasing",2011,1953
+pro9010,Newfoundland and Labrador,"Real Estate, Rental and Leasing",2010,0
+pro9011,Prince Edward Island,"Real Estate, Rental and Leasing",2010,0
+pro9011,Prince Edward Island,"Real Estate, Rental and Leasing",2011,747
+pro9012,Nova Scotia,"Real Estate, Rental and Leasing",2010,4002
+pro9012,Nova Scotia,"Real Estate, Rental and Leasing",2011,4539
+cnt1207,Kings County,"Professional, Scientific and Technical Services",2010,278
+pro9013,New Brunswick,"Real Estate, Rental and Leasing",2010,0
+pro9013,New Brunswick,"Real Estate, Rental and Leasing",2011,3136
+pro9024,Quebec,"Real Estate, Rental and Leasing",2010,0
+pro9024,Quebec,"Real Estate, Rental and Leasing",2011,54578
+pro9035,Ontario,"Real Estate, Rental and Leasing",2010,0
+pro9035,Ontario,"Real Estate, Rental and Leasing",2011,92586
+pro9046,Manitoba,"Real Estate, Rental and Leasing",2010,0
+pro9046,Manitoba,"Real Estate, Rental and Leasing",2011,5790
+pro9047,Saskatchewan,"Real Estate, Rental and Leasing",2010,0
+pro9047,Saskatchewan,"Real Estate, Rental and Leasing",2011,5472
+pro9048,Alberta,"Real Estate, Rental and Leasing",2010,0
+pro9048,Alberta,"Real Estate, Rental and Leasing",2011,29041
+pro9059,British Columbia,"Real Estate, Rental and Leasing",2010,0
+pro9059,British Columbia,"Real Estate, Rental and Leasing",2011,42512
+pro9060,Yukon Territory,"Real Estate, Rental and Leasing",2011,225
+pro9060,Yukon Territory,"Real Estate, Rental and Leasing",2010,0
+pro9061,Northwest Territories,"Real Estate, Rental and Leasing",2010,0
+pro9061,Northwest Territories,"Real Estate, Rental and Leasing",2011,200
+pro9062,Nunavut,"Real Estate, Rental and Leasing",2011,60
+pro9062,Nunavut,"Real Estate, Rental and Leasing",2010,0
+can,Canada,"Professional, Scientific and Technical Services",2010,0
+can,Canada,"Professional, Scientific and Technical Services",2011,318624
+cnt1201,Shelburne County,"Professional, Scientific and Technical Services",2011,33
+cnt1201,Shelburne County,"Professional, Scientific and Technical Services",2010,38
+cnt1202,Yarmouth County,"Professional, Scientific and Technical Services",2011,75
+cnt1202,Yarmouth County,"Professional, Scientific and Technical Services",2010,71
+cnt1203,Digby County,"Professional, Scientific and Technical Services",2010,52
+cnt1203,Digby County,"Professional, Scientific and Technical Services",2011,57
+cnt1204,Queens County,"Professional, Scientific and Technical Services",2010,30
+cnt1204,Queens County,"Professional, Scientific and Technical Services",2011,29
+cnt1205,Annapolis County,"Professional, Scientific and Technical Services",2011,71
+cnt1205,Annapolis County,"Professional, Scientific and Technical Services",2010,72
+cnt1206,Lunenburg County,"Professional, Scientific and Technical Services",2010,225
+cnt1206,Lunenburg County,"Professional, Scientific and Technical Services",2011,226
+cnt1207,Kings County,"Professional, Scientific and Technical Services",2011,255
+cnt1208,Hants County,"Professional, Scientific and Technical Services",2010,154
+cnt1208,Hants County,"Professional, Scientific and Technical Services",2011,158
+cnt1209,Halifax County,"Professional, Scientific and Technical Services",2010,3140
+cnt1209,Halifax County,"Professional, Scientific and Technical Services",2011,3135
+cnt1210,Colchester County,"Professional, Scientific and Technical Services",2010,191
+cnt1210,Colchester County,"Professional, Scientific and Technical Services",2011,184
+cnt1211,Cumberland County,"Professional, Scientific and Technical Services",2010,83
+cnt1211,Cumberland County,"Professional, Scientific and Technical Services",2011,86
+cnt1212,Pictou County,"Professional, Scientific and Technical Services",2010,153
+cnt1212,Pictou County,"Professional, Scientific and Technical Services",2011,168
+cnt1213,Guysborough County,"Professional, Scientific and Technical Services",2010,21
+cnt1213,Guysborough County,"Professional, Scientific and Technical Services",2011,22
+cnt1214,Antigonish County,"Professional, Scientific and Technical Services",2010,81
+cnt1214,Antigonish County,"Professional, Scientific and Technical Services",2011,87
+cnt1215,Inverness County,"Professional, Scientific and Technical Services",2011,46
+cnt1215,Inverness County,"Professional, Scientific and Technical Services",2010,55
+cnt1216,Richmond County,"Professional, Scientific and Technical Services",2010,21
+pro9048,Alberta,"Professional, Scientific and Technical Services",2011,54361
+cnt1216,Richmond County,"Professional, Scientific and Technical Services",2011,22
+cnt1217,Cape Breton County,"Professional, Scientific and Technical Services",2010,258
+cnt1217,Cape Breton County,"Professional, Scientific and Technical Services",2011,249
+cnt1218,Victoria County,"Professional, Scientific and Technical Services",2010,41
+cnt1218,Victoria County,"Professional, Scientific and Technical Services",2011,39
+ecr21,Cape Breton Region,"Professional, Scientific and Technical Services",2011,356
+ecr21,Cape Breton Region,"Professional, Scientific and Technical Services",2010,375
+ecr22,North Shore Region,"Professional, Scientific and Technical Services",2010,529
+ecr22,North Shore Region,"Professional, Scientific and Technical Services",2011,547
+pro9024,Quebec,Management of Companies and Enterprises,2011,15558
+ecr23,Annapolis Valley Region,"Professional, Scientific and Technical Services",2010,504
+ecr23,Annapolis Valley Region,"Professional, Scientific and Technical Services",2011,484
+ecr24,Southern Region,"Professional, Scientific and Technical Services",2010,416
+ecr24,Southern Region,"Professional, Scientific and Technical Services",2011,420
+ecr25,Halifax Region,"Professional, Scientific and Technical Services",2011,3135
+ecr25,Halifax Region,"Professional, Scientific and Technical Services",2010,3140
+pro9010,Newfoundland and Labrador,"Professional, Scientific and Technical Services",2011,1973
+pro9010,Newfoundland and Labrador,"Professional, Scientific and Technical Services",2010,0
+pro9011,Prince Edward Island,"Professional, Scientific and Technical Services",2010,0
+pro9011,Prince Edward Island,"Professional, Scientific and Technical Services",2011,628
+pro9012,Nova Scotia,"Professional, Scientific and Technical Services",2010,4969
+pro9012,Nova Scotia,"Professional, Scientific and Technical Services",2011,4957
+pro9013,New Brunswick,"Professional, Scientific and Technical Services",2010,0
+pro9013,New Brunswick,"Professional, Scientific and Technical Services",2011,3382
+pro9024,Quebec,"Professional, Scientific and Technical Services",2010,0
+pro9024,Quebec,"Professional, Scientific and Technical Services",2011,59001
+pro9035,Ontario,"Professional, Scientific and Technical Services",2010,0
+pro9035,Ontario,"Professional, Scientific and Technical Services",2011,133771
+pro9046,Manitoba,"Professional, Scientific and Technical Services",2010,0
+pro9046,Manitoba,"Professional, Scientific and Technical Services",2011,5777
+pro9047,Saskatchewan,"Professional, Scientific and Technical Services",2010,0
+pro9047,Saskatchewan,"Professional, Scientific and Technical Services",2011,5674
+pro9048,Alberta,"Professional, Scientific and Technical Services",2010,0
+pro9059,British Columbia,"Professional, Scientific and Technical Services",2010,0
+pro9059,British Columbia,"Professional, Scientific and Technical Services",2011,48433
+pro9060,Yukon Territory,"Professional, Scientific and Technical Services",2011,325
+pro9060,Yukon Territory,"Professional, Scientific and Technical Services",2010,0
+pro9061,Northwest Territories,"Professional, Scientific and Technical Services",2010,0
+pro9061,Northwest Territories,"Professional, Scientific and Technical Services",2011,264
+pro9062,Nunavut,"Professional, Scientific and Technical Services",2011,78
+pro9062,Nunavut,"Professional, Scientific and Technical Services",2010,0
+can,Canada,Management of Companies and Enterprises,2010,0
+can,Canada,Management of Companies and Enterprises,2011,89496
+cnt1201,Shelburne County,Management of Companies and Enterprises,2011,34
+cnt1201,Shelburne County,Management of Companies and Enterprises,2010,36
+cnt1202,Yarmouth County,Management of Companies and Enterprises,2011,92
+cnt1202,Yarmouth County,Management of Companies and Enterprises,2010,96
+cnt1203,Digby County,Management of Companies and Enterprises,2010,26
+cnt1203,Digby County,Management of Companies and Enterprises,2011,29
+cnt1204,Queens County,Management of Companies and Enterprises,2010,21
+cnt1204,Queens County,Management of Companies and Enterprises,2011,19
+cnt1205,Annapolis County,Management of Companies and Enterprises,2011,27
+cnt1205,Annapolis County,Management of Companies and Enterprises,2010,23
+cnt1206,Lunenburg County,Management of Companies and Enterprises,2010,78
+cnt1206,Lunenburg County,Management of Companies and Enterprises,2011,78
+cnt1207,Kings County,Management of Companies and Enterprises,2011,112
+cnt1207,Kings County,Management of Companies and Enterprises,2010,127
+cnt1208,Hants County,Management of Companies and Enterprises,2010,59
+cnt1208,Hants County,Management of Companies and Enterprises,2011,53
+cnt1209,Halifax County,Management of Companies and Enterprises,2010,1447
+cnt1209,Halifax County,Management of Companies and Enterprises,2011,1403
+cnt1210,Colchester County,Management of Companies and Enterprises,2010,138
+cnt1210,Colchester County,Management of Companies and Enterprises,2011,128
+cnt1211,Cumberland County,Management of Companies and Enterprises,2010,53
+cnt1211,Cumberland County,Management of Companies and Enterprises,2011,50
+cnt1212,Pictou County,Management of Companies and Enterprises,2010,87
+cnt1212,Pictou County,Management of Companies and Enterprises,2011,85
+cnt1213,Guysborough County,Management of Companies and Enterprises,2010,4
+cnt1213,Guysborough County,Management of Companies and Enterprises,2011,4
+cnt1214,Antigonish County,Management of Companies and Enterprises,2010,38
+cnt1214,Antigonish County,Management of Companies and Enterprises,2011,36
+cnt1215,Inverness County,Management of Companies and Enterprises,2011,20
+cnt1215,Inverness County,Management of Companies and Enterprises,2010,27
+cnt1216,Richmond County,Management of Companies and Enterprises,2010,24
+cnt1216,Richmond County,Management of Companies and Enterprises,2011,22
+cnt1217,Cape Breton County,Management of Companies and Enterprises,2010,102
+cnt1217,Cape Breton County,Management of Companies and Enterprises,2011,108
+cnt1218,Victoria County,Management of Companies and Enterprises,2010,8
+cnt1218,Victoria County,Management of Companies and Enterprises,2011,7
+ecr21,Cape Breton Region,Management of Companies and Enterprises,2011,157
+ecr21,Cape Breton Region,Management of Companies and Enterprises,2010,161
+ecr22,North Shore Region,Management of Companies and Enterprises,2010,320
+ecr22,North Shore Region,Management of Companies and Enterprises,2011,303
+ecr23,Annapolis Valley Region,Management of Companies and Enterprises,2010,209
+ecr23,Annapolis Valley Region,Management of Companies and Enterprises,2011,192
+ecr24,Southern Region,Management of Companies and Enterprises,2010,257
+ecr24,Southern Region,Management of Companies and Enterprises,2011,252
+ecr25,Halifax Region,Management of Companies and Enterprises,2011,1403
+ecr25,Halifax Region,Management of Companies and Enterprises,2010,1447
+pro9010,Newfoundland and Labrador,Management of Companies and Enterprises,2011,782
+pro9010,Newfoundland and Labrador,Management of Companies and Enterprises,2010,0
+pro9011,Prince Edward Island,Management of Companies and Enterprises,2010,0
+pro9011,Prince Edward Island,Management of Companies and Enterprises,2011,386
+pro9012,Nova Scotia,Management of Companies and Enterprises,2010,2395
+pro9012,Nova Scotia,Management of Companies and Enterprises,2011,2320
+pro9013,New Brunswick,Management of Companies and Enterprises,2010,0
+pro9013,New Brunswick,Management of Companies and Enterprises,2011,1557
+pro9062,Nunavut,Educational Services,2011,42
+pro9024,Quebec,Management of Companies and Enterprises,2010,0
+pro9035,Ontario,Management of Companies and Enterprises,2010,0
+pro9035,Ontario,Management of Companies and Enterprises,2011,35961
+pro9046,Manitoba,Management of Companies and Enterprises,2010,0
+pro9046,Manitoba,Management of Companies and Enterprises,2011,2927
+pro9047,Saskatchewan,Management of Companies and Enterprises,2010,0
+pro9047,Saskatchewan,Management of Companies and Enterprises,2011,4507
+pro9048,Alberta,Management of Companies and Enterprises,2010,0
+pro9048,Alberta,Management of Companies and Enterprises,2011,11074
+pro9059,British Columbia,Management of Companies and Enterprises,2010,0
+cnt1212,Pictou County,Educational Services,2011,10
+pro9059,British Columbia,Management of Companies and Enterprises,2011,14173
+pro9060,Yukon Territory,Management of Companies and Enterprises,2011,142
+pro9060,Yukon Territory,Management of Companies and Enterprises,2010,0
+pro9061,Northwest Territories,Management of Companies and Enterprises,2010,0
+pro9061,Northwest Territories,Management of Companies and Enterprises,2011,94
+pro9062,Nunavut,Management of Companies and Enterprises,2011,15
+pro9062,Nunavut,Management of Companies and Enterprises,2010,0
+can,Canada,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+can,Canada,"56 - Administrative and Support, Waste Management and Remediati",2011,109590
+cnt1201,Shelburne County,"56 - Administrative and Support, Waste Management and Remediati",2011,16
+cnt1201,Shelburne County,"56 - Administrative and Support, Waste Management and Remediati",2010,17
+cnt1202,Yarmouth County,"56 - Administrative and Support, Waste Management and Remediati",2011,42
+cnt1202,Yarmouth County,"56 - Administrative and Support, Waste Management and Remediati",2010,44
+cnt1203,Digby County,"56 - Administrative and Support, Waste Management and Remediati",2010,24
+cnt1203,Digby County,"56 - Administrative and Support, Waste Management and Remediati",2011,24
+cnt1204,Queens County,"56 - Administrative and Support, Waste Management and Remediati",2010,16
+cnt1204,Queens County,"56 - Administrative and Support, Waste Management and Remediati",2011,14
+cnt1205,Annapolis County,"56 - Administrative and Support, Waste Management and Remediati",2011,49
+cnt1205,Annapolis County,"56 - Administrative and Support, Waste Management and Remediati",2010,28
+cnt1206,Lunenburg County,"56 - Administrative and Support, Waste Management and Remediati",2010,106
+cnt1206,Lunenburg County,"56 - Administrative and Support, Waste Management and Remediati",2011,104
+cnt1207,Kings County,"56 - Administrative and Support, Waste Management and Remediati",2011,97
+cnt1207,Kings County,"56 - Administrative and Support, Waste Management and Remediati",2010,121
+cnt1208,Hants County,"56 - Administrative and Support, Waste Management and Remediati",2010,64
+cnt1208,Hants County,"56 - Administrative and Support, Waste Management and Remediati",2011,61
+cnt1209,Halifax County,"56 - Administrative and Support, Waste Management and Remediati",2010,1063
+cnt1209,Halifax County,"56 - Administrative and Support, Waste Management and Remediati",2011,1023
+cnt1210,Colchester County,"56 - Administrative and Support, Waste Management and Remediati",2010,89
+cnt1210,Colchester County,"56 - Administrative and Support, Waste Management and Remediati",2011,84
+cnt1211,Cumberland County,"56 - Administrative and Support, Waste Management and Remediati",2010,48
+cnt1211,Cumberland County,"56 - Administrative and Support, Waste Management and Remediati",2011,50
+cnt1212,Pictou County,"56 - Administrative and Support, Waste Management and Remediati",2010,77
+cnt1212,Pictou County,"56 - Administrative and Support, Waste Management and Remediati",2011,73
+cnt1213,Guysborough County,"56 - Administrative and Support, Waste Management and Remediati",2010,10
+cnt1213,Guysborough County,"56 - Administrative and Support, Waste Management and Remediati",2011,11
+cnt1214,Antigonish County,"56 - Administrative and Support, Waste Management and Remediati",2010,27
+cnt1214,Antigonish County,"56 - Administrative and Support, Waste Management and Remediati",2011,29
+cnt1215,Inverness County,"56 - Administrative and Support, Waste Management and Remediati",2011,28
+cnt1215,Inverness County,"56 - Administrative and Support, Waste Management and Remediati",2010,31
+cnt1216,Richmond County,"56 - Administrative and Support, Waste Management and Remediati",2010,11
+cnt1216,Richmond County,"56 - Administrative and Support, Waste Management and Remediati",2011,13
+cnt1217,Cape Breton County,"56 - Administrative and Support, Waste Management and Remediati",2010,149
+cnt1217,Cape Breton County,"56 - Administrative and Support, Waste Management and Remediati",2011,144
+cnt1218,Victoria County,"56 - Administrative and Support, Waste Management and Remediati",2010,16
+cnt1218,Victoria County,"56 - Administrative and Support, Waste Management and Remediati",2011,17
+ecr21,Cape Breton Region,"56 - Administrative and Support, Waste Management and Remediati",2011,202
+ecr21,Cape Breton Region,"56 - Administrative and Support, Waste Management and Remediati",2010,207
+ecr22,North Shore Region,"56 - Administrative and Support, Waste Management and Remediati",2010,251
+ecr22,North Shore Region,"56 - Administrative and Support, Waste Management and Remediati",2011,247
+ecr23,Annapolis Valley Region,"56 - Administrative and Support, Waste Management and Remediati",2010,213
+ecr23,Annapolis Valley Region,"56 - Administrative and Support, Waste Management and Remediati",2011,207
+ecr24,Southern Region,"56 - Administrative and Support, Waste Management and Remediati",2010,207
+ecr24,Southern Region,"56 - Administrative and Support, Waste Management and Remediati",2011,200
+ecr25,Halifax Region,"56 - Administrative and Support, Waste Management and Remediati",2011,1023
+ecr25,Halifax Region,"56 - Administrative and Support, Waste Management and Remediati",2010,1063
+pro9010,Newfoundland and Labrador,"56 - Administrative and Support, Waste Management and Remediati",2011,829
+pro9010,Newfoundland and Labrador,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+pro9011,Prince Edward Island,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+pro9011,Prince Edward Island,"56 - Administrative and Support, Waste Management and Remediati",2011,277
+pro9012,Nova Scotia,"56 - Administrative and Support, Waste Management and Remediati",2010,1943
+pro9012,Nova Scotia,"56 - Administrative and Support, Waste Management and Remediati",2011,1886
+pro9013,New Brunswick,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+pro9013,New Brunswick,"56 - Administrative and Support, Waste Management and Remediati",2011,1500
+pro9024,Quebec,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+pro9024,Quebec,"56 - Administrative and Support, Waste Management and Remediati",2011,29932
+pro9035,Ontario,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+pro9035,Ontario,"56 - Administrative and Support, Waste Management and Remediati",2011,39056
+pro9046,Manitoba,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+cnt1213,Guysborough County,Educational Services,2010,3
+pro9046,Manitoba,"56 - Administrative and Support, Waste Management and Remediati",2011,2627
+pro9047,Saskatchewan,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+pro9047,Saskatchewan,"56 - Administrative and Support, Waste Management and Remediati",2011,2425
+pro9048,Alberta,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+pro9048,Alberta,"56 - Administrative and Support, Waste Management and Remediati",2011,14358
+pro9059,British Columbia,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+pro9059,British Columbia,"56 - Administrative and Support, Waste Management and Remediati",2011,16336
+pro9060,Yukon Territory,"56 - Administrative and Support, Waste Management and Remediati",2011,165
+pro9060,Yukon Territory,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+cnt1218,Victoria County,Public Administration,2010,4
+pro9061,Northwest Territories,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+pro9061,Northwest Territories,"56 - Administrative and Support, Waste Management and Remediati",2011,156
+pro9062,Nunavut,"56 - Administrative and Support, Waste Management and Remediati",2011,43
+ecr23,Annapolis Valley Region,Educational Services,2010,58
+pro9062,Nunavut,"56 - Administrative and Support, Waste Management and Remediati",2010,0
+can,Canada,Educational Services,2010,0
+can,Canada,Educational Services,2011,23336
+cnt1201,Shelburne County,Educational Services,2011,3
+cnt1201,Shelburne County,Educational Services,2010,2
+cnt1202,Yarmouth County,Educational Services,2011,13
+cnt1202,Yarmouth County,Educational Services,2010,13
+cnt1203,Digby County,Educational Services,2010,7
+cnt1203,Digby County,Educational Services,2011,5
+cnt1204,Queens County,Educational Services,2010,2
+cnt1204,Queens County,Educational Services,2011,2
+cnt1205,Annapolis County,Educational Services,2011,10
+cnt1205,Annapolis County,Educational Services,2010,10
+cnt1206,Lunenburg County,Educational Services,2010,23
+cnt1206,Lunenburg County,Educational Services,2011,23
+cnt1207,Kings County,Educational Services,2011,32
+cnt1207,Kings County,Educational Services,2010,36
+cnt1208,Hants County,Educational Services,2010,12
+cnt1208,Hants County,Educational Services,2011,9
+cnt1209,Halifax County,Educational Services,2010,298
+cnt1209,Halifax County,Educational Services,2011,280
+cnt1210,Colchester County,Educational Services,2010,28
+cnt1210,Colchester County,Educational Services,2011,27
+cnt1211,Cumberland County,Educational Services,2010,8
+cnt1211,Cumberland County,Educational Services,2011,7
+cnt1212,Pictou County,Educational Services,2010,11
+cnt1213,Guysborough County,Educational Services,2011,2
+cnt1214,Antigonish County,Educational Services,2010,10
+cnt1214,Antigonish County,Educational Services,2011,10
+cnt1215,Inverness County,Educational Services,2011,5
+cnt1215,Inverness County,Educational Services,2010,8
+cnt1216,Richmond County,Educational Services,2010,1
+cnt1216,Richmond County,Educational Services,2011,2
+cnt1217,Cape Breton County,Educational Services,2010,46
+cnt1217,Cape Breton County,Educational Services,2011,38
+cnt1218,Victoria County,Educational Services,2010,5
+cnt1218,Victoria County,Educational Services,2011,4
+ecr21,Cape Breton Region,Educational Services,2011,49
+ecr21,Cape Breton Region,Educational Services,2010,60
+ecr22,North Shore Region,Educational Services,2010,60
+ecr22,North Shore Region,Educational Services,2011,56
+ecr23,Annapolis Valley Region,Educational Services,2011,51
+ecr24,Southern Region,Educational Services,2010,47
+ecr24,Southern Region,Educational Services,2011,46
+ecr25,Halifax Region,Educational Services,2011,280
+ecr25,Halifax Region,Educational Services,2010,298
+pro9010,Newfoundland and Labrador,Educational Services,2011,229
+pro9010,Newfoundland and Labrador,Educational Services,2010,0
+pro9011,Prince Edward Island,Educational Services,2010,0
+pro9011,Prince Edward Island,Educational Services,2011,95
+pro9012,Nova Scotia,Educational Services,2010,523
+pro9012,Nova Scotia,Educational Services,2011,482
+pro9013,New Brunswick,Educational Services,2010,0
+pro9013,New Brunswick,Educational Services,2011,349
+pro9024,Quebec,Educational Services,2010,0
+pro9024,Quebec,Educational Services,2011,4018
+pro9035,Ontario,Educational Services,2010,0
+pro9035,Ontario,Educational Services,2011,9468
+pro9046,Manitoba,Educational Services,2010,0
+pro9046,Manitoba,Educational Services,2011,692
+pro9047,Saskatchewan,Educational Services,2010,0
+pro9047,Saskatchewan,Educational Services,2011,593
+pro9048,Alberta,Educational Services,2010,0
+pro9048,Alberta,Educational Services,2011,3051
+pro9059,British Columbia,Educational Services,2010,0
+pro9059,British Columbia,Educational Services,2011,4235
+pro9060,Yukon Territory,Educational Services,2011,32
+pro9060,Yukon Territory,Educational Services,2010,0
+pro9061,Northwest Territories,Educational Services,2010,0
+pro9061,Northwest Territories,Educational Services,2011,50
+pro9062,Nunavut,Educational Services,2010,0
+can,Canada,Health Care and Social Assistance,2010,0
+can,Canada,Health Care and Social Assistance,2011,126557
+cnt1201,Shelburne County,Health Care and Social Assistance,2011,30
+cnt1201,Shelburne County,Health Care and Social Assistance,2010,37
+cnt1202,Yarmouth County,Health Care and Social Assistance,2011,108
+cnt1202,Yarmouth County,Health Care and Social Assistance,2010,114
+cnt1203,Digby County,Health Care and Social Assistance,2010,53
+cnt1203,Digby County,Health Care and Social Assistance,2011,50
+cnt1204,Queens County,Health Care and Social Assistance,2010,42
+cnt1204,Queens County,Health Care and Social Assistance,2011,45
+cnt1205,Annapolis County,Health Care and Social Assistance,2011,64
+cnt1205,Annapolis County,Health Care and Social Assistance,2010,51
+cnt1206,Lunenburg County,Health Care and Social Assistance,2010,192
+cnt1206,Lunenburg County,Health Care and Social Assistance,2011,196
+cnt1207,Kings County,Health Care and Social Assistance,2011,248
+cnt1207,Kings County,Health Care and Social Assistance,2010,270
+cnt1208,Hants County,Health Care and Social Assistance,2010,114
+cnt1208,Hants County,Health Care and Social Assistance,2011,101
+cnt1209,Halifax County,Health Care and Social Assistance,2010,1763
+cnt1209,Halifax County,Health Care and Social Assistance,2011,1819
+cnt1210,Colchester County,Health Care and Social Assistance,2010,182
+cnt1210,Colchester County,Health Care and Social Assistance,2011,166
+cnt1211,Cumberland County,Health Care and Social Assistance,2010,98
+cnt1211,Cumberland County,Health Care and Social Assistance,2011,95
+cnt1212,Pictou County,Health Care and Social Assistance,2010,144
+cnt1212,Pictou County,Health Care and Social Assistance,2011,155
+cnt1213,Guysborough County,Health Care and Social Assistance,2010,31
+cnt1213,Guysborough County,Health Care and Social Assistance,2011,28
+cnt1214,Antigonish County,Health Care and Social Assistance,2010,94
+cnt1214,Antigonish County,Health Care and Social Assistance,2011,91
+cnt1215,Inverness County,Health Care and Social Assistance,2011,58
+cnt1215,Inverness County,Health Care and Social Assistance,2010,56
+cnt1216,Richmond County,Health Care and Social Assistance,2010,19
+cnt1216,Richmond County,Health Care and Social Assistance,2011,17
+cnt1217,Cape Breton County,Health Care and Social Assistance,2010,407
+cnt1217,Cape Breton County,Health Care and Social Assistance,2011,396
+cnt1218,Victoria County,Health Care and Social Assistance,2010,41
+cnt1218,Victoria County,Health Care and Social Assistance,2011,37
+ecr21,Cape Breton Region,Health Care and Social Assistance,2011,508
+ecr21,Cape Breton Region,Health Care and Social Assistance,2010,523
+ecr22,North Shore Region,Health Care and Social Assistance,2010,549
+ecr22,North Shore Region,Health Care and Social Assistance,2011,535
+ecr23,Annapolis Valley Region,Health Care and Social Assistance,2010,435
+ecr23,Annapolis Valley Region,Health Care and Social Assistance,2011,413
+ecr24,Southern Region,Health Care and Social Assistance,2010,438
+ecr24,Southern Region,Health Care and Social Assistance,2011,429
+ecr25,Halifax Region,Health Care and Social Assistance,2011,1819
+ecr25,Halifax Region,Health Care and Social Assistance,2010,1763
+pro9010,Newfoundland and Labrador,Health Care and Social Assistance,2011,2135
+pro9010,Newfoundland and Labrador,Health Care and Social Assistance,2010,0
+pro9011,Prince Edward Island,Health Care and Social Assistance,2010,0
+pro9011,Prince Edward Island,Health Care and Social Assistance,2011,493
+pro9012,Nova Scotia,Health Care and Social Assistance,2010,3709
+pro9012,Nova Scotia,Health Care and Social Assistance,2011,3718
+pro9013,New Brunswick,Health Care and Social Assistance,2010,0
+pro9013,New Brunswick,Health Care and Social Assistance,2011,3141
+pro9024,Quebec,Health Care and Social Assistance,2010,0
+pro9024,Quebec,Health Care and Social Assistance,2011,24557
+pro9035,Ontario,Health Care and Social Assistance,2010,0
+pro9035,Ontario,Health Care and Social Assistance,2011,47367
+pro9046,Manitoba,Health Care and Social Assistance,2010,0
+pro9046,Manitoba,Health Care and Social Assistance,2011,4767
+pro9047,Saskatchewan,Health Care and Social Assistance,2010,0
+pro9047,Saskatchewan,Health Care and Social Assistance,2011,3743
+pro9048,Alberta,Health Care and Social Assistance,2010,0
+pro9048,Alberta,Health Care and Social Assistance,2011,15210
+pro9059,British Columbia,Health Care and Social Assistance,2010,0
+pro9059,British Columbia,Health Care and Social Assistance,2011,21028
+pro9060,Yukon Territory,Health Care and Social Assistance,2011,179
+pro9060,Yukon Territory,Health Care and Social Assistance,2010,0
+pro9061,Northwest Territories,Health Care and Social Assistance,2010,0
+pro9061,Northwest Territories,Health Care and Social Assistance,2011,136
+pro9062,Nunavut,Health Care and Social Assistance,2011,83
+pro9062,Nunavut,Health Care and Social Assistance,2010,0
+can,Canada,"Arts, Entertainment and Recreation",2011,38495
+cnt1201,Shelburne County,"Arts, Entertainment and Recreation",2011,21
+cnt1201,Shelburne County,"Arts, Entertainment and Recreation",2010,19
+cnt1202,Yarmouth County,"Arts, Entertainment and Recreation",2011,21
+cnt1202,Yarmouth County,"Arts, Entertainment and Recreation",2010,25
+cnt1203,Digby County,"Arts, Entertainment and Recreation",2010,23
+cnt1202,Yarmouth County,Public Administration,2011,6
+cnt1203,Digby County,"Arts, Entertainment and Recreation",2011,20
+cnt1204,Queens County,"Arts, Entertainment and Recreation",2010,18
+cnt1204,Queens County,"Arts, Entertainment and Recreation",2011,20
+cnt1205,Annapolis County,"Arts, Entertainment and Recreation",2011,33
+cnt1205,Annapolis County,"Arts, Entertainment and Recreation",2010,32
+cnt1206,Lunenburg County,"Arts, Entertainment and Recreation",2010,61
+cnt1206,Lunenburg County,"Arts, Entertainment and Recreation",2011,59
+cnt1207,Kings County,"Arts, Entertainment and Recreation",2011,43
+cnt1207,Kings County,"Arts, Entertainment and Recreation",2010,50
+cnt1208,Hants County,"Arts, Entertainment and Recreation",2010,28
+cnt1208,Hants County,"Arts, Entertainment and Recreation",2011,32
+cnt1209,Halifax County,"Arts, Entertainment and Recreation",2010,381
+cnt1209,Halifax County,"Arts, Entertainment and Recreation",2011,362
+cnt1210,Colchester County,"Arts, Entertainment and Recreation",2010,51
+cnt1210,Colchester County,"Arts, Entertainment and Recreation",2011,55
+cnt1211,Cumberland County,"Arts, Entertainment and Recreation",2010,35
+cnt1211,Cumberland County,"Arts, Entertainment and Recreation",2011,31
+cnt1212,Pictou County,"Arts, Entertainment and Recreation",2010,31
+cnt1212,Pictou County,"Arts, Entertainment and Recreation",2011,31
+cnt1213,Guysborough County,"Arts, Entertainment and Recreation",2010,8
+cnt1213,Guysborough County,"Arts, Entertainment and Recreation",2011,8
+cnt1214,Antigonish County,"Arts, Entertainment and Recreation",2010,16
+cnt1214,Antigonish County,"Arts, Entertainment and Recreation",2011,18
+cnt1215,Inverness County,"Arts, Entertainment and Recreation",2011,17
+cnt1215,Inverness County,"Arts, Entertainment and Recreation",2010,20
+cnt1216,Richmond County,"Arts, Entertainment and Recreation",2010,13
+cnt1216,Richmond County,"Arts, Entertainment and Recreation",2011,11
+cnt1217,Cape Breton County,"Arts, Entertainment and Recreation",2010,94
+cnt1217,Cape Breton County,"Arts, Entertainment and Recreation",2011,72
+cnt1218,Victoria County,"Arts, Entertainment and Recreation",2010,18
+cnt1218,Victoria County,"Arts, Entertainment and Recreation",2011,17
+ecr21,Cape Breton Region,"Arts, Entertainment and Recreation",2011,117
+ecr21,Cape Breton Region,"Arts, Entertainment and Recreation",2010,145
+ecr22,North Shore Region,"Arts, Entertainment and Recreation",2010,141
+ecr22,North Shore Region,"Arts, Entertainment and Recreation",2011,143
+ecr23,Annapolis Valley Region,"Arts, Entertainment and Recreation",2010,110
+ecr23,Annapolis Valley Region,"Arts, Entertainment and Recreation",2011,108
+ecr24,Southern Region,"Arts, Entertainment and Recreation",2010,146
+ecr24,Southern Region,"Arts, Entertainment and Recreation",2011,141
+ecr25,Halifax Region,"Arts, Entertainment and Recreation",2011,362
+ecr25,Halifax Region,"Arts, Entertainment and Recreation",2010,381
+pro9010,Newfoundland and Labrador,"Arts, Entertainment and Recreation",2011,493
+pro9010,Newfoundland and Labrador,"Arts, Entertainment and Recreation",2010,0
+pro9011,Prince Edward Island,"Arts, Entertainment and Recreation",2010,0
+pro9011,Prince Edward Island,"Arts, Entertainment and Recreation",2011,188
+pro9012,Nova Scotia,"Arts, Entertainment and Recreation",2010,923
+pro9012,Nova Scotia,"Arts, Entertainment and Recreation",2011,873
+pro9013,New Brunswick,"Arts, Entertainment and Recreation",2010,0
+pro9013,New Brunswick,"Arts, Entertainment and Recreation",2011,675
+pro9024,Quebec,"Arts, Entertainment and Recreation",2010,0
+pro9024,Quebec,"Arts, Entertainment and Recreation",2011,9994
+pro9035,Ontario,"Arts, Entertainment and Recreation",2010,0
+cnt1218,Victoria County,Public Administration,2011,5
+pro9035,Ontario,"Arts, Entertainment and Recreation",2011,14250
+pro9046,Manitoba,"Arts, Entertainment and Recreation",2010,0
+pro9046,Manitoba,"Arts, Entertainment and Recreation",2011,1122
+cnt1210,Colchester County,Accommodation and Food Services,2011,135
+pro9047,Saskatchewan,"Arts, Entertainment and Recreation",2010,0
+pro9047,Saskatchewan,"Arts, Entertainment and Recreation",2011,991
+pro9048,Alberta,"Arts, Entertainment and Recreation",2010,0
+pro9048,Alberta,"Arts, Entertainment and Recreation",2011,3640
+pro9059,British Columbia,"Arts, Entertainment and Recreation",2010,0
+pro9059,British Columbia,"Arts, Entertainment and Recreation",2011,6158
+pro9060,Yukon Territory,"Arts, Entertainment and Recreation",2011,72
+pro9060,Yukon Territory,"Arts, Entertainment and Recreation",2010,0
+pro9061,Northwest Territories,"Arts, Entertainment and Recreation",2010,0
+pro9061,Northwest Territories,"Arts, Entertainment and Recreation",2011,30
+pro9062,Nunavut,"Arts, Entertainment and Recreation",2011,9
+pro9062,Nunavut,"Arts, Entertainment and Recreation",2010,0
+can,Canada,Accommodation and Food Services,2010,0
+can,Canada,Accommodation and Food Services,2011,98654
+cnt1201,Shelburne County,Accommodation and Food Services,2011,33
+cnt1201,Shelburne County,Accommodation and Food Services,2010,45
+cnt1202,Yarmouth County,Accommodation and Food Services,2011,60
+cnt1202,Yarmouth County,Accommodation and Food Services,2010,62
+cnt1203,Digby County,Accommodation and Food Services,2010,88
+cnt1202,Yarmouth County,Public Administration,2010,4
+cnt1203,Digby County,Accommodation and Food Services,2011,84
+cnt1204,Queens County,Accommodation and Food Services,2010,26
+cnt1204,Queens County,Accommodation and Food Services,2011,25
+cnt1205,Annapolis County,Accommodation and Food Services,2011,71
+cnt1205,Annapolis County,Accommodation and Food Services,2010,61
+cnt1206,Lunenburg County,Accommodation and Food Services,2010,159
+cnt1206,Lunenburg County,Accommodation and Food Services,2011,155
+cnt1207,Kings County,Accommodation and Food Services,2011,128
+cnt1207,Kings County,Accommodation and Food Services,2010,160
+cnt1208,Hants County,Accommodation and Food Services,2010,74
+cnt1208,Hants County,Accommodation and Food Services,2011,73
+cnt1209,Halifax County,Accommodation and Food Services,2010,1070
+cnt1209,Halifax County,Accommodation and Food Services,2011,1039
+cnt1210,Colchester County,Accommodation and Food Services,2010,143
+cnt1211,Cumberland County,Accommodation and Food Services,2010,83
+cnt1211,Cumberland County,Accommodation and Food Services,2011,76
+cnt1212,Pictou County,Accommodation and Food Services,2010,127
+cnt1212,Pictou County,Accommodation and Food Services,2011,133
+cnt1213,Guysborough County,Accommodation and Food Services,2010,28
+cnt1213,Guysborough County,Accommodation and Food Services,2011,24
+cnt1214,Antigonish County,Accommodation and Food Services,2010,64
+cnt1214,Antigonish County,Accommodation and Food Services,2011,61
+cnt1215,Inverness County,Accommodation and Food Services,2011,76
+cnt1215,Inverness County,Accommodation and Food Services,2010,85
+cnt1216,Richmond County,Accommodation and Food Services,2010,23
+cnt1216,Richmond County,Accommodation and Food Services,2011,23
+cnt1217,Cape Breton County,Accommodation and Food Services,2010,237
+cnt1217,Cape Breton County,Accommodation and Food Services,2011,226
+cnt1218,Victoria County,Accommodation and Food Services,2010,109
+cnt1218,Victoria County,Accommodation and Food Services,2011,103
+ecr21,Cape Breton Region,Accommodation and Food Services,2011,428
+ecr21,Cape Breton Region,Accommodation and Food Services,2010,454
+ecr22,North Shore Region,Accommodation and Food Services,2010,445
+ecr22,North Shore Region,Accommodation and Food Services,2011,429
+ecr23,Annapolis Valley Region,Accommodation and Food Services,2010,295
+ecr23,Annapolis Valley Region,Accommodation and Food Services,2011,272
+ecr24,Southern Region,Accommodation and Food Services,2010,380
+ecr24,Southern Region,Accommodation and Food Services,2011,357
+cnt1203,Digby County,Public Administration,2010,7
+ecr25,Halifax Region,Accommodation and Food Services,2011,1039
+ecr25,Halifax Region,Accommodation and Food Services,2010,1070
+pro9010,Newfoundland and Labrador,Accommodation and Food Services,2011,1499
+pro9010,Newfoundland and Labrador,Accommodation and Food Services,2010,0
+pro9011,Prince Edward Island,Accommodation and Food Services,2010,0
+pro9011,Prince Edward Island,Accommodation and Food Services,2011,555
+pro9012,Nova Scotia,Accommodation and Food Services,2010,2647
+pro9012,Nova Scotia,Accommodation and Food Services,2011,2551
+pro9013,New Brunswick,Accommodation and Food Services,2010,0
+pro9013,New Brunswick,Accommodation and Food Services,2011,2063
+pro9024,Quebec,Accommodation and Food Services,2010,0
+pro9024,Quebec,Accommodation and Food Services,2011,24092
+pro9035,Ontario,Accommodation and Food Services,2010,0
+pro9035,Ontario,Accommodation and Food Services,2011,35061
+pro9046,Manitoba,Accommodation and Food Services,2010,0
+pro9046,Manitoba,Accommodation and Food Services,2011,2842
+pro9047,Saskatchewan,Accommodation and Food Services,2010,0
+pro9047,Saskatchewan,Accommodation and Food Services,2011,3015
+pro9048,Alberta,Accommodation and Food Services,2010,0
+pro9048,Alberta,Accommodation and Food Services,2011,10813
+pro9059,British Columbia,Accommodation and Food Services,2010,0
+pro9059,British Columbia,Accommodation and Food Services,2011,15768
+pro9060,Yukon Territory,Accommodation and Food Services,2011,211
+pro9060,Yukon Territory,Accommodation and Food Services,2010,0
+pro9061,Northwest Territories,Accommodation and Food Services,2010,0
+pro9061,Northwest Territories,Accommodation and Food Services,2011,140
+pro9062,Nunavut,Accommodation and Food Services,2011,44
+pro9062,Nunavut,Accommodation and Food Services,2010,0
+can,Canada,Other Services (except Public Administration),2010,0
+can,Canada,Other Services (except Public Administration),2011,197135
+cnt1201,Shelburne County,Other Services (except Public Administration),2011,89
+cnt1201,Shelburne County,Other Services (except Public Administration),2010,92
+cnt1202,Yarmouth County,Other Services (except Public Administration),2011,152
+cnt1202,Yarmouth County,Other Services (except Public Administration),2010,155
+cnt1203,Digby County,Other Services (except Public Administration),2010,102
+cnt1203,Digby County,Other Services (except Public Administration),2011,92
+cnt1204,Queens County,Other Services (except Public Administration),2010,56
+cnt1204,Queens County,Other Services (except Public Administration),2011,54
+cnt1205,Annapolis County,Other Services (except Public Administration),2011,156
+cnt1205,Annapolis County,Other Services (except Public Administration),2010,131
+cnt1206,Lunenburg County,Other Services (except Public Administration),2010,268
+cnt1206,Lunenburg County,Other Services (except Public Administration),2011,270
+cnt1207,Kings County,Other Services (except Public Administration),2011,284
+cnt1207,Kings County,Other Services (except Public Administration),2010,322
+cnt1208,Hants County,Other Services (except Public Administration),2010,211
+cnt1208,Hants County,Other Services (except Public Administration),2011,199
+cnt1209,Halifax County,Other Services (except Public Administration),2010,1951
+cnt1209,Halifax County,Other Services (except Public Administration),2011,1846
+cnt1210,Colchester County,Other Services (except Public Administration),2010,280
+cnt1210,Colchester County,Other Services (except Public Administration),2011,278
+cnt1211,Cumberland County,Other Services (except Public Administration),2010,158
+cnt1211,Cumberland County,Other Services (except Public Administration),2011,156
+cnt1206,Lunenburg County,Public Administration,2011,10
+cnt1212,Pictou County,Other Services (except Public Administration),2010,190
+cnt1212,Pictou County,Other Services (except Public Administration),2011,209
+cnt1213,Guysborough County,Other Services (except Public Administration),2010,46
+cnt1213,Guysborough County,Other Services (except Public Administration),2011,41
+cnt1214,Antigonish County,Other Services (except Public Administration),2010,103
+cnt1214,Antigonish County,Other Services (except Public Administration),2011,105
+cnt1215,Inverness County,Other Services (except Public Administration),2011,96
+cnt1215,Inverness County,Other Services (except Public Administration),2010,106
+cnt1216,Richmond County,Other Services (except Public Administration),2010,52
+cnt1216,Richmond County,Other Services (except Public Administration),2011,50
+cnt1217,Cape Breton County,Other Services (except Public Administration),2010,433
+cnt1217,Cape Breton County,Other Services (except Public Administration),2011,414
+cnt1218,Victoria County,Other Services (except Public Administration),2010,88
+cnt1218,Victoria County,Other Services (except Public Administration),2011,70
+ecr21,Cape Breton Region,Other Services (except Public Administration),2011,630
+ecr21,Cape Breton Region,Other Services (except Public Administration),2010,679
+ecr22,North Shore Region,Other Services (except Public Administration),2010,777
+ecr22,North Shore Region,Other Services (except Public Administration),2011,789
+ecr23,Annapolis Valley Region,Other Services (except Public Administration),2010,664
+ecr23,Annapolis Valley Region,Other Services (except Public Administration),2011,639
+ecr24,Southern Region,Other Services (except Public Administration),2010,673
+ecr24,Southern Region,Other Services (except Public Administration),2011,657
+ecr25,Halifax Region,Other Services (except Public Administration),2011,1846
+ecr25,Halifax Region,Other Services (except Public Administration),2010,1951
+pro9010,Newfoundland and Labrador,Other Services (except Public Administration),2011,3261
+pro9010,Newfoundland and Labrador,Other Services (except Public Administration),2010,0
+pro9011,Prince Edward Island,Other Services (except Public Administration),2010,0
+pro9011,Prince Edward Island,Other Services (except Public Administration),2011,877
+pro9012,Nova Scotia,Other Services (except Public Administration),2010,4746
+pro9012,Nova Scotia,Other Services (except Public Administration),2011,4583
+cnt1207,Kings County,Public Administration,2011,13
+pro9013,New Brunswick,Other Services (except Public Administration),2010,0
+pro9013,New Brunswick,Other Services (except Public Administration),2011,3857
+pro9024,Quebec,Other Services (except Public Administration),2010,0
+pro9024,Quebec,Other Services (except Public Administration),2011,41728
+pro9035,Ontario,Other Services (except Public Administration),2010,0
+pro9035,Ontario,Other Services (except Public Administration),2011,73770
+pro9046,Manitoba,Other Services (except Public Administration),2010,0
+pro9046,Manitoba,Other Services (except Public Administration),2011,6083
+pro9047,Saskatchewan,Other Services (except Public Administration),2010,0
+pro9047,Saskatchewan,Other Services (except Public Administration),2011,5973
+pro9048,Alberta,Other Services (except Public Administration),2010,0
+pro9048,Alberta,Other Services (except Public Administration),2011,28312
+pro9059,British Columbia,Other Services (except Public Administration),2010,0
+pro9059,British Columbia,Other Services (except Public Administration),2011,28149
+pro9060,Yukon Territory,Other Services (except Public Administration),2011,237
+pro9060,Yukon Territory,Other Services (except Public Administration),2010,0
+pro9061,Northwest Territories,Other Services (except Public Administration),2010,0
+pro9061,Northwest Territories,Other Services (except Public Administration),2011,241
+pro9062,Nunavut,Other Services (except Public Administration),2011,64
+pro9062,Nunavut,Other Services (except Public Administration),2010,0
+can,Canada,Public Administration,2010,0
+can,Canada,Public Administration,2011,8540
+cnt1201,Shelburne County,Public Administration,2011,7
+cnt1201,Shelburne County,Public Administration,2010,7
+cnt1203,Digby County,Public Administration,2011,7
+cnt1204,Queens County,Public Administration,2010,4
+cnt1204,Queens County,Public Administration,2011,4
+cnt1205,Annapolis County,Public Administration,2011,6
+cnt1205,Annapolis County,Public Administration,2010,5
+cnt1206,Lunenburg County,Public Administration,2010,11
+cnt1207,Kings County,Public Administration,2010,14
+cnt1208,Hants County,Public Administration,2010,4
+cnt1208,Hants County,Public Administration,2011,5
+cnt1209,Halifax County,Public Administration,2010,214
+cnt1209,Halifax County,Public Administration,2011,217
+cnt1210,Colchester County,Public Administration,2010,15
+cnt1210,Colchester County,Public Administration,2011,13
+cnt1211,Cumberland County,Public Administration,2010,6
+cnt1211,Cumberland County,Public Administration,2011,6
+cnt1212,Pictou County,Public Administration,2010,9
+cnt1212,Pictou County,Public Administration,2011,11
+cnt1213,Guysborough County,Public Administration,2010,5
+cnt1213,Guysborough County,Public Administration,2011,5
+cnt1214,Antigonish County,Public Administration,2010,5
+cnt1214,Antigonish County,Public Administration,2011,5
+cnt1215,Inverness County,Public Administration,2011,6
+cnt1215,Inverness County,Public Administration,2010,7
+cnt1216,Richmond County,Public Administration,2010,4
+cnt1216,Richmond County,Public Administration,2011,4
+cnt1217,Cape Breton County,Public Administration,2010,15
+cnt1217,Cape Breton County,Public Administration,2011,13
+ecr21,Cape Breton Region,Public Administration,2011,28
+ecr21,Cape Breton Region,Public Administration,2010,30
+ecr22,North Shore Region,Public Administration,2010,40
+ecr22,North Shore Region,Public Administration,2011,40
+ecr23,Annapolis Valley Region,Public Administration,2010,23
+ecr23,Annapolis Valley Region,Public Administration,2011,24
+ecr24,Southern Region,Public Administration,2010,33
+ecr25,Halifax Region,Public Administration,2010,214
+pro9010,Newfoundland and Labrador,Public Administration,2011,453
+pro9010,Newfoundland and Labrador,Public Administration,2010,0
+pro9011,Prince Edward Island,Public Administration,2010,0
+pro9011,Prince Edward Island,Public Administration,2011,304
+pro9012,Nova Scotia,Public Administration,2010,340
+pro9012,Nova Scotia,Public Administration,2011,345
+pro9013,New Brunswick,Public Administration,2010,0
+pro9013,New Brunswick,Public Administration,2011,334
+pro9024,Quebec,Public Administration,2010,0
+pro9024,Quebec,Public Administration,2011,1846
+pro9035,Ontario,Public Administration,2010,0
+pro9035,Ontario,Public Administration,2011,1352
+pro9046,Manitoba,Public Administration,2010,0
+pro9046,Manitoba,Public Administration,2011,628
+pro9047,Saskatchewan,Public Administration,2010,0
+pro9047,Saskatchewan,Public Administration,2011,1205
+pro9048,Alberta,Public Administration,2010,0
+pro9048,Alberta,Public Administration,2011,764
+pro9059,British Columbia,Public Administration,2010,0
+pro9059,British Columbia,Public Administration,2011,929
+pro9060,Yukon Territory,Public Administration,2011,131
+pro9060,Yukon Territory,Public Administration,2010,0
+pro9061,Northwest Territories,Public Administration,2010,0
+pro9061,Northwest Territories,Public Administration,2011,163
+pro9062,Nunavut,Public Administration,2011,86
+pro9062,Nunavut,Public Administration,2010,0
+cnt1207,Kings,Construction,2007,397
+cnt1201,Shelburne,All Industries,2007,1446
+cnt1202,Yarmouth,All Industries,2007,2110
+cnt1203,Digby,All Industries,2007,1370
+cnt1204,Queens,All Industries,2007,987
+cnt1205,Annapolis,All Industries,2007,1221
+cnt1206,Lunenburg,All Industries,2007,2669
+cnt1207,Kings,All Industries,2007,3161
+cnt1208,Hants,All Industries,2007,2078
+cnt1209,Halifax,All Industries,2007,24176
+cnt1210,Colchester,All Industries,2007,3058
+cnt1211,Cumberland,All Industries,2007,1570
+cnt1212,Pictou,All Industries,2007,2243
+cnt1213,Guysborough,All Industries,2007,675
+cnt1214,Antigonish,All Industries,2007,1219
+cnt1215,Inverness,All Industries,2007,926
+cnt1216,Richmond,All Industries,2007,453
+cnt1217,Cape Breton,All Industries,2007,3956
+cnt1218,Victoria,All Industries,2007,897
+pro9012,Nova Scotia,All Industries,2007,54767
+cnt1201,Shelburne,"Agriculture, Forestry, Fishing and Hunting",2007,557
+cnt1202,Yarmouth,"Agriculture, Forestry, Fishing and Hunting",2007,610
+cnt1203,Digby,"Agriculture, Forestry, Fishing and Hunting",2007,361
+cnt1204,Queens,"Agriculture, Forestry, Fishing and Hunting",2007,97
+cnt1205,Annapolis,"Agriculture, Forestry, Fishing and Hunting",2007,211
+cnt1206,Lunenburg,"Agriculture, Forestry, Fishing and Hunting",2007,271
+cnt1207,Kings,"Agriculture, Forestry, Fishing and Hunting",2007,390
+cnt1208,Hants,"Agriculture, Forestry, Fishing and Hunting",2007,203
+cnt1209,Halifax,"Agriculture, Forestry, Fishing and Hunting",2007,332
+cnt1210,Colchester,"Agriculture, Forestry, Fishing and Hunting",2007,317
+cnt1211,Cumberland,"Agriculture, Forestry, Fishing and Hunting",2007,265
+cnt1212,Pictou,"Agriculture, Forestry, Fishing and Hunting",2007,282
+cnt1213,Guysborough,"Agriculture, Forestry, Fishing and Hunting",2007,234
+cnt1214,Antigonish,"Agriculture, Forestry, Fishing and Hunting",2007,234
+cnt1215,Inverness,"Agriculture, Forestry, Fishing and Hunting",2007,199
+cnt1216,Richmond,"Agriculture, Forestry, Fishing and Hunting",2007,87
+cnt1217,Cape Breton,"Agriculture, Forestry, Fishing and Hunting",2007,294
+cnt1218,Victoria,"Agriculture, Forestry, Fishing and Hunting",2007,266
+pro9012,Nova Scotia,"Agriculture, Forestry, Fishing and Hunting",2007,5241
+cnt1201,Shelburne,"Mining, Quarrying, and Oil and Gas Extraction",2007,0
+cnt1202,Yarmouth,"Mining, Quarrying, and Oil and Gas Extraction",2007,0
+cnt1203,Digby,"Mining, Quarrying, and Oil and Gas Extraction",2007,0
+cnt1204,Queens,"Mining, Quarrying, and Oil and Gas Extraction",2007,0
+cnt1205,Annapolis,"Mining, Quarrying, and Oil and Gas Extraction",2007,8
+cnt1206,Lunenburg,"Mining, Quarrying, and Oil and Gas Extraction",2007,6
+cnt1207,Kings,"Mining, Quarrying, and Oil and Gas Extraction",2007,8
+cnt1208,Hants,"Mining, Quarrying, and Oil and Gas Extraction",2007,9
+cnt1209,Halifax,"Mining, Quarrying, and Oil and Gas Extraction",2007,85
+cnt1210,Colchester,"Mining, Quarrying, and Oil and Gas Extraction",2007,9
+cnt1211,Cumberland,"Mining, Quarrying, and Oil and Gas Extraction",2007,0
+cnt1212,Pictou,"Mining, Quarrying, and Oil and Gas Extraction",2007,7
+cnt1213,Guysborough,"Mining, Quarrying, and Oil and Gas Extraction",2007,0
+cnt1214,Antigonish,"Mining, Quarrying, and Oil and Gas Extraction",2007,6
+cnt1215,Inverness,"Mining, Quarrying, and Oil and Gas Extraction",2007,0
+cnt1216,Richmond,"Mining, Quarrying, and Oil and Gas Extraction",2007,0
+cnt1217,Cape Breton,"Mining, Quarrying, and Oil and Gas Extraction",2007,14
+cnt1218,Victoria,"Mining, Quarrying, and Oil and Gas Extraction",2007,0
+pro9012,Nova Scotia,"Mining, Quarrying, and Oil and Gas Extraction",2007,170
+cnt1201,Shelburne,Utilities,2007,0
+cnt1202,Yarmouth,Utilities,2007,0
+cnt1203,Digby,Utilities,2007,0
+cnt1204,Queens,Utilities,2007,0
+cnt1205,Annapolis,Utilities,2007,0
+cnt1206,Lunenburg,Utilities,2007,3
+cnt1207,Kings,Utilities,2007,5
+cnt1208,Hants,Utilities,2007,9
+cnt1209,Halifax,Utilities,2007,20
+cnt1210,Colchester,Utilities,2007,0
+cnt1211,Cumberland,Utilities,2007,0
+cnt1212,Pictou,Utilities,2007,0
+cnt1213,Guysborough,Utilities,2007,0
+cnt1214,Antigonish,Utilities,2007,0
+cnt1215,Inverness,Utilities,2007,0
+cnt1216,Richmond,Utilities,2007,0
+cnt1217,Cape Breton,Utilities,2007,6
+cnt1218,Victoria,Utilities,2007,0
+pro9012,Nova Scotia,Utilities,2007,61
+cnt1201,Shelburne,Construction,2007,92
+cnt1202,Yarmouth,Construction,2007,169
+cnt1203,Digby,Construction,2007,132
+cnt1204,Queens,Construction,2007,118
+cnt1205,Annapolis,Construction,2007,144
+cnt1206,Lunenburg,Construction,2007,384
+cnt1208,Hants,Construction,2007,369
+cnt1209,Halifax,Construction,2007,2865
+cnt1210,Colchester,Construction,2007,339
+cnt1211,Cumberland,Construction,2007,157
+cnt1212,Pictou,Construction,2007,254
+cnt1213,Guysborough,Construction,2007,58
+cnt1214,Antigonish,Construction,2007,129
+cnt1215,Inverness,Construction,2007,101
+cnt1216,Richmond,Construction,2007,60
+cnt1217,Cape Breton,Construction,2007,417
+cnt1218,Victoria,Construction,2007,54
+pro9012,Nova Scotia,Construction,2007,6298
+cnt1201,Shelburne,Manufacturing,2007,166
+cnt1202,Yarmouth,Manufacturing,2007,134
+cnt1203,Digby,Manufacturing,2007,98
+cnt1204,Queens,Manufacturing,2007,56
+cnt1205,Annapolis,Manufacturing,2007,53
+cnt1206,Lunenburg,Manufacturing,2007,128
+cnt1207,Kings,Manufacturing,2007,92
+cnt1208,Hants,Manufacturing,2007,82
+cnt1209,Halifax,Manufacturing,2007,601
+cnt1210,Colchester,Manufacturing,2007,125
+cnt1211,Cumberland,Manufacturing,2007,68
+cnt1212,Pictou,Manufacturing,2007,95
+cnt1213,Guysborough,Manufacturing,2007,32
+cnt1214,Antigonish,Manufacturing,2007,43
+cnt1215,Inverness,Manufacturing,2007,22
+cnt1216,Richmond,Manufacturing,2007,20
+cnt1217,Cape Breton,Manufacturing,2007,119
+cnt1218,Victoria,Manufacturing,2007,36
+pro9012,Nova Scotia,Manufacturing,2007,1999
+cnt1201,Shelburne,Wholesale Trade,2007,81
+cnt1202,Yarmouth,Wholesale Trade,2007,110
+cnt1203,Digby,Wholesale Trade,2007,49
+cnt1204,Queens,Wholesale Trade,2007,33
+cnt1205,Annapolis,Wholesale Trade,2007,52
+cnt1206,Lunenburg,Wholesale Trade,2007,111
+cnt1207,Kings,Wholesale Trade,2007,124
+cnt1208,Hants,Wholesale Trade,2007,64
+cnt1209,Halifax,Wholesale Trade,2007,1378
+cnt1210,Colchester,Wholesale Trade,2007,165
+cnt1211,Cumberland,Wholesale Trade,2007,72
+cnt1212,Pictou,Wholesale Trade,2007,71
+cnt1213,Guysborough,Wholesale Trade,2007,21
+cnt1214,Antigonish,Wholesale Trade,2007,34
+cnt1215,Inverness,Wholesale Trade,2007,20
+cnt1216,Richmond,Wholesale Trade,2007,14
+cnt1217,Cape Breton,Wholesale Trade,2007,156
+cnt1218,Victoria,Wholesale Trade,2007,17
+pro9012,Nova Scotia,Wholesale Trade,2007,2603
+cnt1201,Shelburne,Retail Trade,2007,114
+cnt1202,Yarmouth,Retail Trade,2007,202
+cnt1203,Digby,Retail Trade,2007,181
+cnt1204,Queens,Retail Trade,2007,139
+cnt1205,Annapolis,Retail Trade,2007,127
+cnt1206,Lunenburg,Retail Trade,2007,337
+cnt1207,Kings,Retail Trade,2007,422
+cnt1208,Hants,Retail Trade,2007,237
+cnt1209,Halifax,Retail Trade,2007,2263
+cnt1210,Colchester,Retail Trade,2007,388
+cnt1211,Cumberland,Retail Trade,2007,212
+cnt1212,Pictou,Retail Trade,2007,283
+cnt1213,Guysborough,Retail Trade,2007,61
+cnt1214,Antigonish,Retail Trade,2007,147
+cnt1215,Inverness,Retail Trade,2007,115
+cnt1216,Richmond,Retail Trade,2007,55
+cnt1217,Cape Breton,Retail Trade,2007,568
+cnt1218,Victoria,Retail Trade,2007,90
+pro9012,Nova Scotia,Retail Trade,2007,6002
+cnt1201,Shelburne,Transportation and Warehousing,2007,50
+cnt1202,Yarmouth,Transportation and Warehousing,2007,72
+cnt1203,Digby,Transportation and Warehousing,2007,58
+cnt1204,Queens,Transportation and Warehousing,2007,48
+cnt1205,Annapolis,Transportation and Warehousing,2007,49
+cnt1206,Lunenburg,Transportation and Warehousing,2007,108
+cnt1207,Kings,Transportation and Warehousing,2007,152
+cnt1208,Hants,Transportation and Warehousing,2007,151
+cnt1209,Halifax,Transportation and Warehousing,2007,952
+cnt1210,Colchester,Transportation and Warehousing,2007,224
+cnt1211,Cumberland,Transportation and Warehousing,2007,93
+cnt1212,Pictou,Transportation and Warehousing,2007,119
+cnt1213,Guysborough,Transportation and Warehousing,2007,37
+cnt1214,Antigonish,Transportation and Warehousing,2007,60
+cnt1215,Inverness,Transportation and Warehousing,2007,49
+cnt1216,Richmond,Transportation and Warehousing,2007,21
+cnt1217,Cape Breton,Transportation and Warehousing,2007,173
+cnt1218,Victoria,Transportation and Warehousing,2007,40
+pro9012,Nova Scotia,Transportation and Warehousing,2007,2491
+cnt1201,Shelburne,Information and Cultural Industries,2007,6
+cnt1202,Yarmouth,Information and Cultural Industries,2007,13
+cnt1203,Digby,Information and Cultural Industries,2007,9
+cnt1204,Queens,Information and Cultural Industries,2007,12
+cnt1205,Annapolis,Information and Cultural Industries,2007,13
+cnt1206,Lunenburg,Information and Cultural Industries,2007,38
+cnt1207,Kings,Information and Cultural Industries,2007,26
+cnt1208,Hants,Information and Cultural Industries,2007,9
+cnt1209,Halifax,Information and Cultural Industries,2007,564
+cnt1210,Colchester,Information and Cultural Industries,2007,18
+cnt1211,Cumberland,Information and Cultural Industries,2007,13
+cnt1212,Pictou,Information and Cultural Industries,2007,21
+cnt1213,Guysborough,Information and Cultural Industries,2007,5
+cnt1214,Antigonish,Information and Cultural Industries,2007,10
+cnt1215,Inverness,Information and Cultural Industries,2007,7
+cnt1216,Richmond,Information and Cultural Industries,2007,0
+cnt1217,Cape Breton,Information and Cultural Industries,2007,35
+cnt1218,Victoria,Information and Cultural Industries,2007,10
+pro9012,Nova Scotia,Information and Cultural Industries,2007,817
+cnt1201,Shelburne,Finance and Insurance,2007,38
+cnt1202,Yarmouth,Finance and Insurance,2007,104
+cnt1203,Digby,Finance and Insurance,2007,64
+cnt1204,Queens,Finance and Insurance,2007,44
+cnt1205,Annapolis,Finance and Insurance,2007,58
+cnt1206,Lunenburg,Finance and Insurance,2007,148
+cnt1207,Kings,Finance and Insurance,2007,163
+cnt1208,Hants,Finance and Insurance,2007,90
+cnt1209,Halifax,Finance and Insurance,2007,1652
+cnt1210,Colchester,Finance and Insurance,2007,162
+cnt1211,Cumberland,Finance and Insurance,2007,74
+cnt1212,Pictou,Finance and Insurance,2007,127
+cnt1213,Guysborough,Finance and Insurance,2007,12
+cnt1214,Antigonish,Finance and Insurance,2007,53
+cnt1215,Inverness,Finance and Insurance,2007,22
+cnt1216,Richmond,Finance and Insurance,2007,10
+cnt1217,Cape Breton,Finance and Insurance,2007,174
+cnt1218,Victoria,Finance and Insurance,2007,22
+pro9012,Nova Scotia,Finance and Insurance,2007,3057
+cnt1201,Shelburne,"Real Estate, Rental and Leasing",2007,49
+cnt1202,Yarmouth,"Real Estate, Rental and Leasing",2007,102
+cnt1203,Digby,"Real Estate, Rental and Leasing",2007,43
+cnt1204,Queens,"Real Estate, Rental and Leasing",2007,61
+cnt1205,Annapolis,"Real Estate, Rental and Leasing",2007,73
+cnt1206,Lunenburg,"Real Estate, Rental and Leasing",2007,182
+cnt1207,Kings,"Real Estate, Rental and Leasing",2007,235
+cnt1208,Hants,"Real Estate, Rental and Leasing",2007,122
+cnt1209,Halifax,"Real Estate, Rental and Leasing",2007,2181
+cnt1210,Colchester,"Real Estate, Rental and Leasing",2007,179
+cnt1211,Cumberland,"Real Estate, Rental and Leasing",2007,83
+cnt1212,Pictou,"Real Estate, Rental and Leasing",2007,161
+cnt1213,Guysborough,"Real Estate, Rental and Leasing",2007,23
+cnt1214,Antigonish,"Real Estate, Rental and Leasing",2007,85
+cnt1215,Inverness,"Real Estate, Rental and Leasing",2007,39
+cnt1216,Richmond,"Real Estate, Rental and Leasing",2007,24
+cnt1217,Cape Breton,"Real Estate, Rental and Leasing",2007,268
+cnt1218,Victoria,"Real Estate, Rental and Leasing",2007,27
+pro9012,Nova Scotia,"Real Estate, Rental and Leasing",2007,3965
+cnt1201,Shelburne,"Professional, Scientific and Technical Services",2007,38
+cnt1202,Yarmouth,"Professional, Scientific and Technical Services",2007,78
+cnt1203,Digby,"Professional, Scientific and Technical Services",2007,52
+cnt1204,Queens,"Professional, Scientific and Technical Services",2007,60
+cnt1205,Annapolis,"Professional, Scientific and Technical Services",2007,83
+cnt1206,Lunenburg,"Professional, Scientific and Technical Services",2007,185
+cnt1207,Kings,"Professional, Scientific and Technical Services",2007,242
+cnt1208,Hants,"Professional, Scientific and Technical Services",2007,142
+cnt1209,Halifax,"Professional, Scientific and Technical Services",2007,3125
+cnt1210,Colchester,"Professional, Scientific and Technical Services",2007,185
+cnt1211,Cumberland,"Professional, Scientific and Technical Services",2007,93
+cnt1212,Pictou,"Professional, Scientific and Technical Services",2007,145
+cnt1213,Guysborough,"Professional, Scientific and Technical Services",2007,24
+cnt1214,Antigonish,"Professional, Scientific and Technical Services",2007,82
+cnt1215,Inverness,"Professional, Scientific and Technical Services",2007,48
+cnt1216,Richmond,"Professional, Scientific and Technical Services",2007,18
+cnt1217,Cape Breton,"Professional, Scientific and Technical Services",2007,265
+cnt1218,Victoria,"Professional, Scientific and Technical Services",2007,37
+pro9012,Nova Scotia,"Professional, Scientific and Technical Services",2007,4941
+cnt1201,Shelburne,Management of Companies and Enterprises,2007,35
+cnt1202,Yarmouth,Management of Companies and Enterprises,2007,99
+cnt1203,Digby,Management of Companies and Enterprises,2007,23
+cnt1204,Queens,Management of Companies and Enterprises,2007,35
+cnt1205,Annapolis,Management of Companies and Enterprises,2007,18
+cnt1206,Lunenburg,Management of Companies and Enterprises,2007,73
+cnt1207,Kings,Management of Companies and Enterprises,2007,90
+cnt1208,Hants,Management of Companies and Enterprises,2007,88
+cnt1209,Halifax,Management of Companies and Enterprises,2007,1454
+cnt1210,Colchester,Management of Companies and Enterprises,2007,142
+cnt1211,Cumberland,Management of Companies and Enterprises,2007,47
+cnt1212,Pictou,Management of Companies and Enterprises,2007,92
+cnt1213,Guysborough,Management of Companies and Enterprises,2007,10
+cnt1214,Antigonish,Management of Companies and Enterprises,2007,32
+cnt1215,Inverness,Management of Companies and Enterprises,2007,21
+cnt1216,Richmond,Management of Companies and Enterprises,2007,14
+cnt1217,Cape Breton,Management of Companies and Enterprises,2007,109
+cnt1218,Victoria,Management of Companies and Enterprises,2007,10
+cnt1212,Pictou,"Arts, Entertainment and Recreation",2007,32
+pro9012,Nova Scotia,Management of Companies and Enterprises,2007,2420
+cnt1201,Shelburne,"Administrative and support, waste management and remediation services",2007,21
+cnt1202,Yarmouth,"Administrative and support, waste management and remediation services",2007,53
+cnt1203,Digby,"Administrative and support, waste management and remediation services",2007,24
+cnt1204,Queens,"Administrative and support, waste management and remediation services",2007,26
+cnt1205,Annapolis,"Administrative and support, waste management and remediation services",2007,31
+cnt1206,Lunenburg,"Administrative and support, waste management and remediation services",2007,99
+cnt1207,Kings,"Administrative and support, waste management and remediation services",2007,100
+cnt1208,Hants,"Administrative and support, waste management and remediation services",2007,71
+cnt1209,Halifax,"Administrative and support, waste management and remediation services",2007,1100
+cnt1210,Colchester,"Administrative and support, waste management and remediation services",2007,88
+cnt1211,Cumberland,"Administrative and support, waste management and remediation services",2007,45
+cnt1212,Pictou,"Administrative and support, waste management and remediation services",2007,73
+cnt1213,Guysborough,"Administrative and support, waste management and remediation services",2007,15
+cnt1214,Antigonish,"Administrative and support, waste management and remediation services",2007,23
+cnt1215,Inverness,"Administrative and support, waste management and remediation services",2007,24
+cnt1216,Richmond,"Administrative and support, waste management and remediation services",2007,9
+cnt1217,Cape Breton,"Administrative and support, waste management and remediation services",2007,161
+cnt1218,Victoria,"Administrative and support, waste management and remediation services",2007,15
+pro9012,Nova Scotia,"Administrative and support, waste management and remediation services",2007,2002
+cnt1201,Shelburne,Educational Services,2007,0
+cnt1202,Yarmouth,Educational Services,2007,12
+cnt1203,Digby,Educational Services,2007,8
+cnt1204,Queens,Educational Services,2007,6
+cnt1205,Annapolis,Educational Services,2007,11
+cnt1206,Lunenburg,Educational Services,2007,21
+cnt1207,Kings,Educational Services,2007,31
+cnt1208,Hants,Educational Services,2007,14
+cnt1209,Halifax,Educational Services,2007,307
+cnt1210,Colchester,Educational Services,2007,27
+cnt1211,Cumberland,Educational Services,2007,11
+cnt1212,Pictou,Educational Services,2007,15
+cnt1213,Guysborough,Educational Services,2007,3
+cnt1214,Antigonish,Educational Services,2007,12
+cnt1215,Inverness,Educational Services,2007,7
+cnt1216,Richmond,Educational Services,2007,0
+cnt1217,Cape Breton,Educational Services,2007,41
+cnt1218,Victoria,Educational Services,2007,7
+pro9012,Nova Scotia,Educational Services,2007,546
+cnt1201,Shelburne,Health Care and Social Assistance,2007,40
+cnt1202,Yarmouth,Health Care and Social Assistance,2007,98
+cnt1203,Digby,Health Care and Social Assistance,2007,53
+cnt1204,Queens,Health Care and Social Assistance,2007,58
+cnt1205,Annapolis,Health Care and Social Assistance,2007,61
+cnt1206,Lunenburg,Health Care and Social Assistance,2007,157
+cnt1207,Kings,Health Care and Social Assistance,2007,221
+cnt1208,Hants,Health Care and Social Assistance,2007,101
+cnt1209,Halifax,Health Care and Social Assistance,2007,1608
+cnt1210,Colchester,Health Care and Social Assistance,2007,179
+cnt1211,Cumberland,Health Care and Social Assistance,2007,90
+cnt1212,Pictou,Health Care and Social Assistance,2007,126
+cnt1213,Guysborough,Health Care and Social Assistance,2007,28
+cnt1214,Antigonish,Health Care and Social Assistance,2007,90
+cnt1215,Inverness,Health Care and Social Assistance,2007,45
+cnt1216,Richmond,Health Care and Social Assistance,2007,20
+cnt1217,Cape Breton,Health Care and Social Assistance,2007,370
+cnt1218,Victoria,Health Care and Social Assistance,2007,36
+pro9012,Nova Scotia,Health Care and Social Assistance,2007,3405
+cnt1201,Shelburne,"Arts, Entertainment and Recreation",2007,19
+cnt1202,Yarmouth,"Arts, Entertainment and Recreation",2007,23
+cnt1203,Digby,"Arts, Entertainment and Recreation",2007,20
+cnt1204,Queens,"Arts, Entertainment and Recreation",2007,30
+cnt1205,Annapolis,"Arts, Entertainment and Recreation",2007,31
+cnt1206,Lunenburg,"Arts, Entertainment and Recreation",2007,59
+cnt1207,Kings,"Arts, Entertainment and Recreation",2007,42
+cnt1208,Hants,"Arts, Entertainment and Recreation",2007,39
+cnt1209,Halifax,"Arts, Entertainment and Recreation",2007,399
+cnt1210,Colchester,"Arts, Entertainment and Recreation",2007,61
+cnt1211,Cumberland,"Arts, Entertainment and Recreation",2007,30
+cnt1213,Guysborough,"Arts, Entertainment and Recreation",2007,12
+cnt1214,Antigonish,"Arts, Entertainment and Recreation",2007,15
+cnt1215,Inverness,"Arts, Entertainment and Recreation",2007,16
+cnt1216,Richmond,"Arts, Entertainment and Recreation",2007,10
+cnt1217,Cape Breton,"Arts, Entertainment and Recreation",2007,96
+cnt1218,Victoria,"Arts, Entertainment and Recreation",2007,16
+pro9012,Nova Scotia,"Arts, Entertainment and Recreation",2007,961
+cnt1201,Shelburne,Accommodation and Food Services,2007,39
+cnt1202,Yarmouth,Accommodation and Food Services,2007,76
+cnt1203,Digby,Accommodation and Food Services,2007,75
+cnt1204,Queens,Accommodation and Food Services,2007,67
+cnt1205,Annapolis,Accommodation and Food Services,2007,63
+cnt1206,Lunenburg,Accommodation and Food Services,2007,126
+cnt1207,Kings,Accommodation and Food Services,2007,140
+cnt1208,Hants,Accommodation and Food Services,2007,71
+cnt1209,Halifax,Accommodation and Food Services,2007,1083
+cnt1210,Colchester,Accommodation and Food Services,2007,150
+cnt1211,Cumberland,Accommodation and Food Services,2007,66
+cnt1212,Pictou,Accommodation and Food Services,2007,137
+cnt1213,Guysborough,Accommodation and Food Services,2007,33
+cnt1214,Antigonish,Accommodation and Food Services,2007,59
+cnt1215,Inverness,Accommodation and Food Services,2007,87
+cnt1216,Richmond,Accommodation and Food Services,2007,34
+cnt1217,Cape Breton,Accommodation and Food Services,2007,231
+cnt1218,Victoria,Accommodation and Food Services,2007,112
+pro9012,Nova Scotia,Accommodation and Food Services,2007,2680
+cnt1201,Shelburne,Other Services (except Public Administration),2007,91
+cnt1202,Yarmouth,Other Services (except Public Administration),2007,147
+cnt1203,Digby,Other Services (except Public Administration),2007,106
+cnt1204,Queens,Other Services (except Public Administration),2007,89
+cnt1205,Annapolis,Other Services (except Public Administration),2007,127
+cnt1206,Lunenburg,Other Services (except Public Administration),2007,225
+cnt1207,Kings,Other Services (except Public Administration),2007,271
+cnt1208,Hants,Other Services (except Public Administration),2007,201
+cnt1209,Halifax,Other Services (except Public Administration),2007,1923
+cnt1210,Colchester,Other Services (except Public Administration),2007,287
+cnt1211,Cumberland,Other Services (except Public Administration),2007,140
+cnt1212,Pictou,Other Services (except Public Administration),2007,197
+cnt1213,Guysborough,Other Services (except Public Administration),2007,55
+cnt1214,Antigonish,Other Services (except Public Administration),2007,98
+cnt1215,Inverness,Other Services (except Public Administration),2007,97
+cnt1216,Richmond,Other Services (except Public Administration),2007,50
+cnt1217,Cape Breton,Other Services (except Public Administration),2007,448
+cnt1218,Victoria,Other Services (except Public Administration),2007,95
+pro9012,Nova Scotia,Other Services (except Public Administration),2007,4703
+cnt1201,Shelburne,Public Administration,2007,6
+cnt1202,Yarmouth,Public Administration,2007,4
+cnt1203,Digby,Public Administration,2007,11
+cnt1204,Queens,Public Administration,2007,5
+cnt1205,Annapolis,Public Administration,2007,8
+cnt1206,Lunenburg,Public Administration,2007,8
+cnt1207,Kings,Public Administration,2007,10
+cnt1208,Hants,Public Administration,2007,6
+cnt1209,Halifax,Public Administration,2007,284
+cnt1210,Colchester,Public Administration,2007,11
+cnt1211,Cumberland,Public Administration,2007,7
+cnt1212,Pictou,Public Administration,2007,0
+cnt1213,Guysborough,Public Administration,2007,6
+cnt1214,Antigonish,Public Administration,2007,5
+cnt1215,Inverness,Public Administration,2007,5
+cnt1216,Richmond,Public Administration,2007,4
+cnt1217,Cape Breton,Public Administration,2007,11
+cnt1218,Victoria,Public Administration,2007,5
+pro9012,Nova Scotia,Public Administration,2007,405

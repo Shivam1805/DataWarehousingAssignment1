@@ -1,0 +1,2623 @@
+﻿ComID,GeogName,Type,Year,Amount,KG
+cnt1204,Queens,Finfish,2006,0,0
+cnt1216,Richmond,Other Species,2008,213786,50994
+cnt1217,Cape Breton,Other Species,2006,10905,6770
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1201,Shelburne,All Species,2009,17129612,2152010
+cnt1201,Shelburne,All Species,2010,18813741,2409199
+cnt1201,Shelburne,All Species,2007,15892563,1786962
+cnt1201,Shelburne,All Species,2011,15210832,1988806
+cnt1201,Shelburne,All Species,2008,14425379,1642657
+cnt1202,Yarmouth,Finfish,2006,1231985,312221
+cnt1202,Yarmouth,Finfish,2008,1948573,493852
+cnt1202,Yarmouth,Finfish,2010,1828908,483134
+cnt1202,Yarmouth,Finfish,2009,1424000,346245
+cnt1202,Yarmouth,Finfish,2011,2136080,464084
+cnt1202,Yarmouth,Finfish,2007,1454658,391044
+cnt1203,Digby,Finfish,2010,4943963,1159064
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,2577500,504700
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,234461,43647
+cnt1206,Lunenburg,Shellfish,2007,9194300,1737638
+cnt1206,Lunenburg,Shellfish,2008,3569663,1697520
+cnt1206,Lunenburg,Shellfish,2006,14260873,1528618
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,9103000,1541324
+cnt1206,Lunenburg,Shellfish,2010,488167,127273
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,7144139,1230640
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,774811,77428
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,973869,87208
+cnt1210,Colchester,Other Species,2006,1013495,102825
+cnt1210,Colchester,Other Species,2011,591228,49263
+cnt1211,Cumberland,Other Species,2006,843277,86867
+cnt1211,Cumberland,Other Species,2007,1343678,136867
+cnt1211,Cumberland,Other Species,2011,2913662,259059
+cnt1211,Cumberland,Other Species,2008,2048398,157029
+cnt1211,Cumberland,Other Species,2009,2524927,200222
+cnt1211,Cumberland,Other Species,2010,1916536,264438
+cnt1212,Pictou,Other Species,2006,964091,51431
+cnt1212,Pictou,Other Species,2007,1561025,111522
+cnt1212,Pictou,Other Species,2011,1817593,173455
+cnt1212,Pictou,Other Species,2010,1445135,167666
+cnt1212,Pictou,Other Species,2009,1285501,151100
+cnt1212,Pictou,Other Species,2008,2022245,118757
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,18503,6736
+cnt1215,Inverness,Other Species,2008,70400,13674
+cnt1215,Inverness,Other Species,2007,20424,3596
+cnt1215,Inverness,Other Species,2010,10645,970
+cnt1215,Inverness,Other Species,2006,68968,24308
+cnt1215,Inverness,Other Species,2011,85585,16348
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,1074153,425061
+cnt1216,Richmond,Other Species,2011,256100,30086
+cnt1216,Richmond,Other Species,2009,342320,273140
+cnt1216,Richmond,Other Species,2007,1173610,215818
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,12898,2491
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,2132161,1533512
+cnt1218,Victoria,Other Species,2009,1258355,974986
+cnt1218,Victoria,Other Species,2007,1699481,1268876
+cnt1218,Victoria,Other Species,2010,1755070,1358989
+cnt1218,Victoria,Other Species,2011,1286108,1002788
+cnt1218,Victoria,Other Species,2008,1031434,757940
+pro9012,Nova Scotia,Other Species,2007,52989156,10180552
+pro9012,Nova Scotia,Other Species,2009,57877524,10516752
+pro9012,Nova Scotia,Other Species,2006,42239784,7661412
+pro9012,Nova Scotia,Other Species,2008,36193518,7337164
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,7808327,229799
+pro9012,Nova Scotia,Other Species,2009,4846987,147052
+pro9012,Nova Scotia,Other Species,2006,4419017,121828
+pro9012,Nova Scotia,Other Species,2008,6326143,125969
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,40293459,7053406
+cnt1216,Richmond,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2009,47646215,7776783
+pro9012,Nova Scotia,Other Species,2006,31334729,4113359
+pro9012,Nova Scotia,Other Species,2008,25200299,5045201
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+pro9012,Nova Scotia,Other Species,2008,1424012,329471
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,35819208,6779161
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2007,821421,199315
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,542545,93475
+pro9012,Nova Scotia,Other Species,2006,421700,40124
+pro9012,Nova Scotia,Other Species,2008,545882,91974
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+pro9012,Nova Scotia,Other Species,2006,812890,77611
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+pro9012,Nova Scotia,Other Species,2009,43017671,7437590
+pro9012,Nova Scotia,Other Species,2006,27793887,3820378
+pro9012,Nova Scotia,Other Species,2008,19259312,4638229
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2008,1383975,132636
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,3390021,156414
+pro9012,Nova Scotia,Other Species,2009,2756032,112393
+pro9012,Nova Scotia,Other Species,2006,2306252,175246
+pro9012,Nova Scotia,Other Species,2008,3915900,171850
+cnt1207,Kings,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,962943,107134
+pro9012,Nova Scotia,Other Species,2009,1329967,133325
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,121287,10697
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+cnt1203,Digby,Finfish,2011,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,4887370,2897347
+pro9012,Nova Scotia,Other Species,2009,5384322,2592917
+pro9012,Nova Scotia,Other Species,2006,6486038,3426225
+pro9012,Nova Scotia,Other Species,2008,4667076,2165994
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,3461106,2475916
+pro9012,Nova Scotia,Other Species,2009,2628636,1892876
+pro9012,Nova Scotia,Other Species,2006,3692367,2731730
+pro9012,Nova Scotia,Other Species,2008,2430258,1676655
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,407592,210675
+pro9012,Nova Scotia,Other Species,2009,2056827,538738
+pro9012,Nova Scotia,Other Species,2006,1872258,423626
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2009,676105,158742
+pro9012,Nova Scotia,Other Species,2006,630094,174957
+pro9012,Nova Scotia,Other Species,2008,652391,151005
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,197251,11441
+pro9012,Nova Scotia,Other Species,2009,22754,2561
+pro9012,Nova Scotia,Other Species,2006,291319,95912
+pro9012,Nova Scotia,Other Species,2008,160415,8863
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,0,0
+cnt1201,Shelburne,All Species,2009,0,0
+cnt1201,Shelburne,All Species,2010,0,0
+cnt1201,Shelburne,All Species,2007,0,0
+cnt1201,Shelburne,All Species,2011,0,0
+cnt1201,Shelburne,All Species,2008,0,0
+cnt1202,Yarmouth,Finfish,2006,0,0
+cnt1202,Yarmouth,Finfish,2008,0,0
+cnt1202,Yarmouth,Finfish,2010,0,0
+cnt1202,Yarmouth,Finfish,2009,0,0
+cnt1202,Yarmouth,Finfish,2011,0,0
+cnt1202,Yarmouth,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2010,0,0
+cnt1203,Digby,Finfish,2011,0,0
+cnt1203,Digby,Finfish,2007,0,0
+cnt1203,Digby,Finfish,2009,0,0
+cnt1203,Digby,Finfish,2006,0,0
+cnt1203,Digby,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2008,0,0
+cnt1204,Queens,Finfish,2011,0,0
+cnt1204,Queens,Finfish,2007,0,0
+cnt1204,Queens,Finfish,2009,0,0
+cnt1204,Queens,Finfish,2010,0,0
+cnt1204,Queens,Finfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2009,0,0
+cnt1205,Annapolis,Shellfish,2008,0,0
+cnt1205,Annapolis,Shellfish,2011,0,0
+cnt1205,Annapolis,Shellfish,2007,0,0
+cnt1205,Annapolis,Shellfish,2006,0,0
+cnt1205,Annapolis,Shellfish,2010,0,0
+cnt1206,Lunenburg,Shellfish,2011,0,0
+cnt1206,Lunenburg,Shellfish,2007,0,0
+cnt1206,Lunenburg,Shellfish,2008,0,0
+cnt1206,Lunenburg,Shellfish,2006,0,0
+cnt1206,Lunenburg,Shellfish,2009,0,0
+cnt1206,Lunenburg,Shellfish,2010,0,0
+cnt1207,Kings,Other Species,2008,0,0
+cnt1207,Kings,Other Species,2006,0,0
+cnt1207,Kings,Other Species,2010,0,0
+cnt1207,Kings,Other Species,2011,0,0
+cnt1207,Kings,Other Species,2007,0,0
+cnt1207,Kings,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2011,0,0
+cnt1208,Hants,Other Species,2008,0,0
+cnt1208,Hants,Other Species,2009,0,0
+cnt1208,Hants,Other Species,2007,0,0
+cnt1208,Hants,Other Species,2010,0,0
+cnt1208,Hants,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2008,0,0
+cnt1209,Halifax,Other Species,2011,0,0
+cnt1209,Halifax,Other Species,2006,0,0
+cnt1209,Halifax,Other Species,2007,0,0
+cnt1209,Halifax,Other Species,2009,0,0
+cnt1209,Halifax,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2010,0,0
+cnt1210,Colchester,Other Species,2008,0,0
+cnt1210,Colchester,Other Species,2009,0,0
+cnt1210,Colchester,Other Species,2007,0,0
+cnt1210,Colchester,Other Species,2006,0,0
+cnt1210,Colchester,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2006,0,0
+cnt1211,Cumberland,Other Species,2007,0,0
+cnt1211,Cumberland,Other Species,2011,0,0
+cnt1211,Cumberland,Other Species,2008,0,0
+cnt1211,Cumberland,Other Species,2009,0,0
+cnt1211,Cumberland,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2006,0,0
+cnt1212,Pictou,Other Species,2007,0,0
+cnt1212,Pictou,Other Species,2011,0,0
+cnt1212,Pictou,Other Species,2010,0,0
+cnt1212,Pictou,Other Species,2009,0,0
+cnt1212,Pictou,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2010,0,0
+cnt1213,Guysborough,Other Species,2006,0,0
+cnt1213,Guysborough,Other Species,2011,0,0
+cnt1213,Guysborough,Other Species,2007,0,0
+cnt1213,Guysborough,Other Species,2008,0,0
+cnt1213,Guysborough,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2010,0,0
+cnt1214,Antigonish,Other Species,2006,0,0
+cnt1214,Antigonish,Other Species,2007,0,0
+cnt1214,Antigonish,Other Species,2009,0,0
+cnt1214,Antigonish,Other Species,2011,0,0
+cnt1214,Antigonish,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2009,0,0
+cnt1215,Inverness,Other Species,2008,0,0
+cnt1215,Inverness,Other Species,2007,0,0
+cnt1215,Inverness,Other Species,2010,0,0
+cnt1215,Inverness,Other Species,2006,0,0
+cnt1215,Inverness,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2010,0,0
+cnt1216,Richmond,Other Species,2006,0,0
+cnt1216,Richmond,Other Species,2011,0,0
+cnt1216,Richmond,Other Species,2009,0,0
+cnt1216,Richmond,Other Species,2007,0,0
+cnt1216,Richmond,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2006,0,0
+cnt1217,Cape Breton,Other Species,2008,0,0
+cnt1217,Cape Breton,Other Species,2011,0,0
+cnt1217,Cape Breton,Other Species,2010,0,0
+cnt1217,Cape Breton,Other Species,2007,0,0
+cnt1217,Cape Breton,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2006,0,0
+cnt1218,Victoria,Other Species,2009,0,0
+cnt1218,Victoria,Other Species,2007,0,0
+cnt1218,Victoria,Other Species,2010,0,0
+cnt1218,Victoria,Other Species,2011,0,0
+cnt1218,Victoria,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2007,0,0
+pro9012,Nova Scotia,Other Species,2011,0,0
+pro9012,Nova Scotia,Other Species,2009,0,0
+pro9012,Nova Scotia,Other Species,2006,0,0
+pro9012,Nova Scotia,Other Species,2008,0,0
+pro9012,Nova Scotia,Other Species,2010,0,0
+cnt1201,Shelburne,All Species,2006,13327782,1450555
+pro9012,Nova Scotia,Other Species,2011,10895,1255
+pro9012,Nova Scotia,Other Species,2010,15367,2333
+pro9012,Nova Scotia,Other Species,2011,1396348,340780
+pro9012,Nova Scotia,Other Species,2011,1583925,1374130
+pro9012,Nova Scotia,Other Species,2011,1795592,124162
+pro9012,Nova Scotia,Other Species,2010,189901,438399
+pro9012,Nova Scotia,Other Species,2010,2547911,2121109
+pro9012,Nova Scotia,Other Species,2010,2726543,127909
+pro9012,Nova Scotia,Other Species,2011,27293883,5444801
+pro9012,Nova Scotia,Other Species,2010,29313826,4959828
+pro9012,Nova Scotia,Other Species,2010,3473327,2766371
+pro9012,Nova Scotia,Other Species,2010,32931713,5179046
+pro9012,Nova Scotia,Other Species,2011,3885001,1962310
+pro9012,Nova Scotia,Other Species,2011,3940272,179514
+pro9012,Nova Scotia,Other Species,2010,891344,91309
+pro9012,Nova Scotia,Other Species,2011,33029747,5748477
+pro9012,Nova Scotia,Other Species,2010,4896144,172205
+pro9012,Nova Scotia,Other Species,2010,41301184,8117622
+pro9012,Nova Scotia,Other Species,2011,43286645,8016915
+pro9012,Nova Scotia,Other Species,2011,6371897,306128
+pro9012,Nova Scotia,Other Species,2010,720148,204530
+pro9012,Nova Scotia,Other Species,2011,893833,246145

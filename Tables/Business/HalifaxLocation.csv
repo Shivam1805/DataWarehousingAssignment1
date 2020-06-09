@@ -1,0 +1,2128 @@
+﻿ID,Description
+CPLID1,Berlin St. Oxford to Dublin
+CPLID10,Main Ave. Ford to Bedford Highway
+CPLID100,Harrietsfield School
+CPLID1000,Northwest Arm
+CPLID1001,Demetreous Lane Court
+CPLID1002,Mainland Common
+CPLID1003,Metropolitan Field
+CPLID1004,Mount Edward Ball Field
+CPLID1005,Baker Drive
+CPLID1006,Western Commons
+CPLID1007,101 Landfill
+CPLID1008,Otter Lake
+CPLID1009,Bayer's Lake - 20 Horseshoe Lake Drive
+CPLID101,Basinview School
+CPLID1010,Ragged Lake - 61 Evergreen Place
+CPLID1011,Cogswell Street Interchange
+CPLID1012,Barrington St at MacKay Bridge Interchange Appr
+CPLID1013,Argyle Street
+CPLID1014,Herring Cove (PCR and Armdale Roundabout)
+CPLID1015,Gottingen at Cogswell
+CPLID1016,Hammonds Plains at Crestfield
+CPLID1017,Fall River at Trunk 2
+CPLID1018,Windsor/Cunard/Chebucto
+CPLID1019,MacLennan Drive
+CPLID102,Uplands Park
+CPLID1020,Fairview Overpass
+CPLID1021,Dartmouth Sportsplex
+CPLID1022,Waverley Rd - Civic #814 to Spider Lake
+CPLID1023,Simmonds Rd - North Preston to End
+CPLID1024,Cow Bay Rd - Buffalo Club to Dyke (S)
+CPLID1025,Dyke Rd - Frederick to Cow Bay (S)
+CPLID1026,Astral Dr - Caldwell to Selig
+CPLID1027,"Colby Dr - Deerbrooke to Hampton Green
+"
+CPLID1028,Colby Dr - Cumberland to Briarlynn (S)
+CPLID1029,"Fiddlers Grn - Nova to Flagstone
+"
+CPLID103,Gaston Road Park
+CPLID1030,"Flagstone Dr - Colby to Flagstone
+"
+CPLID1031,"Hampton Grn - 2014 Limits to Colby
+"
+CPLID1032,"Commodore Dr - Spectacle Lake to Burnside
+"
+CPLID1033,"Finlay Dr (W) - Wright to 80m S McClure
+"
+CPLID1034,Finlay Dr (E) - 80m S McClure to Wright
+CPLID1035,Finlay Dr - 80m S McClure to Commodore
+CPLID1036,Leaman Dr - Crystal to Cul du Sac
+CPLID1037,"South Park St - University to Spring Garden
+"
+CPLID1038,Cornwallis St - Barrington to North Park
+CPLID1039,Chebucto Rd - Armdale Rot to Mumford
+CPLID104,Albro Lake Boardwalk
+CPLID1040,Mumford Rd - Chebucto to Leppert
+CPLID1041,Stuart Graham Dr - Mumford to End
+CPLID1042,"Radcliffe Dr - Stockleigh to Lacewood 
+"
+CPLID1043,Lacewood Dr - Lincoln Cross to Radcliffe
+CPLID1044,"Larry Uteck Blvd - Bluewater to Hammonds Plains
+"
+CPLID1045,"Trunk 2 - Holland to Collins
+"
+CPLID1046,"Winley Dr - Windsor Junction to Ingram
+"
+CPLID1047,"North Preston Rd - Johnson to Simmonds
+"
+CPLID1048,"Dyke Rd - Frederick to Cow Bay (N)
+"
+CPLID1049,Bissett Rd - Cow Bay to Civic #1051
+CPLID105,Ravenscraig to Fleming Park Trail
+CPLID1050,Mount Edward Rd - Bellevista to Lucien
+CPLID1051,"Trunk 7 - Forest Hills to Montague
+"
+CPLID1052,"Pleasant St - Portland to Renfrew
+"
+CPLID1053,Main St - Ridgecrest to Forest Hills
+CPLID1054,"Waverley Rd - Braemar to Breeze
+"
+CPLID1055,"Barrington St - MacKay Bridge to Duffus
+"
+CPLID1056,Old Sambro Rd - MacIntosh Run to Rockingstone
+CPLID1057,Langbrae - Parkland to Dunbrack
+CPLID1058,"Millwood Dr - Sackville to Rafting
+"
+CPLID1059,"Sackville Dr - Patton (E) to Patton (W)
+"
+CPLID106,Lost Creek Park
+CPLID1060,Old Sackville Rd - Sackville to Sackville Cross
+CPLID1061,"Meadowbrook Dr - Bedford Hwy to Basinview
+"
+CPLID1062,Idlewylde - Withrod to End
+CPLID1063,Bond St - Evans to Vimy
+CPLID1064,Aldergrove Dr - Herring Cove to End
+CPLID1065,"Charlton Ave - Herring Cove to End
+"
+CPLID1066,"Whalen Ave - Herring Cove to End
+"
+CPLID1067,"Hayes St - Charlton to End
+"
+CPLID1068,"Pockwock Rd - 2.6 km from End to End
+"
+CPLID1069,"Colby Dr - Hampton Green to Hardisty
+"
+CPLID107,Hubbards
+CPLID1070,St Margaret`s Bay Rd - Douglas to Fenerty
+CPLID1071,BR74 Oakland Rd CN Bridge
+CPLID1072,Canavan Dr - Danny to End
+CPLID1073,"Station 4, 5830 Duffus Street Halifax"
+CPLID1074,"Station 13, 86 King Street Dartmouth"
+CPLID1075,Dartmouth Sportsplex
+CPLID1076,St. Margaret's Centre
+CPLID1077,Shore Rd - Romkey to Caldwell
+CPLID1078,Atlantic St - Pleasant to Ferry Terminal
+CPLID1079,Windmill Rd - Seapoint to Bancroft
+CPLID108,Kinsmen Beach
+CPLID1080,Strath Ln - Rannoch to Raymoor
+CPLID1081,Hammonds Plains Rd - Brookshire to Smith
+CPLID1082,Bedford Hwy - Civic 1687 to Walkway to Rocky Lake
+CPLID1083,Mount Hope to Woodside - Orion Court to Pleasant Street
+CPLID1084,Morris - LeMarchant to Lower Water
+CPLID1085,Barrington Greenway - North to Niobi Gate
+CPLID1086,Penhorn Lake Greenway
+CPLID1087,Halifax Urban Greenway
+CPLID1088,Chain of Lakes Greenway 
+CPLID1089,St Margarets Bay Rails
+CPLID109,Kingswood
+CPLID1090,Sackville Greenway
+CPLID1091,Swan Crescent - Carmella to End
+CPLID1092,Evans Drive - Halfway Lake to End
+CPLID1093,Birchpond Crt - Tara to End
+CPLID1094,Carmella Dr - Route 333 to Lot B22
+CPLID1095,Bayshore Dr - Prospect to Lot 19
+CPLID1096,Glendale Dr - McDougall to Metropolitan
+CPLID1097,St. Margaret's Bay Rd - Douglas to Fenerty
+CPLID1098,Canavan Dr - Danny to End
+CPLID1099,Portland St - Green Village to Hwy 111
+CPLID11,Titus St. Evans to Main
+CPLID110,Quinn St - Chebucto to Quinpool
+CPLID1100,Burnside Drive - Commodore to Wright
+CPLID1101,MacDonald Sports Park
+CPLID1102,Porters Lake 
+CPLID1103,Windmill Rd - Wright to Civic 552
+CPLID1104,Herring Cove Rd - Glenora to Civic 222
+CPLID1105,Coronation Ave - Willet to Gesner
+CPLID1106,Coronation Ave - Willet to Hillcrest
+CPLID1107,Dartmouth Rd - Brentwood to Ridgevale
+CPLID1108,Regal Rd - Collins Grove to Portland
+CPLID1109,Mainland North Community Connector
+CPLID111,Rolling Hills Dr - Waverley to Civic 276
+CPLID1110,Mainland North Community Connector
+CPLID1111,Mainland North Community Connector
+CPLID1112,Sackville-Bedford Greenway - Adjacent to 1746 Bedford Hwy
+CPLID1113,Atlantic View Greenway
+CPLID1114,"Beechville, Lakeside, Timberlea Trail"
+CPLID1115,Crimson Dr. to Sackville Lakes Park Parking Lot (Sackville Lakes Parks & Trail)
+CPLID1116,Saltwater Marsh
+CPLID1117,Gaetz Brook AT Greenway 
+CPLID1118,Chain of Lakes Greenway
+CPLID1119,Africville
+CPLID112,Caldwell Rd - Hines to Macdonalds Beach
+CPLID1120,Fall River Road and Lockview
+CPLID1121,Trunk 7 - Hillsboro to end of asphalt sidewalk
+CPLID1122,Trunk 7 - Montague to end of asphalt sidewalk
+CPLID1123,BR7 Forest Hills Parkway
+CPLID1124,BR74 Oakland Rd
+CPLID1125,BR26 Lady Hammond Rd
+CPLID1126,Fairview Overpass
+CPLID1127,BR30 Morris Lake Pedestrian Bridge
+CPLID1128,BR40 Old Sackville Rd
+CPLID1129,BR81 MacKay Bridge Approach
+CPLID113,Hardisty Crt - Colby Dr to Loop Itslef
+CPLID1130,BR84 MacKay Bridge Approach
+CPLID1131,BR114 Magazine Hill Overpass
+CPLID1132,BR115 Victori Rd CN Track Overpass
+CPLID1133,BR128 MacKay Bridge Approach
+CPLID1134,BR131 Barrington St Overpass over CN Rail
+CPLID1135,BR007 Cole Harbour High School Pedestrian Path  
+CPLID1136,BR026 Lady Hammond Rd Bridge                     
+CPLID1137,BR41 Lucasville Rd Bridge
+CPLID1138,BR65 Rosley Rd Bridge     
+CPLID1139,Macdonald Bridge 
+CPLID114,Micmac Blvd South - Woodland to Kent Driveway (Glencairn (private))
+CPLID1140,Delmerle Dr - Tara to end
+CPLID1141,Denford Rd - Stoney Beach to Lot 42
+CPLID1142,Spruceview Dr - Denford to  end
+CPLID1143,Maple Dr - Terence Bay to Delmerle
+CPLID1144,Tara Dr - Terence Bay to Birch
+CPLID1145,Prospect River Crt - Forest Glade to end
+CPLID1146,Tidal Way - Bayshore to end
+CPLID1147,Birch Cove Ln
+CPLID1148,Dickson Ave
+CPLID1149,Brule to Pinecrest
+CPLID115,Agricola St (W) - Livingstone to Young
+CPLID1150,Dunbrack St - Rosedale to Gesner
+CPLID1151,Bedford Hwy - Rocky Lake to Civic 1687
+CPLID1152,Bedford Hwy - Oakmount to North Mall entry
+CPLID1153,Cliff St
+CPLID1154,Bedford Hwy
+CPLID1155,Cobequid Rd - Civic 1358
+CPLID1156,Cobequid Rd - at Regwood Dr
+CPLID1157,Rocky Lake Dr
+CPLID1158,Waverley Rd (Multiple Locations)
+CPLID1159,Waverley Rd Under Hwy 118
+CPLID116,Tupper Grv - Prince Arthur to Armview
+CPLID1160,Ross Rd at Salmon River Rd
+CPLID1161,Burnside Dr - Between Commodore/Wright
+CPLID1162,Barrington St MacKay Bridge Approaches
+CPLID1163,Herring Cove Rd - Civic 22
+CPLID1164,Purcell's Cove Rd at Williams Lake Rd
+CPLID1165,Dartmouth Rd - Civic 89
+CPLID1166,Cliff St
+CPLID1167,Regal Rd - Civic 101
+CPLID1168,3 Dunrobin Dr to 24 Gourok Ave
+CPLID1169,48 Skeena St to 42 Saguenay Pl
+CPLID117,Withrod Dr - Herring Cove to Mountain
+CPLID1170,2320 Armcrescent West Ave - 2291 Quinn Street
+CPLID1171,Alder Cres - Civic 101
+CPLID1172,147 Nordic Cres to Leslie Thomas Jr. High School
+CPLID1173,15 Fourth St to 15 Panorama Ln
+CPLID1174,Regal Rd 
+CPLID1175,North St (Dartmouth)
+CPLID1176,201 Brownlow Ave 
+CPLID1177,Quinpool Seawall
+CPLID1178,Purcell's Cove Rd at Williams Lake Rd
+CPLID1179,Herring Cove Rd - Civic 22
+CPLID118,Dunbrack St - Knightsridge to Wentworth
+CPLID1180,Coronation Dr - Hillcrest to Willett
+CPLID1181,Newcastle St - Old Ferry to Civic 95
+CPLID1182,Newcastle St - Old Ferry to Pleasant
+CPLID1183,Strath Ln - Raymoor to Helene
+CPLID1184,Preston St - Quinpool to Pepperell
+CPLID1185,Preston St - Watt to Payzant
+CPLID1186,Almon St - Robie to Civic 6034
+CPLID1187,Almon St - Robie to Civic 6055
+CPLID1188,Almon St - Gottingen to Isleville
+CPLID1189,Kempt Rd - Commission to Livingstone
+CPLID119,Old Sambro Rd - Leiblin to Halfway Point
+CPLID1190,North St - Chebucto to Oxford
+CPLID1191,Robie St - Young to Livingstone
+CPLID1192,St. Margaret's Bay Rd - Quarry to Ferndale
+CPLID1193,Dentith Rd - Herring Cove to Mall entry
+CPLID1194,Leiblin Dr - Rockingstone to Elmdale
+CPLID1195,Bedford Hwy - North Mall entrance to Oakmount
+CPLID1196,Cow Bay Rd - Main to Hornes
+CPLID1197,Trunk 7 - Hillsboro to end of asphalt
+CPLID1198,Trunk 7 - Montague to end of asphalt
+CPLID1199,Newcastle St - Old Ferry to Albert
+CPLID12,Metro Transit - Penhorn Mall Terminal
+CPLID120,"Chain Lake Dr (E, W) - Washmill to Lovett Lake"
+CPLID1200,Chestnut St - Coburg to Watt
+CPLID1201,Chestnut St - Coburg to Payzant
+CPLID1202,Chestnut St - Payzant to Watt
+CPLID1203,Lilac St - Payzant to Coburg
+CPLID1204,Payzant Ave - Larch to Lilac
+CPLID1205,Armcrescent West Ave - First to Benjamin Green
+CPLID1206,Benjamin Green Ave - Chebucto to Armcrescent
+CPLID1207,Herring Cove Rd - Cherry to Civic 222
+CPLID1208,South Armcrescent Ave - First to Quinpool
+CPLID1209,Coronation Ave - Hillcrest to Alex
+CPLID121,MacIntosh Depot Salt Shed
+CPLID1210,Coronation Ave - Alex to Birch
+CPLID1211,Leiblin Dr - Elmdale to Old Sambro
+CPLID1212,Dartmouth Rd - Eaglewood to end of sidewalk
+CPLID1213,Montague Rd - Civic 1206 to Montague Mines
+CPLID1214,Newcastle St - Old Ferry to Pleasant
+CPLID1215,Perth Dr - Westwood Strath
+CPLID1216,Strath Ln - Caledonia to Helene
+CPLID1217,Westwood Dr - Caledonia to end
+CPLID1218,Preston St - Quinpool to Payzant
+CPLID1219,Cogswell St - Robie to North Park
+CPLID122,Canada Games Centre
+CPLID1220,Brunswick Street 
+CPLID1221,Almon St - Oxford to Gottingen
+CPLID1222,Columbus St - Kempt to Massachusetts
+CPLID1223,Kempt Rd - Commission to Young
+CPLID1224,Robie St - Livingstone to Young
+CPLID1225,Stairs St - Kempt to Massachusetts
+CPLID1226,George Dauphinee Ave - Bayers to Ralph Devlin
+CPLID1227,St. Margaret's Bay Rd - Douglas to Quarry
+CPLID1228,Birch Cove Ln - Kearney Lake to end
+CPLID1229,Dickson Ave - Woodbury to end
+CPLID123,Dartmouth Bridge Terminal
+CPLID1230,Fox Glove/Parmbelle/Scarlet 
+CPLID1231,Riverwood Dr - Eisener to Sprucewood
+CPLID1232,Hammonds Plains Road  - Lucasville to Kingswood
+CPLID1233,First Lake Dr - Crimson to Cobequid
+CPLID1234,Glendale Dr - Riverside to 150m SE McDougall
+CPLID1235,Lydgate Dr - Metropolitan to Lumsden
+CPLID1236,Lynnville Dr - Lydgate to Lennox
+CPLID1237,Bedford Hwy - Hwy 102 to Rocky Lake
+CPLID1238,Doyle St - Hammonds Plains to Landsburg
+CPLID1239,Elmridge Ave - Rolling Hills to end
+CPLID124,Sullivan's Pond
+CPLID1240,Overbrook Dr - Rolling Hills to end
+CPLID1241,Stayner Dr - Overbrook to Stoney Ridge
+CPLID1242,Stoney Ridge Ln - Rolling Hills to end
+CPLID1243,Les Collins Ave - Hwy 207 to end
+CPLID1244,Cow Bay Rd - Hornes to Main
+CPLID1245,Main Rd - Harvard to Hines
+CPLID1246,Regal Rd - Portland to Dorothea
+CPLID1247,Badger Ave - Rattling to end
+CPLID1248,Montague Rd - Montague Mines to Serpentine
+CPLID1249,Rattling Ave - Gander to Badger
+CPLID125,Sullivan's Pond to Harbour
+CPLID1250,Serpentine Ave - Montague to end
+CPLID1251,Newcastle Rd - Maitland to Old Ferry
+CPLID1252,Pleasant St - Prince Albert to Portland
+CPLID1253,Portland St - Pleasant to Lakefront
+CPLID1254,Portland St - Manor to Hwy 111
+CPLID1255,Prince Albert Rd - Sinclair to Hawthorne
+CPLID1256,Prince Albert Rd - Glenwood to Chittick
+CPLID1257,Wright Ave - Isnor to Burnside
+CPLID1258,Chestnut St - Shirley to Coburg
+CPLID1259,Lilac St - Coburg to Payzant
+CPLID126,Chain Lake/Horseshoe
+CPLID1260,Payzant Ave - Larch to Chestnut
+CPLID1261,Gottingen St - Young to Almon
+CPLID1262,Kaye St - Young to Gottingen
+CPLID1263,Kenny St - Novalea to Devonshire
+CPLID1264,Novalea Dr - Young to Stanley
+CPLID1265,Union St - Young to Kenny
+CPLID1266,Armcrescent Ave E/W - First to Benjamin Green
+CPLID1267,Benjamin Green Dr - Armcrescent to Chebucto
+CPLID1268,First St - Connaught to Armcrescent West
+CPLID1269,Herring Cove Rd - Glenora to Old Sambro
+CPLID127,Chain Lake/Lakelands
+CPLID1270,South Armcrescent St - First to Quinpool
+CPLID1271,Third St - Newton to Connaught
+CPLID1272,Coronation Ave - Gesner to Birch
+CPLID1273,Eastcoast Crt - Rockhaven to end
+CPLID1274,Rockhaven Dr - Woodbury to Falcon
+CPLID1275,Layton Rd - Herring Cove to Penny
+CPLID1276,Woodcrest Ave - Herring Cove to end
+CPLID1277,White Birch Dr - Johnson to Riverwood
+CPLID1278,Anderson Crt - Anderson to end
+CPLID1279,Anderson Rd - Pockwock to end
+CPLID128,Spring Garden/Queen
+CPLID1280,Debbie Dr - Franklyn to Sherri
+CPLID1281,Franklyn Dr - Pinehaven to Debbie
+CPLID1282,Sherri Ln - Pinehaven to Debbie
+CPLID1283,Cobequid Rd - Glendale to First Lake
+CPLID1284,Kipling Dr - Maplegrove to Kipling
+CPLID1285,Lumsden Cres - Lydgate to Lynville
+CPLID1286,Marie Dr - Maplegrove to Kipling
+CPLID1287,Cliff St - Bedford Hwy to Pine
+CPLID1288,Dartmouth Rd - Bedford Hwy to Bedford Bypass
+CPLID1289,Estelle Ave - Olive to Lewis
+CPLID129,Portland/Alderney/Prince Albert
+CPLID1290,Olive Ave - Lewis to Bernard
+CPLID1291,Cobequid Rd - Judy Anne to Sucker Brook
+CPLID1292,Cobequid Rd - Judy Anne to Sucker Brook
+CPLID1293,Glenwood Ave - Civic 57
+CPLID1294,Cogswell Interchange
+CPLID1295,Barrington Street
+CPLID1296,Argyle Grafton Street
+CPLID1297,Chebucto/Windsor/Cunard
+CPLID1298,MacLennan Drive
+CPLID1299,Sackville Dr at Sackville Cross Rd
+CPLID13,Metro Transit - Micmac Mall Terminal
+CPLID130,Robie/University
+CPLID1300,Sackville Dr at Beaver Bank Rd
+CPLID1301,Glendale Dr at Raymond Dr
+CPLID1302,Coburg Rd at Edward St
+CPLID1303,Ross Road
+CPLID1304,Dutch Village Rd
+CPLID1305,Forest Hills/Flying Cloud/Chameau
+CPLID1306,Washmill Lake Crt at Main Ave
+CPLID1307,Baker Dr at Freshwater Trail
+CPLID1308,Chebucto Rd at Benjamin Green
+CPLID1309,Windsor St at Almon St
+CPLID131,Quinpool/Robie
+CPLID1310,Agricola St at Almon St
+CPLID1311,Quinpool Rd at Preston St
+CPLID1312,Prince Albert Rd at Hawthorne St
+CPLID1313,Robie St at South St
+CPLID1314,Landfill 101
+CPLID1315,Otter Lake
+CPLID1316,20 Horshoe Lake Dr
+CPLID1317,61 Evergreen Place
+CPLID1318,Otter Lake 
+CPLID1319,Cole Harbour All Weather Field
+CPLID132,Spring Garden/Summer
+CPLID1320,Cornwallis Park
+CPLID1321,Fort Needham
+CPLID1322,Cole Harbour Commons
+CPLID1323,Westridge Ball Field
+CPLID1324,Sheldrake Lake
+CPLID1325,Titus Smith Park
+CPLID1326,Regatta Point
+CPLID1327,Mainland Commons
+CPLID1328,Mount Edward Road Ball Diamond
+CPLID1329,Baker Drive Community Park
+CPLID133,Halifax Harbour Bridges (McDonald)
+CPLID1330,Nicholas Lake Trail
+CPLID1331,Beazley Field
+CPLID1332,Wanderers Grounds
+CPLID1333,Fort Needham
+CPLID1334,North Common
+CPLID1335,White's Lake Swim Area
+CPLID1336,Blue Mountain Birch Cove Park
+CPLID1337,Belvedere Playground
+CPLID1338,Sidney Crescent
+CPLID1339,Baker Drive Field
+CPLID134,Kincardine Dr - Inverary to Dumbarton
+CPLID1340,Porters Lake Canal
+CPLID1341,Gordon R. Snow
+CPLID1342,Purcell's Cove Backlands
+CPLID1343,High Head Barrens Park (Prospect)
+CPLID1344,Atlantic View Elementary School
+CPLID1345,Audrey's Park
+CPLID1346,Bass Court Park
+CPLID1347,Brookhouse Elementary
+CPLID1348,Brownlow Park
+CPLID1349,Chaswood Drive Park
+CPLID135,Queen St - Morris to Spring Garden
+CPLID1350,Cherry Brook
+CPLID1351,Cole Harbour Place
+CPLID1352,Dartmouth North Community Centre
+CPLID1353,Feetham Park
+CPLID1354,Freshwater Trail Park
+CPLID1355,Hawthorne School
+CPLID1356,Inglis Street School/Gorsebrook Park
+CPLID1357,Joseph Howe Elementary School
+CPLID1358,Long Lake Drive Park
+CPLID1359,Lynette Road Park
+CPLID136,Sackville St - Bell to Brunswick
+CPLID1360,Maynard Lake Park
+CPLID1361,Munroe Park
+CPLID1362,Nelson Whynder School
+CPLID1363,Parkdale Park
+CPLID1364,Prospect Elementary School
+CPLID1365,Roaches Pond Park
+CPLID1366,Robert Drive Park
+CPLID1367,Saint Mary's Boat Club
+CPLID1368,Sarto Park at Mount Edward School
+CPLID1369,Seaview Community Park
+CPLID137,"Robie St (E, W) - University to Spring Garden"
+CPLID1370,Southgate Drive Park (Ravines)
+CPLID1371,Springfield Lake Recreation Centre
+CPLID1372,Transom Drive
+CPLID1373,Westwind Ridge Park
+CPLID1374,Winslow Drive Park
+CPLID1375,Wynn Castle Drive Park
+CPLID1376,Bunchberry Lane Park
+CPLID1377,Cole Harbour Commons
+CPLID1378,Point Pleasant Park
+CPLID1379,Public Gardens
+CPLID138,Captain William Spry Centre
+CPLID1380,Horseshoe Island
+CPLID1381,Sir Sandford Fleming Park
+CPLID1382,Long Lake Park
+CPLID1383,Gordon R. Snow
+CPLID1384,Alderney Landing
+CPLID1385,Chebucto Wharf
+CPLID1386,Northwest Arm Seawall
+CPLID1387,Humber Park
+CPLID1388,Ashburn Park
+CPLID1389,Roaches Pond Park
+CPLID139,Little Sackville River Park
+CPLID1390,Lakecrest Drive Park
+CPLID1391,Springfield Lake Recreation Centre
+CPLID1392,Purcell's Cove Park
+CPLID1393,Graves Oakley
+CPLID1394,Morash Court
+CPLID1395,Joseph Howe Elementary School
+CPLID1396,Kingswood Field
+CPLID1397,Le Marchant St. Thomas School Field
+CPLID1398,Mainland Commons
+CPLID1399,Mainland Commons Artificial Field
+CPLID14,Metro Transit - Cobequid Rd Terminal
+CPLID140,Sackville Drive
+CPLID1400,Eisenhauer Court
+CPLID1401,North Preston Field
+CPLID1402,Metropolitan Field
+CPLID1403,Burnside Transit Centre
+CPLID1404,Ragged Lake Transit Centre
+CPLID1405,Halifax Ferry Terminal
+CPLID1406,Dartmouth Ferry Terminal
+CPLID1407,Woodside Ferry Terminal
+CPLID1408,Dartmouth Ferry Terminal
+CPLID1409,Halifax Ferry Terminal
+CPLID141,Alderney Ferry Terminal
+CPLID1410,Mumford Terminal
+CPLID1411,Burnside Transit Centre
+CPLID1412,Bayer's Road
+CPLID1413,Gottingen Street
+CPLID1414,Woodside Ferry Terminal
+CPLID1415,Wrights Cove Terminal
+CPLID1416,Alderney Gate
+CPLID1417,Bedford Outdoor Pool
+CPLID1418,BMO Centre
+CPLID1419,Chocolate Lake Community Centre
+CPLID142,Halifax Ferry Terminal
+CPLID1420,Cole Harbour Place
+CPLID1421,Halifax Commons Pool
+CPLID1422,Eric Spicer 
+CPLID1423,Halifax City Hall
+CPLID1424,Cowie Hill Depot
+CPLID1425,Mackintosh Depot
+CPLID1426,Turner Drive Depot
+CPLID1427,Dartmouth Ferry Terminal
+CPLID1428,Halifax Ferry Terminal
+CPLID1429,Canada Games Centre
+CPLID143,Highfield Terminal
+CPLID1430,Centennial Pool
+CPLID1431,Eastern Shore Community Centre
+CPLID1432,Musquodoboit Harbour Village Plaza
+CPLID1433,St. Margaret's Centre
+CPLID1434,Dartmouth North Community Centre
+CPLID1435,Evergreen House
+CPLID1436,Northbrook Community Centre
+CPLID1437,Wallace Lucas Community Centre
+CPLID1438,Sackville Sports Stadium
+CPLID1439,Scotiabank Centre
+CPLID144,Lacewood Terminal
+CPLID1440,Acadia School
+CPLID1441,Tallahassee Recreation Centre
+CPLID1442,Upper Hammonds Plains Community Centre
+CPLID1443,Dartmouth Sportsplex
+CPLID1444,Central Library
+CPLID1445,Dartmouth Multi-Pad
+CPLID1446,Dartmouth North Community Centre
+CPLID1447,Former Arby's Restaurant Bedford
+CPLID1448,Former Sackville Centennial School
+CPLID1449,Evergreen House
+CPLID145,Ragged Lake Transit Center (80 Grassy Lake)
+CPLID1450,"Fire Station 2, University Ave"
+CPLID1451,Thornhill Depot
+CPLID1452,Bedford Library
+CPLID1453,North Branch Library
+CPLID1454,Halifax North Memorial Library
+CPLID1455,Dartmouth North Community Centre
+CPLID1456,Keshen Goodman Library
+CPLID1457,Alderney Gate Library
+CPLID1458,Burnsdie Transit Centre
+CPLID1459,Metropark
+CPLID146,HRM Community Centre Adjacent to CP Allen High School
+CPLID1460,St.St. Margaret's Centre
+CPLID1461,Halifax Forum
+CPLID1462,Power House
+CPLID1463,Keshen Goodman Library
+CPLID1464,Mainland Commons
+CPLID1465,Halifax Ferry Terminal
+CPLID1466,Upper Hammonds Plains Community Centre
+CPLID1467,Sambro/Harrietsfield Fire Station
+CPLID1468,Scotiabank Centre
+CPLID1469,Shubenacadie Greenway Trail
+CPLID147,Mount Hermon Cemetery
+CPLID1470,St. Andrew's Community Centre
+CPLID1471,Fleming Cottage
+CPLID1472,BR57 Walker Bridge
+CPLID1473,New Composting Plant
+CPLID1474,Fall River 
+CPLID1475,Herring Cove
+CPLID1476,Cole Harbour View Plane
+CPLID1477,Eastern Shore
+CPLID1478,Mainland North Community Connector
+CPLID1479,River-Lake Greenway 
+CPLID148,Camp Hill Cemetery
+CPLID1480,Bedford West Greenway
+CPLID149,Middle Musquodoboit Elementary School
+CPLID15,Second St
+CPLID150,Agricola St
+CPLID151,Young St
+CPLID152,Young St
+CPLID153,Vincent St
+CPLID154,Micmac St
+CPLID155,Huron St
+CPLID156,Huron St
+CPLID157,Swaine St
+CPLID158,Swaine St
+CPLID159,Armcrescent East Dr
+CPLID16,Robie St
+CPLID160,Armcrescent East Dr
+CPLID161,Armcrescent West Dr
+CPLID162,Fourth St
+CPLID163,Armcrescent East Dr
+CPLID164,Highway 101 Landfill Leachate Treatment Plant
+CPLID165,Hwy 101 Landfill
+CPLID166,Cell 5 - Otter Lake
+CPLID167,Otter Lake Depot
+CPLID168,Burnside Drive Trail
+CPLID169,Peninsula North-South AT Corridor
+CPLID1696,Captain William Spry Community Centre
+CPLID1697,Alderney Gate
+CPLID1698,BMO Centre
+CPLID1699,Spring Garden Road Central Library
+CPLID17,Blowers St
+CPLID170,CN Main Line
+CPLID1700,Cole Harbour Place
+CPLID1701,Acadia Centre 
+CPLID1702,Queens Square
+CPLID1703,Alderney Gate
+CPLID1704,Dartmouth Multi-Pad
+CPLID1705,Dartmouth North Community Centre
+CPLID1706,Dartmouth Sportsplex
+CPLID1707,Fire Station 2 - University Avenue
+CPLID1708,Fire Station 3 - West Street
+CPLID1709,Fire Station 4 - Duffus Street
+CPLID171,Porter's Lake MetroX Terminal
+CPLID1710,Fire Station 5 - Bayers Road
+CPLID1711,Fire Station 14 - Second Street
+CPLID1712,Halifax City Hall and Grand Parade
+CPLID1713,375 Cowie Hill Road
+CPLID1714,6 Turner Drive
+CPLID1715,150 Thornhill
+CPLID1716,MacKintosh Depot
+CPLID1717,Halifax Regional Police Headquarter
+CPLID1718,1554 Hollis Street
+CPLID1719,St. Margaret's Centre
+CPLID172,MacDonald Bridge
+CPLID1720,Spryfield Lions Arena 
+CPLID1721,1606 Bell Road
+CPLID1722,Keshen Goodman Library
+CPLID1723,Halifax North Memorial Library
+CPLID1724,Alderney Gate Library
+CPLID1725,Dartmouth North Library
+CPLID1726,Sackville Sports Stadium
+CPLID1727,Sambro/Harrietsfield Fire Station
+CPLID1728,Scotiabank Centre
+CPLID1729,Scotiabank Centre
+CPLID173,Glendale/Chandler
+CPLID1730,Sheet Harbour Recreation Centre
+CPLID1731,St. Andrew's Community Centre 
+CPLID1732,Halifax Regional Police Headquarter
+CPLID1733,Halifax Regional Police Headquarter
+CPLID1734,Halifax Regional Police Headquarter
+CPLID1735,Burnside Transit Centre
+CPLID1736,Burnside Transit Centre
+CPLID1737,Halifax and Alderney Ferry Terminal
+CPLID1738,Halifax and Alderney Ferry Terminal
+CPLID1739,Halifax Ferry Terminal
+CPLID174,Glendale/Pinehill
+CPLID1740,Burnside Transit Centre
+CPLID1741,Ragged Lake Transit Centre
+CPLID1742,Gottingen Street Transit Corridor
+CPLID1743,Intersection at Young Avenue and Robie Street
+CPLID1744,Intersection at Portland Street and Woodlawn
+CPLID1745,Intersection at Main Street and Gordon Avenue
+CPLID1746,Woodside Ferry Terminal 
+CPLID1747,Wrights Cove Terminal
+CPLID1748,Baker Drive Parkland 
+CPLID1749,Beazley Field Complex
+CPLID175,Caldwell Rd - Between Portland and Hampton Green
+CPLID1750,Camp Hill Cemetery 
+CPLID1751,Peace Pavilion
+CPLID1752,Sullivan Pond 
+CPLID1753,Africville
+CPLID1754,Sir William Alexander Cairn
+CPLID1755,Victoria Park 
+CPLID1756,Cole Harbour Place
+CPLID1757,Fort Needham Memorial Park 
+CPLID1758,Turtle Grove (Turtle Cove - Shannon Park)
+CPLID1759,Lake Banook
+CPLID176,Waverley Memorial School
+CPLID1760,Fort Needham 
+CPLID1761,Halifax Commons 
+CPLID1762,White's Lake 
+CPLID1763,Blue Mountain Birch Cove Park
+CPLID1764,Cole Harbour View Plane
+CPLID1765,Sidney Crescent
+CPLID1766,Porter's Lake Canal
+CPLID1767,Purcell's Cove Backlands
+CPLID1768,High Head Barrens Park
+CPLID1769,Fish Hatchery Park 
+CPLID177,500 Block Herring Cove Rd
+CPLID1770,Mainland Common - Off Leash Dog Park 
+CPLID1771,Farrell Street Park 
+CPLID1772,Tomahawk Run Park 
+CPLID1773,Haliburton Hills Trail 
+CPLID1774,Kingswood Subdivision 
+CPLID1775,Birches Park
+CPLID1776,Halifax Christian Academy Park
+CPLID1777,Connaught Battery Park
+CPLID1778,Gorsebrook Park
+CPLID1779,Point Pleasant Park 
+CPLID178,Eddie Leblanc Memorial Ball Park Field
+CPLID1780,Havil Park
+CPLID1781,Cove Road Park
+CPLID1782,Fleetview Drive Park
+CPLID1783,Mandaville Court Park
+CPLID1784,Stanley I Raine Park
+CPLID1785,Glenbourne Park
+CPLID1786,Whimsical Lake Park
+CPLID1787,Flinn Park 
+CPLID1788,Sackville Kinsman Park
+CPLID1789,Bedford Village Park
+CPLID179,Fort Needham
+CPLID1790,Scotia Drive Park
+CPLID1791,Tantallon Woods Park
+CPLID1792,Tallahassee School
+CPLID1793,Astral Drive School
+CPLID1794,Catherine Furnass Park
+CPLID1795,Dartmouth Common 
+CPLID1796,Hartlen Point
+CPLID1797,Earls Road Park
+CPLID1798,Pierre Gingras Memorial Park
+CPLID1799,Sunnyview Terrace
+CPLID18,Blowers St
+CPLID180,Canada Games Diamond .
+CPLID1800,Judy Anne Park
+CPLID1801,Millwood Common Park 
+CPLID1802,Millwood High School Park 
+CPLID1803,Northbrook Park 
+CPLID1804,Oathill Boardwalk
+CPLID1805,William Henry Harry Little Park West 
+CPLID1806,Captain William Spry Centre
+CPLID1807,Donegal Drive Pedestrian Park 
+CPLID1808,Ridgevale Drive Park
+CPLID1809,Buckingham Drive Park 
+CPLID181,Meadowbrook Park  Field
+CPLID1810,Shubie Canal Lock #3 
+CPLID1811,Shubie Campground 
+CPLID1812,Spectacle Lake Boardwalk West
+CPLID1813,Point Pleasant Park 
+CPLID1814,Public Gardens
+CPLID1815,Horseshoe Island Seawall
+CPLID1816,Alderney Land Docks
+CPLID1817,BJ Higgins
+CPLID1818,Meadowbrook
+CPLID1819,Graves Oakley
+CPLID182,Oldfield School Court Resurfacing
+CPLID1820,Pierre Gingras
+CPLID1821,North Preston
+CPLID1822,Castle Hill
+CPLID1823,Central Spryfield
+CPLID1824,Sunset Acres 
+CPLID1825,Landrance Park  
+CPLID1826,Stanley I Raine Park
+CPLID1827,St Marys Boat Club 
+CPLID1828,Northcliffe
+CPLID1829,Don Bayer - Burnside 
+CPLID183,Westmount Tennis Courts
+CPLID1830,LaPierre Ballfield 
+CPLID1831,Prospect Road Community Centre 
+CPLID1832,Wendy's Meadow Park 
+CPLID1833,Heatherglen Park (Lost Creek Community Association Area Rate) - new court
+CPLID1834,Western Commons -Nichols Lake Trail 
+CPLID1835,Otter Lake 
+CPLID1836,Captain William Spry Community Centre
+CPLID1837,Alderney Gate
+CPLID1838,BMO Centre
+CPLID1839,Spring Garden Road Central Library
+CPLID184,Melody Dr (at Bedford Highway )
+CPLID1840,Cole Harbour Place
+CPLID1841,Acadia Centre 
+CPLID1842,Queens Square
+CPLID1843,Alderney Gate
+CPLID1844,Dartmouth Multi-Pad
+CPLID1845,Dartmouth North Community Centre
+CPLID1846,Dartmouth Sportsplex
+CPLID1847,Fire Station 2 - University Avenue
+CPLID1848,Fire Station 3 - West Street
+CPLID1849,Fire Station 4 - Duffus Street
+CPLID185,Fergusons Cove Rd
+CPLID1850,Fire Station 5 - Bayers Road
+CPLID1851,Fire Station 14 - Second Street
+CPLID1852,Halifax City Hall and Grand Parade
+CPLID1853,375 Cowie Hill Road
+CPLID1854,6 Turner Drive
+CPLID1855,150 Thornhill
+CPLID1856,MacKintosh Depot
+CPLID1857,Halifax Regional Police Headquarter
+CPLID1858,1554 Hollis Street
+CPLID1859,St. Margaret's Centre
+CPLID186,Hammonds Plains Rd (near civic 2120)
+CPLID1860,Spryfield Lions Arena 
+CPLID1861,1606 Bell Road
+CPLID1862,Keshen Goodman Library
+CPLID1863,Halifax North Memorial Library
+CPLID1864,Alderney Gate Library
+CPLID1865,Dartmouth North Library
+CPLID1866,Sackville Sports Stadium
+CPLID1867,Sambro/Harrietsfield Fire Station
+CPLID1868,Scotiabank Centre
+CPLID1869,Scotiabank Centre
+CPLID187,Bedford Highway (civic 673 to Fern)
+CPLID1870,Sheet Harbour Recreation Centre
+CPLID1871,St. Andrew's Community Centre 
+CPLID1872,Halifax Regional Police Headquarter
+CPLID1873,Halifax Regional Police Headquarter
+CPLID1874,Halifax Regional Police Headquarter
+CPLID1875,Burnside Transit Centre
+CPLID1876,Burnside Transit Centre
+CPLID1877,Halifax and Alderney Ferry Terminal
+CPLID1878,Halifax and Alderney Ferry Terminal
+CPLID1879,Halifax Ferry Terminal
+CPLID188,civic 31 Lillian Dr to civic 49 Stewart Harris Dr
+CPLID1880,Burnside Transit Centre
+CPLID1881,Ragged Lake Transit Centre
+CPLID1882,Gottingen Street Transit Corridor
+CPLID1883,Intersection at Young Avenue and Robie Street
+CPLID1884,Intersection at Portland Street and Woodlawn
+CPLID1885,Intersection at Main Street and Gordon Avenue
+CPLID1886,Woodside Ferry Terminal 
+CPLID1887,Wrights Cove Terminal
+CPLID1888,Baker Drive Parkland 
+CPLID1889,Beazley Field Complex
+CPLID189,civic 58/60 Pondicherry Cres to 64 Valkyrie Cres
+CPLID1890,Camp Hill Cemetery 
+CPLID1891,Peace Pavilion
+CPLID1892,Sullivan Pond 
+CPLID1893,Africville
+CPLID1894,Sir William Alexander Cairn
+CPLID1895,Victoria Park 
+CPLID1896,Cole Harbour Place
+CPLID1897,Fort Needham Memorial Park 
+CPLID1898,Turtle Grove (Turtle Cove - Shannon Park)
+CPLID1899,Lake Banook
+CPLID19,Grafton St
+CPLID190,civic 96/94 Pondicherry Cres to existing walkway
+CPLID1900,Fort Needham 
+CPLID1901,Halifax Commons 
+CPLID1902,White's Lake 
+CPLID1903,Blue Mountain Birch Cove Park
+CPLID1904,Cole Harbour View Plane
+CPLID1905,Sidney Crescent
+CPLID1906,Porter's Lake Canal
+CPLID1907,Purcell's Cove Backlands
+CPLID1908,High Head Barrens Park
+CPLID1909,Fish Hatchery Park 
+CPLID191,civic 178 Flying Cloud Dr to Joseph Giles School
+CPLID1910,Mainland Common - Off Leash Dog Park 
+CPLID1911,Farrell Street Park 
+CPLID1912,Tomahawk Run Park 
+CPLID1913,Haliburton Hills Trail 
+CPLID1914,Kingswood Subdivision 
+CPLID1915,Birches Park
+CPLID1916,Halifax Christian Academy Park
+CPLID1917,Connaught Battery Park
+CPLID1918,Gorsebrook Park
+CPLID1919,Point Pleasant Park 
+CPLID192,civic 91 Briarlynn Cres to civic 35 Bell Royal Ct
+CPLID1920,Havil Park
+CPLID1921,Cove Road Park
+CPLID1922,Fleetview Drive Park
+CPLID1923,Mandaville Court Park
+CPLID1924,Stanley I Raine Park
+CPLID1925,Glenbourne Park
+CPLID1926,Whimsical Lake Park
+CPLID1927,Flinn Park 
+CPLID1928,Sackville Kinsman Park
+CPLID1929,Bedford Village Park
+CPLID193,civic 193/197 John Stewart Dr to 40/42 Inglewood Cres
+CPLID1930,Scotia Drive Park
+CPLID1931,Tantallon Woods Park
+CPLID1932,Tallahassee School
+CPLID1933,Astral Drive School
+CPLID1934,Catherine Furnass Park
+CPLID1935,Dartmouth Common 
+CPLID1936,Hartlen Point
+CPLID1937,Earls Road Park
+CPLID1938,Pierre Gingras Memorial Park
+CPLID1939,Sunnyview Terrace
+CPLID194,civic 49/51 Noria Cres to civic 100/104 Waterwheel Cres
+CPLID1940,Judy Anne Park
+CPLID1941,Millwood Common Park 
+CPLID1942,Millwood High School Park 
+CPLID1943,Northbrook Park 
+CPLID1944,Oathill Boardwalk
+CPLID1945,William Henry Harry Little Park West 
+CPLID1946,Captain William Spry Centre
+CPLID1947,Donegal Drive Pedestrian Park 
+CPLID1948,Ridgevale Drive Park
+CPLID1949,Buckingham Drive Park 
+CPLID195,Joseph Howe Dr at Abbott Dr
+CPLID1950,Shubie Canal Lock #3 
+CPLID1951,Shubie Campground 
+CPLID1952,Spectacle Lake Boardwalk West
+CPLID1953,Point Pleasant Park 
+CPLID1954,Public Gardens
+CPLID1955,Horseshoe Island Seawall
+CPLID1956,Alderney Land Docks
+CPLID1957,BJ Higgins
+CPLID1958,Meadowbrook
+CPLID1959,Graves Oakley
+CPLID196,Hammonds Plains Rd at Bedford Highway
+CPLID1960,Pierre Gingras
+CPLID1961,North Preston
+CPLID1962,Castle Hill
+CPLID1963,Central Spryfield
+CPLID1964,Sunset Acres 
+CPLID1965,Landrance Park  
+CPLID1966,Stanley I Raine Park
+CPLID1967,St Marys Boat Club 
+CPLID1968,Northcliffe
+CPLID1969,Don Bayer - Burnside 
+CPLID197,Lob Ball Field Sackville Dr. Upgrades
+CPLID1970,LaPierre Ballfield 
+CPLID1971,Prospect Road Community Centre 
+CPLID1972,Wendy's Meadow Park 
+CPLID1973,Heatherglen Park (Lost Creek Community Association Area Rate) - new court
+CPLID1974,Western Commons -Nichols Lake Trail 
+CPLID1975,Otter Lake 
+CPLID1976,Otter Lake 
+CPLID1977,20 Horseshoe Lake Drive
+CPLID1978,20 Horseshoe Lake Drive
+CPLID1979,80 Gloria McCliskey Avenue
+CPLID198,Wendy's Meadow Play Field
+CPLID1980,61 Evergreen PL
+CPLID1981,21611 Highway #7
+CPLID1982,249 Sibley Road
+CPLID1983,Broad Street at Larry Uteck - Intersection
+CPLID1984,Cogswell Interchange 
+CPLID1985,Argyle/Grafton
+CPLID1986,Spring Garden Road
+CPLID1987,Chebucto/Windsor/Cunard 
+CPLID1988,Sackville/Sackville Cross Rd 
+CPLID1989,Sackville/Beaverbank
+CPLID199,Beazley Field.
+CPLID1990,Coburg/Edward 
+CPLID1991,Northwest Arm/Old Sambro
+CPLID1992,Windmill/Lyle 
+CPLID1993,Larry Uteck/Bluewater 
+CPLID1994,Sackville/Bambrick/Orchard 
+CPLID1995,Chain Lake/Horseshoe Lake 
+CPLID1996,Wright/Wilkinson
+CPLID1997,Sackville/Beaconsfield/Executive 
+CPLID1998,Bissett/Salt Marsh Trail
+CPLID1999,Bissett/Rehab Centre
+CPLID2,Duncan St. Chebucto Lane to Harvard
+CPLID20,Coburg Rd
+CPLID200,Oldfield School
+CPLID2000,Larry Uteck/Civic 420 
+CPLID2001,Caldwell/Atholea  
+CPLID2002,Robie/South 
+CPLID2003,Prince Albert/Hawthorne
+CPLID2004,Robie/Quinpool 
+CPLID2005,Windmill Rd
+CPLID2006,Coronation Ave
+CPLID2007,Coronation Ave
+CPLID2008,Porter's Lake Metro X 
+CPLID2009,Burnside Dr Greenway
+CPLID201,Lob Ball Field Sackville Dr.
+CPLID2010,Windmill Rd
+CPLID2011,Mainland North Connector Active Greenway Transportation Upgrade
+CPLID2012,Sackville Greenway
+CPLID2013,Sackville-Bedford Greenway 
+CPLID2014,Downtown Fall River
+CPLID2015,Marine Drive
+CPLID2016,Gaetz Brook AT Greenway 
+CPLID2017,"Beechville, Lakeside, Timberlea Trail"
+CPLID2018,Crimson Dr to Sackville Lakes Park Parking Lot 
+CPLID2019,Dartmouth Harbourfront Greenway (Ochterloney)
+CPLID202,Burnside Industrial Park
+CPLID2020,Morris - University Bikeway 
+CPLID2021,Barrington Greenway
+CPLID2022,Chain of Lakes Greenway
+CPLID2023,Chain of Lakes Greenway 
+CPLID2024,Broad and Gary Martin
+CPLID2025,Africville
+CPLID2026,Rainnie
+CPLID2027,Brunswick
+CPLID2028,Fall River Rd and Lockview Rd 
+CPLID2029,Auburn Dr
+CPLID203,Heartland Village Park
+CPLID2030,Auburn Dr
+CPLID2031,Clyde St
+CPLID2032,Mount Hope Ave
+CPLID2033,Sinclair St
+CPLID2034,Athorpe Dr
+CPLID2035,Booth St
+CPLID2036,Kennedy Dr
+CPLID2037,Eastview Dr
+CPLID2038,Main Ave
+CPLID2039,Forest Hills Parkway
+CPLID204,Bedford West Playground
+CPLID2040,North West Arm Greenway 
+CPLID2041,Highway Trunk 7
+CPLID2042,Highway Trunk 7
+CPLID2043,Wyse Rd
+CPLID2044,Ahern Ave
+CPLID2045,South Park St
+CPLID2046,Almon St
+CPLID2047,North St
+CPLID2048,Vernon St and Seymour St
+CPLID2049,Allan St and Oak St
+CPLID205,Public Gardens
+CPLID2050,Atlantic St
+CPLID2051,Estates Rd
+CPLID2052,Mount Hope Ave
+CPLID2053,Bissett Greenway
+CPLID2054,Atlantic View Trail
+CPLID2055,Musquodoboit Trailway
+CPLID2056,Salt Marsh Trail
+CPLID2057,"Beechville, Lakeside, Timberlea Trail "
+CPLID2058,St. Margaret's Bay Trail
+CPLID2059,Dartmouth Common
+CPLID206,Sir Sandford Flemming Park
+CPLID2060,Micmac and 111
+CPLID2061,Musquodoboit Harbour Railway Museum
+CPLID2062,Beaver Bank to Canopy Creek
+CPLID2063,Ft. Sackville Walkway & Bedford-Sackville Connector
+CPLID2064,North Preston
+CPLID2065,Bell/Ahern 
+CPLID2066,Bell/Summer/Trollope
+CPLID2067,"Welsford, Allan, Windsor, North Common Connections"
+CPLID2068,Lady Hammond Rd
+CPLID2069,Lady Hammond Rd                   
+CPLID207,Papermill Lake
+CPLID2070,Rosley Rd bridge replacement design       
+CPLID2071,Peggy's Cove
+CPLID2072,Musquodoboit Harbour
+CPLID2073,Mushaboom
+CPLID2074,Mooseland Road
+CPLID2075,Walker bridge
+CPLID2076,Walker bridge
+CPLID2077,Kimberley Cres. Pedway
+CPLID2078,Tobin Dr.
+CPLID2079,Lady Hammond Rd
+CPLID208,Jubilee Road
+CPLID2080,Quinpool Rd (CN)
+CPLID2081,Lucasville
+CPLID2082,Moirs Mill Lake pedestrian bridge
+CPLID2083,Silver Crt
+CPLID2084,Raines Mill Rd
+CPLID2085,Chalamont Dr
+CPLID2086,Northwood Rd
+CPLID2087,Old Annapolis Rd
+CPLID2088,Carrie Cres
+CPLID2089,Gardeners Walk
+CPLID209,Sullivan's Pond
+CPLID2090,Trinity Ln
+CPLID2091,Bayshore Dr
+CPLID2092,Birchpond Crt
+CPLID2093,Delmerle Dr
+CPLID2094,Maple Dr
+CPLID2095,Prospect River Crt
+CPLID2096,Tara Dr
+CPLID2097,Tidal Way
+CPLID2098,1358 Cobequid Rd 
+CPLID2099,Cobequid Rd at Regwood Dr
+CPLID21,Hollis St
+CPLID210,Lake Charlotte
+CPLID2100,Rocky Lake Dr - Civic 2030
+CPLID2101,Waverley Rd Under Hwy 118
+CPLID2102,Ross Rd at Salmon River Rd
+CPLID2103,Barrington St MacKay Bridge Approaches
+CPLID2104,Cliff St
+CPLID2105,2320 Armcrescent West Ave - 2291 Quinn St
+CPLID2106,15 Fourth St to 15 Panorama Ln
+CPLID2107,Purcell's Cove Rd at Williams Lake Rd Investigation and Design
+CPLID2108,Coronation Dr (Hillcrest to Willett) New Construction
+CPLID2109,Cliff St
+CPLID211,Kevin Shea Field
+CPLID2110,Rocky Lake Dr across from Civic 927
+CPLID2111,Rocky Lake Dr across from Civic 1561
+CPLID2112,Sinclair St (Multiple Locations)
+CPLID2113,22 Herring Cove Rd
+CPLID2114,1087-1157 Old Sackville Rd
+CPLID2115,La Pierre Cres to Cranberry Cres
+CPLID2116,"Londra Crt to Cranberry Cres, Sabra Crt, and Tantling Cres"
+CPLID2117,Mount Edward Rd to Hibernia Crt
+CPLID2118,Wamphray Cres to Orquel Crt
+CPLID2119,Allison Dr to Astral Dr
+CPLID212,Springvale
+CPLID2120,Allison Dr to Spence Dr
+CPLID2121,Colby Dr to Carnaby Cres
+CPLID2122,Fairbanks St to Geary St/Windmill Rd (Design)
+CPLID2123,Laurel Ln to Sumac Ln
+CPLID2124,Ridgeview Dr to Prince St
+CPLID2125,15 Fourth St to 15 Panorama Ln
+CPLID2126,Doyle St to Basinview Dr
+CPLID2127,2342 Waverley Rd
+CPLID2128,48 Cadet Road
+CPLID2129,91 Prince Albert Rd at Eaton Rd
+CPLID213,Eddie LeBlanc
+CPLID2130,North St (Dartmouth) Construction
+CPLID2131,Sinclair St (Multiple Locations)
+CPLID2132,Vestry St at Lynch St
+CPLID2133,Herring Cove Rd - after Windermere Rd
+CPLID2134,Main Ave - Titus to Dunbrack (South Edge)
+CPLID2135,Trunk 7 (Property Acquisition)
+CPLID2136,Armcrescent West Ave 
+CPLID2137,Benjamin Green Ave
+CPLID2138,South Armcrescent Ave
+CPLID2139,Coronation Ave
+CPLID214,Bill Zinck Ball Field
+CPLID2140,Coronation Ave
+CPLID2141,Ahern Ave
+CPLID2142,Mount Edward Rd
+CPLID2143,Trunk 7
+CPLID2144,Trunk 7
+CPLID2145,Sinclair St
+CPLID2146,Sinclair St
+CPLID2147,Roleika Dr
+CPLID2148,Coburg - Spring Garden
+CPLID2149,Linden St
+CPLID215,Metro Transit - Burnside Transit Centre
+CPLID2150,Vernon St
+CPLID2151,Vernon St
+CPLID2152,Vernon St
+CPLID2153,Allan St
+CPLID2154,Allan St
+CPLID2155,Allan St
+CPLID2156,Gottingen St
+CPLID2157,Robie St
+CPLID2158,Kearney Lake Rd
+CPLID2159,Elmridge Dr
+CPLID216,Cornwallis Park
+CPLID2160,Overbrook Dr
+CPLID2161,Stayner Dr
+CPLID2162,Badger Ave
+CPLID2163,Rattling Ave
+CPLID2164,Coburg Rd - Spring Garden Rd
+CPLID2165,Gottingen St
+CPLID2166,Kaye St
+CPLID2167,Armcrescent Ave E/W
+CPLID2168,Benjamin Green Dr
+CPLID2169,First St
+CPLID217,Gaston Road Park
+CPLID2170,South Armcrescent St
+CPLID2171,Third St
+CPLID2172,Coronation Ave
+CPLID2173,Eastcoast Crt
+CPLID2174,Rockhaven Dr
+CPLID2175,Woodcrest Ave
+CPLID2176,White Birch Dr
+CPLID2177,Cliff St
+CPLID2178,Doyle St
+CPLID2179,Bissett Rd
+CPLID218,Timberlane Terrace lands
+CPLID2180,Ahern Ave
+CPLID2181,High St
+CPLID2182,Pockwock Rd
+CPLID2183,Charleswood Dr
+CPLID2184,Windgate Dr
+CPLID2185,Clarence St
+CPLID2186,Londra Crt
+CPLID2187,Orquel Crt
+CPLID2188,Spruce Dr
+CPLID2189,Wamphray Cres
+CPLID219,Range Park
+CPLID2190,Allison Dr
+CPLID2191,Armbro Ln
+CPLID2192,Auburn Dr
+CPLID2193,Colby Dr
+CPLID2194,Atlantic St
+CPLID2195,Estates Rd
+CPLID2196,Mount Hope Ave
+CPLID2197,Sinclair St
+CPLID2198,Athorpe Dr
+CPLID2199,Booth St
+CPLID22,Prince St
+CPLID220,Admiral Westphal Elementary School
+CPLID2200,Kennedy Dr
+CPLID2201,Roleika Dr
+CPLID2202,Cherry St
+CPLID2203,Coburg Rd - Spring Garden Rd
+CPLID2204,Emscote Dr
+CPLID2205,Garden St
+CPLID2206,Linden St
+CPLID2207,Macleod Dr
+CPLID2208,Vernon St
+CPLID2209,Allan St
+CPLID221,Alderney School
+CPLID2210,Memorial Dr
+CPLID2211,Monastery Ln
+CPLID2212,Robie St
+CPLID2213,Botany Terr
+CPLID2214,Eastview Dr
+CPLID2215,Homecrest Terr
+CPLID2216,Rexdale Ave
+CPLID2217,Samuel Terr
+CPLID2218,Cedarbrae Ln
+CPLID2219,Dunbrack St
+CPLID222,Beaver Bank Kinsac Fields
+CPLID2220,Kearney Lake Rd
+CPLID2221,Laurel Ln
+CPLID2222,Laurentide Dr
+CPLID2223,Sumac Ln
+CPLID2224,Carnation Cres
+CPLID2225,Fotherby Ave
+CPLID2226,Frances Crt
+CPLID2227,Holly Dr
+CPLID2228,Marie Ave
+CPLID2229,Ursula Crt
+CPLID223,Buckingham Commons Stillwater Lake (Haliburton Heights)
+CPLID2230,Dunbrack St
+CPLID2231,Kearney Lake Rd
+CPLID2232,Chalamont Dr
+CPLID2233,Northwood Rd
+CPLID2234,St Georges Blvd
+CPLID2235,Lakeland St
+CPLID2236,Pinehaven Dr
+CPLID2237,Trinity Ln
+CPLID2238,Cockburn Crt
+CPLID2239,Cockburn Dr
+CPLID224,Canada Games Centre
+CPLID2240,Mayfair Ave
+CPLID2241,Ridgeview Dr
+CPLID2242,Steeves Crt
+CPLID2243,Armoyan Crt
+CPLID2244,Eagle Pl
+CPLID2245,Eaglewood Dr
+CPLID2246,Golf Links Rd
+CPLID2247,Peregrine Cres
+CPLID2248,Portland Hills Dr (W) - Portland to End of Island 
+CPLID2249,Portland Hills Dr (E ) - Portland to End of Island
+CPLID225,Cedar Crescent Playground
+CPLID2250,Portland Hills Dr - End of Island to Berry Hill
+CPLID2251,Portland Hills Dr - Berry Hill to Summerfield 
+CPLID2252,Countryview Dr (W) - Corner to Shubie
+CPLID2253,Countryview Dr (E )- Shubie to Wright 
+CPLID2254,Countryview Dr (W) -Shubie to McClure 
+CPLID2255,Countryview Dr (W) - McClure to Commodore
+CPLID2256,Countryview Dr (E) - Commodore to McClure
+CPLID2257,Countryview Dr (E) - McClure to Shubie 
+CPLID2258,Gordon Ave - Tacoma Dr to Mall Entry
+CPLID2259,Gordon Ave - Main St to Tacoma Dr 
+CPLID226,Cole Harbour Outdoor Pool
+CPLID2260,Raddall Ave - Wright Ave to Ilsley Ave 
+CPLID2261,Cambridge St - Pepperell to Norwood 
+CPLID2262,Cambridge St - Norwood to Jubilee
+CPLID2263,Morris St - South Park to Brenton 
+CPLID2264,Morris St - Brenton to Queen
+CPLID2265,Morris St - Queen to Church
+CPLID2266,Morris St - Church to Barrington 
+CPLID2267,Morris St - Barrington to Lower Water 
+CPLID2268,Glendale Rd - Edgewood to Roslyn
+CPLID2269,Roslyn Rd - Connaught to Oxford 
+CPLID227,Noria Cres. Beaver Bank Cross Rd to Beaver Bank Cross Rd
+CPLID2270,Willow St - Windsor to Dublin
+CPLID2271,Willow St - Dublin to Cul De Sac 
+CPLID2272,Connaught Ave (N) - Quinpool to First
+CPLID2273,Connaught Ave (N) - First to Third
+CPLID2274,Connaught Ave (N)- Third to Chebucto
+CPLID2275,Mumford Rd - Joseph Hoew to Railway
+CPLID2276,Mumford Rd - Railway to Romans
+CPLID2277,Mumford Rd - Romans to End of Blvd
+CPLID2278,Mumford Rd - End of Blvd to Leppert
+CPLID2279,Mumford Rd - End of Blvd to Romans 
+CPLID228,Waterwheel Cres. Beaver Bank Cross Rd to Beaver Bank Cross Rd
+CPLID2280,Stonehaven Rd - Fenwood to Glenmore
+CPLID2281,Main Ave - Dunbrack to Mandaville 
+CPLID2282,Main Ave - Mandavlle to Washmill Lake Dr 
+CPLID2283,Trunk 3 - North Green to Parkdale
+CPLID2284,Trunk 3 - Parkdale to Timberlea Village 
+CPLID2285,Washmill Lake Dr (N) - Civic 550 to Northwest Arm Drive 
+CPLID2286,Washmill Lake Dr (S) - Northwest Arm Drive to Civic 550
+CPLID2287,Washmill Lake Dr - Bently to Civic 550 
+CPLID2288,Skyridge Ave - Sackville Dr to Kaye St
+CPLID2289,Skyridge Ave - Kaye St to Prince 
+CPLID229,Riverside Dr. Glendale to Civic 1530
+CPLID2290,Bedford Hwy - Oarkmount to Town limit at 102
+CPLID2291,Hammonds Plains Rd - Innovation to Smiths Road 
+CPLID2292,Hammonds Plains Rd - Innovation to Sandy Lake 
+CPLID2293,Kearney Lake Rd - Civic 327 to Larry Uteck
+CPLID2294,Parkvae Cres - Ridgevale to Ridgevale 
+CPLID2295,Portland Hills Dr - Waterside Terr to Summerfield Way
+CPLID2296,Waverley Rd - Spider Lake Rd to Rolling Hills
+CPLID2297,Waverley Rd - Rolling Hills to Silverside Dr
+CPLID2298,Mount Edward Rd - Lucien Dr to Stewart Harris 
+CPLID2299,Mount Edward Rd - Stewart Harris to Cranberry Cres
+CPLID23,Richmond St
+CPLID230,Sampson Dr. Stokil to Stokil
+CPLID2300,Mount Edward Rd - Cranberry Cres to Wildwood Blvd
+CPLID2301,Topsail Blvd - Mt Edward to Digby South
+CPLID2302,Topsail Blvd - Digby South to Dorothea 
+CPLID2303,Tacoma Drive - Valleyfield Rd to Gordon Ave
+CPLID2304,Tacoma Drive - civic 116 to Valleyfield Rd
+CPLID2305,Tacoma Drive - Main Street to Civic 116
+CPLID2306,Novalea Drive - Rector to Duffus
+CPLID2307,Novalea Drive - Vestry to Rector
+CPLID2308,Novalea Drive - Leeds to Vestry 
+CPLID2309,Novalea Drive - Northridge to Leeds 
+CPLID231,Cedar St. Summit to Maple
+CPLID2310,Almon Street - Connolly to Oxford
+CPLID2311,Almon Street - Connaught to Connolly
+CPLID2312,Ashwood Drive - Wilson Drive to End 
+CPLID2313,Holly Court - Brook to Cul De Sac
+CPLID2314,Autumn Drive - Herring Cove Road to End
+CPLID2315,McIntosh Street - Herring Cove Road to End
+CPLID2316,Whalen Avenue - Herring Cove to End
+CPLID2317,Pockwock Road - Civic 1238 to End
+CPLID2318,Emmerson Street - Rutledge to End 
+CPLID232,Summit St. Rocky Lake Dr to End
+CPLID233,Maple St. Central to Sunnydale
+CPLID234,Saratoga Dr. Lexington to Walnut Hall
+CPLID235,Devonshire Ave. Barrington to Albert
+CPLID236,Pockwock Rd.
+CPLID237,First Ave. Bedford Hwy to Pine
+CPLID238,Village Street (Murray Drive to end - LIC) District 13
+CPLID239,Dingle Park Stairs
+CPLID24,Barrington St
+CPLID240,Fort Needham Park
+CPLID241,Oldfield School Court
+CPLID242,Halifax Common Spray Pool
+CPLID243,Hemlock Ravine Park
+CPLID244,Hollyhock Way
+CPLID245, Long Lake Drive Park
+CPLID246,Larry O'Connell  Playground
+CPLID247,Roblea Drive Park
+CPLID248,Rockingstone Elementary School
+CPLID249,St. Margaret's Centre Skate Park
+CPLID25,Cloverdale Rd
+CPLID250,St. Mary's School
+CPLID251,Crown Crescent (Village Street to Cul de Sac - LIC) District 13
+CPLID252,Powder Mill
+CPLID253,Cow Bay Rd
+CPLID254,Fairview Overpass
+CPLID255,Old Sackville Rd (Hwy 101)
+CPLID256,BR80 MacKintosh St Overpass
+CPLID257,Sackville Dr Rehabilitation
+CPLID258,BR127 MacKintosh St Overpass
+CPLID259,Convoy Run
+CPLID26,Fairview Overpass
+CPLID260, MackIntosh St Overpass
+CPLID261,MackIntosh St Overpass
+CPLID262,Rocky Lake Dr
+CPLID263,Cow Bay Causeway
+CPLID264,"Stoney Creek Dr, Mineville"
+CPLID265,Terence Bay Park
+CPLID266,Titus Smith Playground
+CPLID267,Upland Park Phase II.
+CPLID268,Halifax North West
+CPLID269,Halifax Urban Greenway
+CPLID27,Magazine Hill Overpass
+CPLID270,Lawrencetown Cole Harbour
+CPLID271,Penhorn Lake Trail
+CPLID272,Kearney Lake Road
+CPLID273,Porter's Lake MetroX Connections
+CPLID274,Mt. Hope Greenway
+CPLID275,Ochterloney Street
+CPLID276,Kearney Lake Road Connector
+CPLID277,Chain Lake Drive - at Lakelands
+CPLID278,Glendale/Pinehill
+CPLID279,Bicentennial Theatre
+CPLID28,St Margaret's Bay Road at Brentwood
+CPLID280,Halifax Ferry Terminal
+CPLID281,Metro Transit - Woodside Ferry Terminal
+CPLID282,Turner Drive Depot
+CPLID283,MacKintosh Depot
+CPLID284,Grand Parade
+CPLID285,Metropark
+CPLID286,Lebrun Centre
+CPLID287,City Hall
+CPLID288,Chocolate Lake Beach
+CPLID289,"Cow Bay Rd,  Eastern Passage"
+CPLID29,Dunbrack St (E) -  Knightsridge to Wentworth
+CPLID290,Seanleigh Crt - Cobequid to Cul de Sac
+CPLID291,Flandrum Hill Rd - Patterson to End
+CPLID292,Flandrum Ct - Flandrum Hill to End
+CPLID293,Patterson Rd - Flandrum Hill to Dyke
+CPLID294,Minshull Dr - Basinview to Lincoln
+CPLID295,Ashwood Dr - Wilson to end
+CPLID296,Holly Crt - Brook St to Cul de Sac
+CPLID297,Braeside Ave - Flandrum Hill to Dyke
+CPLID298,Mt. Edward Rd. Cranberry Cres to Driveway into Ballpark
+CPLID299,Crystal Dr. Pinecrest to Leaman
+CPLID3,Oxford St. RCMP Station to end.
+CPLID30,Dunbrack St (W) - Farnham Gate to Ross
+CPLID300,Wright Ave. MacDonald to Windmill
+CPLID301,Sunnybrae Ave
+CPLID302,Main Ave. Titus to Bedford Hwy
+CPLID303,Noria Cres. Beaver Bank Cross Rd to Beaver Bank Cross Rd
+CPLID304,Waterwheel Cres. Beaver Bank Cross Rd to Beaver Bank Cross Rd
+CPLID305,Moirs Mills Rd. Bedford Hwy to Civic 332
+CPLID306,Quinn St. Chebucto to Quinpool
+CPLID307,Prince Albert/Ochterloney
+CPLID308,Windmill/Wright
+CPLID309,Emera Oval. 5775 Cogswell St
+CPLID31,Robert Lane  - Giberson to End
+CPLID310,Cole Harbour Place. 51 Forest Hills Pkwy
+CPLID311,St. Mary's Boat Club
+CPLID312,Cole Harbour High School
+CPLID313,Eastern Passage High School
+CPLID314,St. Andrew's Community Centre
+CPLID315,Metro Transit - Lacewood Terminal Clayton Park
+CPLID316,Commons Pavilion
+CPLID317,81 Ilsley Ave
+CPLID318,Halifax Metro Centre
+CPLID319,Second Lake Trail
+CPLID32,Hayley Lane - Lakeland to End
+CPLID320,Chain of Lakes Greenway
+CPLID321,Lake Charlotte Boat Launch
+CPLID322,Northwest Arm Seawall. Dingle Tower
+CPLID323,Bedford Lions Pool Park
+CPLID324,Bissett Lake Park
+CPLID325,Ragged Lake Industrial Park
+CPLID326,Aerotech Business Park
+CPLID327,Burnside Business Park
+CPLID328,Ragged Lake Industrial Park
+CPLID329,Ragged Lake Industrial Park
+CPLID33,John Stewart Dr - Cole Harbour to Inglewood (S)
+CPLID330,First Lake Dr
+CPLID331,Otter Lake Residuals Disposal Facility
+CPLID332,Otter Lake Residuals Disposal Facility
+CPLID333,Highway 101 Leachate Treatment Facility
+CPLID334,Highway 101 Leachate Treatment Facility
+CPLID335,Highway 101 Leachate Treatment Facility
+CPLID336,Highway 101 Leachate Treatment Facility
+CPLID337,Otter Lake Residuals Disposal Facility
+CPLID338,Otter Lake Residuals Disposal Facility
+CPLID339,Pondicherry Cres.  Cranberry to Pondicherry
+CPLID34,Circassion Dr - Forest Hills to Kirtland
+CPLID340,Ellerslie Cres. Circassion to Ellerslie
+CPLID341,John Stewart Dr. Inglewood(S) to Auburn
+CPLID342,Carver St. Portland to Day
+CPLID343,Beazley Field Grandstand
+CPLID344,Power House
+CPLID345,Quaker House
+CPLID346,MacDonald Park Ball Field
+CPLID347,Adventure Earth Centre.
+CPLID348,East Preston Rec Centre.
+CPLID349,Flinn Park Pathway Paving
+CPLID35,Brookdale Cres - Micmac to Micmac
+CPLID350,Island View Park Play Structure
+CPLID351,Point Pleasant Park
+CPLID352,Larry Uteck Blvd at Bedford Highway
+CPLID353,Sandy Lake
+CPLID354,North Park/Cogswell/Rainnie
+CPLID355,North Park/Cunard
+CPLID356,Cogswell Interchange
+CPLID357,Highfield transit terminal
+CPLID358,Woodside Ferry Terminal
+CPLID359,Halifax Commons
+CPLID36,Brookdale Crt - Brookdale to End
+CPLID360,Robie/Young
+CPLID361,Young/Kempt
+CPLID362,Herring Cove/Old Sambro
+CPLID363,Spring Garden/Summer
+CPLID364,Hammonds Plains Rd (Pockwock to Lucasville)
+CPLID365,Point Pleasant Park- Perimeter stone wall.
+CPLID366,Public Gardens wrought iron fence
+CPLID367,Atlantic View
+CPLID368,Carrolls Corner
+CPLID369,Chain of Lake  Trail
+CPLID37,Gaston Rd - Galaxy to End
+CPLID370,Cole Harbour Forest Hills
+CPLID371,Friends of First Lake
+CPLID372,Queen St. Morris to Kent
+CPLID373,Bedford/Hammonds Plains Community Centre
+CPLID374,Grand Parade
+CPLID375,Halifax City Hall
+CPLID376,Cole Harbor Public Library
+CPLID377,City Hall
+CPLID378,Eric Spicer Building
+CPLID379,Metropark
+CPLID38,Peter Lowe Ave
+CPLID380,Canada Games Centre
+CPLID381,Centennial Arena
+CPLID382,Centennial Pool
+CPLID383,Cole Harbour Place
+CPLID384,Dartmouth Sportsplex
+CPLID385,Cow Bay Rd. Hornes to Caldwell
+CPLID386,Gaston Rd. Portland to Galaxy
+CPLID387,Gaston Rd. Portland to #42
+CPLID388,Windmill Rd (E) . Wyse to Hare
+CPLID389,Windmill Rd (E). Hare to Mott
+CPLID39,Peter Lowe Ave
+CPLID390,Windmill Rd (E). Mott to Best
+CPLID391,Windmill Rd (E). Best to Lyle
+CPLID392,Thistle St. Metro Transit to Victoria
+CPLID393,Spikenard St. Margaree to Weyburn
+CPLID394,Watt St. Vernon to Henry
+CPLID395,Queen St. Morris to South
+CPLID396,Walnut St. Watt to Coburg
+CPLID397,Walnut St. Jubilee to Watt
+CPLID398,Cornwall St . Oxford to Preston (North & South)
+CPLID399,South St. Barrington to Queen
+CPLID4,Jack Fergusson Ave. Edward Arab to end (North & South)
+CPLID40,Peter Lowe Ave
+CPLID400,Kent St. Queen to Barrington
+CPLID401,Montebello Road tennis court
+CPLID402,Sambro School
+CPLID403,Samuel Danial Drive
+CPLID404,Fairview Overpass
+CPLID405,Dunbrack St - Langbrae to Farnham Gate
+CPLID406,Dunbrack St - Ross to Farnham Gate
+CPLID407,Albro Lake Beach
+CPLID408,Alderney Gate
+CPLID409,George Dixon Centre
+CPLID41,Garden St
+CPLID410,North Woodside Community Centre
+CPLID411,Cole Harbour Bell Building
+CPLID412,Metro Transit - Burnside Transit Centre
+CPLID413,Metro Transit - Alderney Ferry Terminal
+CPLID414,Halifax Ferry Terminal
+CPLID415,Alderney Ferry Terminal
+CPLID416,St Marys Boat Club
+CPLID417,St Andrews Centre
+CPLID418,MacKintosh Depot
+CPLID419,Booth St. David to Main
+CPLID42,Garden St
+CPLID420,Joseph Zatzman Dr. Akerley to Raddall
+CPLID421,Young St (North and South). Devonshire to Barrington
+CPLID422,Commission St. Kempt to Lady Hammond
+CPLID423,St Margaret's Bay Rd. Sleepy Hollow to Brentwood
+CPLID424,Sackville Dr. Lucasville to Melham
+CPLID425,Riverside Dr. Glendale to Maplegrove
+CPLID426,Rolling Hills Dr. Civic 276 to Silverside
+CPLID427,Salmon River Dr. Ross to Hwy 107
+CPLID428,Portland Estates Blvd West. Portland Hills Dr to Wedgewood
+CPLID429,Pondicherry Cres. Cranberry to Pondicherry
+CPLID43,South St
+CPLID430,Caldwell Rd. Atholea to MacDonald Beach
+CPLID431,Lake Major Rd.  Hwy 7 to Ernest Mill Bridge
+CPLID432,Greenwood Ave - Brentwood to Eisener
+CPLID433,Hammonds Plains Rd - Rockcliffe to Flat Lake
+CPLID434,Patton Rd - Sackville to Sackville
+CPLID435,Hillcrest Dr - Hillside to Hillside
+CPLID436,Old Sackville Rd - Walker to Sackville Cross
+CPLID437,Hammonds Plains Rd -Giles to Kearney Lake
+CPLID438,Orchard St - Basinview to Monarch
+CPLID439,Monarch Dr - Orchard to End
+CPLID44,Third St. Armcrescent to Newton
+CPLID440,Portland St
+CPLID441,Lady Hammond Rd
+CPLID442,Sunnybrae Ave
+CPLID443,Dartmouth Ferry Terminal
+CPLID444,Bengal Lancers Building
+CPLID445,St Marys Boat Club
+CPLID446,Christ Church
+CPLID447,Chocolate Lake Recreation Centre
+CPLID448,Eric Spicer Building
+CPLID449,Northbrook Centre
+CPLID45,Second St. Armcrescent to Newton
+CPLID450,Dartmouth Ferry Terminal
+CPLID451,Emera Oval
+CPLID452,Sullivan's Pond
+CPLID453,Shubenacadie Canal  - Starr Site
+CPLID454,Chebucto Landing & Dockyard
+CPLID455,Sackville River
+CPLID456,Sackville Drive Library Plaza
+CPLID457,Ellerslie Cres. Circassion to Loop Itself
+CPLID458,John Stewart Dr. Inglewood S to Auburn
+CPLID459,Gaston Rd.  Portland to Galaxy
+CPLID46,Main Ave. Titus to  Berts
+CPLID460,Galaxy Ave. Gaston to End
+CPLID461,Regency Dr. Gaston to End
+CPLID462,Mountain Ash. Beckfoot to End
+CPLID463,Carver St. Portland to Day
+CPLID464,Crystal Dr. Pinecrest to Leaman
+CPLID465,Wright Ave. MacDonald to Windmill
+CPLID466,Spikenard St. Guysboroough to Valleyfield
+CPLID467,Joseph Zatzman Dr. Akerley to Wright
+CPLID468,St Margaret's Bay Rd
+CPLID469,Faulkner St
+CPLID47,Titus St. Main to Evans
+CPLID470,North Park/Cunard
+CPLID471,North Park/Cogswell/Rainnie
+CPLID472,Mount Royal Subdivision
+CPLID473,Dipper Cres - Flamingo to End
+CPLID474,Spring Garden Road
+CPLID475,Coburg Rd - Oxford to Henry
+CPLID476,Armcrescent East Dr
+CPLID477,Gourok Ave - Gourok to Culrain
+CPLID478,Rocky Lake Dr (Rockmanor to Bedford Highway)
+CPLID479,Dartmouth Skate Park
+CPLID48,Willett St. Main to Melrose
+CPLID480,Bisset Lake
+CPLID481,"Willard Christie Ball Field, Island View Park"
+CPLID482,Tamarack Circ. Aspen to Loop Itself
+CPLID483,Fairview Heights Elementary
+CPLID484,"MacKay Bridge Approaches - Structure 13, Ramp D"
+CPLID485,Williamswood Park
+CPLID486,Glendale/Chandler
+CPLID487,Halifax City Hall
+CPLID488,Belvedere Ave - Flandrum Hill to Dyke
+CPLID489,Centennial Arena.  27 Vimy Ave
+CPLID49,Sunnybrae Ave. Hillcrest to Gesner
+CPLID490,Burnside & City of Lakes Business Parks
+CPLID491,Quinn St
+CPLID492,Mount Royale Park.
+CPLID493,Musquodoboit Harbor Recreation Centre
+CPLID494,Edward St. Coburg to University (East & West)
+CPLID495,Sunnybrae Ave. Hillcrest to Gesner
+CPLID496,Metro Transit - Woodside Ferry Terminal
+CPLID497,Woodside Ferry Terminal
+CPLID498,Zinck Ave. Cobequid to Dickey
+CPLID499,Micmac Dr - Pockwock to Halfway Lake
+CPLID5,Third St. Armcrescent to Newton
+CPLID50,Ketch Harbour Rd. Hebridean to Village
+CPLID500,City Hall
+CPLID501,Windmill Rd. Wyse to Dawson
+CPLID502,Newton Ave. Chebucto to Quinpool
+CPLID503,Kearney Lake Park Washroom
+CPLID504,Oakwood House
+CPLID505,Walnut St. Coburg to Jubilee
+CPLID506,Oxford St. Bayers to Edgewood
+CPLID507,Duncan St. Harvard to Windsor
+CPLID508,Newbery St. Kencrest to Kencrest
+CPLID509,Commission St. Lady Hammond to Kempt
+CPLID51,Douglas Cres. Ross St W to Ross St E
+CPLID510,Elm St. Quinpool to Chebucto
+CPLID511,Quinn St. Chebucto to Quinpool
+CPLID512,Jack Ferguson Ave. Edward Arab to End
+CPLID513,Fourth St. Armcrescent to Newton
+CPLID514,Third St
+CPLID515,Eastern Shore Community Centre
+CPLID516,Sackville Sports Stadium
+CPLID517,Spryfield Lions Arena
+CPLID518,St. Margaret's Centre
+CPLID519,Albro Lake Park Washroom
+CPLID52,Kingsway Dr
+CPLID520,Chocolate Lake Park Washroom
+CPLID521,Eric Spicer Building
+CPLID522,City Hall
+CPLID523,Metro Transit Depot - Ilsley Ave
+CPLID524,Halifax Regional Police Building
+CPLID525,Mainland Commons
+CPLID526,Skating Oval
+CPLID527,First St. Newton to South Armcrescent
+CPLID528,Massachusetts Ave
+CPLID529,Aspen Way Cres - Avondale to Avondale
+CPLID53,Kingsway Dr. Windsor to Buckingham
+CPLID530,Eisener St. Brentwood to Riverwood
+CPLID531,Young St. at Isleville St.
+CPLID532,Little Sackville River
+CPLID533,Chain of Lake Trails to Northwest Arm Drive
+CPLID534,Hollis St at Upper Water St.
+CPLID535,Kearney Lake at Larry Uteck
+CPLID536,Starboard Drive
+CPLID537,Nine Mile Drive
+CPLID538,Hwy 101 at Lower Sackville
+CPLID539,Hwy 102 at Miller Lake
+CPLID54,Hammonds Plains Rd. Lucasville to Pockwock
+CPLID540,Hwy 118 at Dartmouth Crossing
+CPLID541,Hwy 102 at Bayers Lake
+CPLID542,Barrington St. at Cornwallis
+CPLID543,Glendale at Rankin
+CPLID544,Herring Cove Road Widening
+CPLID545,Rainnie at Gottingen
+CPLID546,Prince Albert at Ochterloney
+CPLID547,Glendale at Smokey
+CPLID548,North Park at Cogswell
+CPLID549,Fairview Overpass
+CPLID55,St. Andrew's Community Centre
+CPLID550,Lower Water at Prince
+CPLID551,Glendale at Raymond
+CPLID552,Windsor Junction Rd Crossing Gates
+CPLID553,Agricola at Young
+CPLID554,Portland/Chestnut/Manor
+CPLID555,Victoria at Primrose
+CPLID556,Evergreen House
+CPLID557,Dartmouth Sportsplex
+CPLID558,East Preston Recreation Centre
+CPLID559,Emera Oval
+CPLID56,University Ave Fire Station
+CPLID560,Hubbards Recreation Centre
+CPLID561,Musquodoboit Recreation Facility
+CPLID562,North Woodside Community Centre
+CPLID563,Sackville Sports Stadium
+CPLID564,Scotiabank Centre
+CPLID565,Upper Sackville Recreation Centre Facility
+CPLID566,Cogswell Interchange
+CPLID567,Sullivan's Pond
+CPLID568,Shubenacadie Canal Greenway Trail
+CPLID569,Woodside Ferry Terminal
+CPLID57,Eisener Boulevard
+CPLID570,Halifax Ferry Terminal
+CPLID571,Alderney Ferry Terminal
+CPLID572,Halifax Ferry Terminal
+CPLID573,Aerotech Industrial Park
+CPLID574,Burnside Industrial Park
+CPLID575,Highway 101 Landfill
+CPLID576,Highway 101 Landfill
+CPLID577,Highway 101 Landfill
+CPLID578,Otter Lake
+CPLID579,Highway 101 Landfill
+CPLID58,Eisener Boulevard
+CPLID580,Otter Lake
+CPLID581,Otter Lake
+CPLID582,Whynette Pl. Topsail to Lucien
+CPLID583,Armanda Cres. Jamieson to Jamieson
+CPLID584,Arnold Dr. Jamieson to Fall River
+CPLID585,Twining Dr. Jamieson to Jamieson
+CPLID586,Skyvue Ter. Dewhurst to End
+CPLID587,Dewhurst Dr. Lucien to Whynette
+CPLID588,Cross Rd. Topsail to Dewhurst
+CPLID589,Lake Loon Rd. Montague to MacLaughlin
+CPLID59,Caldwell Rd
+CPLID590,Lake Major Rd. Trunk 7 to Ernst Mill Bridge
+CPLID591,Merrimac Dr. Forest Hills to Arklow
+CPLID592,Poplar Dr. Civic 123 to Otago
+CPLID593,Penhorn Dr. Curley to Jean
+CPLID594,Sarnia Ave. Regent to Penhorn
+CPLID595,Green St. Alderney to Wentworth
+CPLID596,Thistle St. Victoria to Wyse
+CPLID597,Wentworth St. Portland to Park
+CPLID598,Dundas St. Green to North
+CPLID599,Lahey Rd. Farrell to Clarence
+CPLID6,Armview Ave. Civic 6899 to Prince Arthur
+CPLID60,Morris St
+CPLID600,Clarence St. Lahey to Albro Lake
+CPLID601,Saratoga Dr. Lexington to Walnut Hall
+CPLID602,"Alerley Blvd. (E,W) Windmill to Joseph Zatzman"
+CPLID603,Pepperell St. Vernon to Beech
+CPLID604,Brunswick St. Duke to North
+CPLID605,Queen St. Spring Garden to Sackville
+CPLID606,Barrington St. Blowers to Morris
+CPLID607,Hood St. Windsor to Kempt
+CPLID608,Richmond St. Devonshire to Barrington
+CPLID609,Hanover St. Devonshire to Barrington
+CPLID61,Skylark St
+CPLID610,Kempt Rd. Lady Hammond to 200m E Commision
+CPLID611,Young St. Gottingen to Kempt
+CPLID612,Bayers Rd. Oxford to Hwy 102 Ramps
+CPLID613,McAlpine Ave. Federal to Chisholm
+CPLID614,Oxford St. Bayers to Almon
+CPLID615,Woodbury Dr. Birch Cove to Rockhaven
+CPLID616,Willett St. Dunbrack to Main
+CPLID617,Thornhill Dr. Auburn to End
+CPLID618,Drysdale Rd. Herring Cove to Lions Rink
+CPLID619,Pockwock Rd. 2.6km from End to End
+CPLID62,Starling St
+CPLID620,Emerald Cr. Drysdale to Drysdale
+CPLID621,St. Margaret's Bay Rd. Sheppards Run to Beech Tree Run
+CPLID622,Chain Lake Dr. (E ) CN Tracks to Lovett Lake
+CPLID623,Hammonds Plains Rd. Pockwock to Northwood
+CPLID624,Sackville Dr. Millwood to Margeson
+CPLID625,Glendale Dr. Smokey to Rankin
+CPLID626,Riverside Dr. Civic 1530 to Lennox
+CPLID627,Lennox Dr. Riverside to Lynnville
+CPLID628,Rogers Dr. Rankin to Smokey
+CPLID629,First Ave. Bedford Hwy to Pine
+CPLID63,Wren St
+CPLID630,Cunningham Dr. First to End
+CPLID631,Crichton Ave. Lakeview to Crichton Park
+CPLID632,Cadogan St. First to Second
+CPLID633,Poplar Dr. Otago to Elm
+CPLID634,Poplar Dr. Circassion to Elm
+CPLID635,Gorsebrook Ave. Tower to End
+CPLID636,Brunswick St. Cogswell to Duke
+CPLID637,Walnut St. Cedar to Shirley
+CPLID638,Devonshire Ave. Kaye to Russell
+CPLID639,Windsor St. Cork to Liverpool
+CPLID64,Chain Lake Dr
+CPLID640,Oxford St. Young to Bayers
+CPLID641,Oxford St. Liverpool to Cork
+CPLID642,Oxford St. Almon to Edinburgh
+CPLID643,Pepperell St. Oxford to Beech
+CPLID644,Pepperell St. Oxford to Cambridge
+CPLID645,Aikens Ave. Romans to Archibald
+CPLID646,Connolly St. Almon to Berlin
+CPLID647,Abbott Dr. Ralston to Mayfield
+CPLID648,Romans Ave. Bayers to Federal
+CPLID649,Flamingo Dr. Canary to Meadowlark
+CPLID65,Chain Lake Dr
+CPLID650,Bedford Hwy (Wooden SW) Rutledge to Spring
+CPLID651,Emmerson Dr. Rutledge to End
+CPLID652,Shore Rd. Shoreview to Romkey
+CPLID653,Sarnia Ave. Regent to Penhorn
+CPLID654,Mount Edward Rd. Spring to Belle Vista
+CPLID655,Akerley Blvd. Morris to Joseph Zatzman
+CPLID656,Kempt Rd. Lady Hammond to Commission
+CPLID657,Herring Cove Rd. Cowie Hill to Glenora
+CPLID658,1315 Rocky Lake Dr.
+CPLID659,St. Margaret's Bay Rd. Sheppards Run to Beech Tree Run
+CPLID66,Sackville Drive *
+CPLID660,Sackville Dr. Melham to Beaconsfield
+CPLID661,Glendale Dr. McDougall to Metropolitan
+CPLID662,Barrington St @ Wilson Fuels
+CPLID663,St. Margaret's Bay Rd. @ Chain Lake
+CPLID664,Thompson Run @ Club House Run
+CPLID665,Glen Arbor Way @ Thompson Run
+CPLID666,1077 to 1099 Shore Rd.
+CPLID667,Steed Ct. to Stuart Harris Dr.
+CPLID668,Dorothea Dr. to Skyvue Ter.
+CPLID669,Coventry Ln. to Fireside Dr.
+CPLID67,Old Beaver Bank Rd
+CPLID670,170 Poplar Dr. to Sirius Cr.
+CPLID671,73 St. Margaret's Bay Rd.
+CPLID672,110 Poplar Dr. to Elm St.
+CPLID673,146 Poplar Dr. to Sirius Cr.
+CPLID674,Rockcliffe St (2 Locations)
+CPLID675,Herring Cove Rd. @ Roundabout
+CPLID676,Alex St. @ Main Ave.
+CPLID677,250 Sackville Dr.
+CPLID678,Hornes Rd.
+CPLID679,Victoria Rd CN Overpass
+CPLID68,Circassion Dr
+CPLID680,Barrington St. over Railway
+CPLID681,Barrington St. inbound over MacKay Ramp
+CPLID682,Rosley Rd.
+CPLID683,Sackville Cross Rd.
+CPLID684,Old Sackville Rd. (Hwy 101)
+CPLID685,Halifax Commons
+CPLID686,Cole Harbour Turf
+CPLID687,Cornwallis Park
+CPLID688,Fort Needham
+CPLID689,Mainland Commons
+CPLID69,Gaston Rd
+CPLID690,Yetter Park
+CPLID691,Laurie Lively Park
+CPLID692,Ridgevale Park
+CPLID693,Henry Finlay Park
+CPLID694,Lake of the Woods
+CPLID695,Graves Oakley Park (Leiblin Drive)
+CPLID696,Silver Sands Beach Park
+CPLID697,Oathill Lake
+CPLID698,DeWolf Park
+CPLID699,Sheldrake Lake
+CPLID7,First St. Newton to Connaught
+CPLID70,Queen St
+CPLID700,Fuller Terrace
+CPLID701,Cole Harbour Place
+CPLID702,Kerry Drive
+CPLID703,James MacPhee Memorial Ball Field
+CPLID704,Mainland Common - Off-leash Dog Park
+CPLID705,Ardmore Park
+CPLID706,Mount Royale
+CPLID707,MacDonald
+CPLID708,Point Pleasant Park
+CPLID709,Public Gardens
+CPLID71,Millwood/Beaver Bank
+CPLID710,Atlantic View Trail
+CPLID711,Cole Harbour Trail
+CPLID712,Beechville Lakeside Timberlea - AT Greenway Trail
+CPLID713,Carroll's Corner Walking Trail
+CPLID714,Chain of Lakes Trail - Trail Head
+CPLID715,Halifax Urban Greenway
+CPLID716,Chezzetcook Acadian Marsh Greenway
+CPLID717,Second Lake AT Greenway
+CPLID718,Sackville Rivers Trail
+CPLID719,Shubenacadie Watershed Environmental Protection (Bluff Trail)
+CPLID72,Margeson Drive Interchange
+CPLID720,Woodens River (Bluff Trail)
+CPLID721,Sir Sandford Fleming Park
+CPLID722,Northwest Arm
+CPLID723,Meadowbrook Fields
+CPLID724,Eddie Leblanc Field
+CPLID725,Merv Sullivan Memorial Park
+CPLID726,Canada Games Diamond - South Commons
+CPLID727,Rockmanor Court
+CPLID728,Western Commons
+CPLID729,Beazley Field
+CPLID73,Kearney Lake Connector Road
+CPLID730,BMO Centre
+CPLID731,Captain William Spry Community Centre
+CPLID732,Carroll's Corner Community Centre
+CPLID733,Cole Harbour Outdoor Pool & Tennis Court
+CPLID734,Cole Harbour Place
+CPLID735,Dartmouth Multi-Pad
+CPLID737,Shore Rd - Caldwell to Romkey
+CPLID738,Gander Ave - Montague to Smallwood
+CPLID739,Atlantic St - Woodside Ferry Terminal to Pleasant
+CPLID74,Wright/Garland/Williams
+CPLID740,Windmill Rd - Seapoint to Bancroft
+CPLID741,Courtney Rd - Alfred to Civic #74
+CPLID742,Strath Ln - Rannoch to Raymoor
+CPLID743,Trunk 3 (SMBR) - Sheppard's Run to Lakelands
+CPLID744,Cobequid Rd (Design Only) - Judy Anne to Sucker Brook
+CPLID745,Hammonds Plains Rd - Brookshire to Smith
+CPLID746,Bedford Hwy - Walkway near Rocky Lake to Civic #1687
+CPLID747,North Preston Rd Culvert Extension
+CPLID748,Forest Hills Dr. AT Facility Planning
+CPLID749,Wyse Rd./Sportsplex AT/Bikeway Planning
+CPLID75,Acadia School
+CPLID750,Mount Hope Ave to Woodside AT Facility and Alignment Planning
+CPLID751,MacDonald Bridge Planning
+CPLID752,Commodore Dr. AT Greenway Planning
+CPLID753,Morris St - University Bike Lane Planning
+CPLID754,Upper Water St Bicycle Connection between Barrington Greenway and Hollis Bike Lane Planning
+CPLID755,Barrington St Greenway North Ext to Niobi Gate Planning
+CPLID756,Devonshire Ave - Pedestrian and Bicycle Improvements
+CPLID757,Chain of Lakes Bridge Resurface and Connection Upgrade to Greenway
+CPLID758,Carroll's Corner (400m Greenway Extension)
+CPLID759,SWEPS (Fall River)
+CPLID76,Alderney Gate
+CPLID760,Cole Harbour Parks and Trails (500m Greenway on Rehab lands)
+CPLID761,Penhorn Lake (Greenway from Lake to Portland St.)
+CPLID762,Halifax Urban Greenway Plan for Alignment
+CPLID763,"Chain of Lakes Greenway (parking lot, amenities, signage)"
+CPLID764,St. Margaret's Bay Rails to Trails Planning
+CPLID765,Sackville Greenway
+CPLID766,BR37 McQuarrie replacement
+CPLID767,BR57 Walker - implement 2015 level 3 recommendations
+CPLID768,BR 122 Shore Rd at Fisherman's Cove Replacement  - design only
+CPLID769,BR 122 Shore Rd Repairs to Ped
+CPLID77,Richmond Family Court
+CPLID770,BR7 Forest Hills Ave - implement level 3 inspection
+CPLID771,BR26 Lady Hammond Rd - implement level 3 inspection
+CPLID772,BR118 Sackville Drive rehabilitation - design only
+CPLID773,Swan Crescent - Carmella to End
+CPLID774,Evans Drive - Halfway Lake to End
+CPLID775,Birchpond Crt - Tara to End
+CPLID776,Carmella Dr - Route 333 to Lot B22
+CPLID777,Delmerle Dr - Tara to End
+CPLID778,Denford Rd - Stoney Beach to Lot #42
+CPLID779,Maple Dr - Terence Bay to Delmerle
+CPLID78,Gardeners Cottage (Public Gardens)
+CPLID780,Spruceview Dr - Denford to End
+CPLID781,Tara Dr - Terence Bay to Birch
+CPLID782,Prospect River Crt - Forest Glade to End
+CPLID783,Jarrett Dr - Brookside to Lot 9
+CPLID784,Shannon Rd - Tracey to Kelly
+CPLID785,Bayshore Dr - Prospect to Lot 19
+CPLID786,Tidal Way - Bayshore to End
+CPLID787,Meadowbrook Dr - Off Earls to End
+CPLID788,Waverley Rd
+CPLID789,Miller Lake Rd
+CPLID79,Halifax Regional Police Headquarters
+CPLID790,Barrington St - North Marginal Rd to Africville Rd
+CPLID791,MacKay Bridge Ramps
+CPLID792,Birch Cove Rd
+CPLID793,Dickson Ave
+CPLID794,43 Brompton Rd to 68 Waynewood Dr
+CPLID795,Clermont Cres Civic 63/67 to Trail
+CPLID796,5 Landrace Cres to 28 Charlois Crt
+CPLID797,44 Landrace Cres to 25 Anderson St
+CPLID798,Pinecrest Dr to Brule St Wooden Stairs
+CPLID799,Gander Ave
+CPLID8,Bedford Highway. Ramp DV-B to Main
+CPLID80,City Hall
+CPLID800,Oakland Rd (Design Only)
+CPLID801,HCR at roundabout - Concrete Wall
+CPLID802,HCR at roundabout - T-Wall consultant investigation
+CPLID803,Bedford Hwy (Rocky Lake to civic 1687)
+CPLID804,Cliff St
+CPLID805,Bedford Hwy (Oakmount to North Mall Entrance)
+CPLID806,Pleasant St - Stephen to Civic #270
+CPLID807,Alderney Dr - Queen to Portland
+CPLID808,Prince St - Alderney to Portland
+CPLID809,Strath Ln - Raymoor to Helene
+CPLID81,Mabou Ave - Purcell's Cove to End
+CPLID810,Barrington St - Duke to Blowers
+CPLID811,Spring Garden Rd - Martello to Summer
+CPLID812,Preston St - Watt to Payzant
+CPLID813,Preston St - Quinpool to Pepperell
+CPLID814,Cogswell St - North Park to Robie
+CPLID815,Robie St - Young to Livingstone
+CPLID816,Vestry St - Novalea to St. Paul's
+CPLID817,Vestry St - Albert to Lynch
+CPLID818,Vestry St - Novalea to Barrington
+CPLID819,Devonshire Ave - Kaye to Russell
+CPLID82,Sunnybrae Ave
+CPLID820,Devonshire Ave - Richmond to Albert
+CPLID821,Kempt Rd - Commission to Livingstone
+CPLID822,Almon St - Robie to Civic #6034
+CPLID823,Almon St - Robie to Civic #6055
+CPLID824,Almon St - Gottingen to Isleville
+CPLID825,Connolly St - Summit to Vienna
+CPLID826,Connolly St - Almon to Berlin
+CPLID827,Connolly St - Edinburgh to Almon
+CPLID828,Connolly St - Cork to Liverpool
+CPLID829,Connolly St - Bayers to Young
+CPLID83,Rufus Ave - Birch to Alex
+CPLID830,St Margaret`s Bay Rd - Quarry to Ferndale
+CPLID831,Leiblin Dr - Rockingtone to Emerald
+CPLID832,Bedford Hwy - North Mall Entrance to Oakmount
+CPLID833,Lockview Rd - Limestone to Old Lockview
+CPLID834,Old Lockview Crt - Lockview to End
+CPLID835,Miller Lake Rd - Trunk 2 to End
+CPLID836,Brompton Rd - Elswick to End
+CPLID837,Elswick St - Everette to Brompton
+CPLID838,Everette St - Pleasant to Elswick
+CPLID839,Bissett Lake Rd - Bissett to End
+CPLID84,Bel Ayr School
+CPLID840,Cole Harbour Rd* - Bissett to Ross
+CPLID841,Riley Rd - Trunk 7 to Cherry Brook
+CPLID842,Smallwood Ave - Gander to Serpentine
+CPLID843,Gander Ave - Montague to Smallwood
+CPLID844,Alderney Dr (N) - King to Ochterloney
+CPLID845,Alderney Dr (S) - Ochterloney to Kings Wharf
+CPLID846,Murray Hill Dr - Wyndholme to Summit
+CPLID847,View St - Murray Hill to Murray Hill
+CPLID848,Beckfoot Dr - Peddars Way to End
+CPLID849,Peddars Way - Manor to Oathill
+CPLID85,Grosvenor Wentworth School
+CPLID850,Strath Ln - Caledonia to Helene
+CPLID851,Westwood Dr - Caledonia to End
+CPLID852,Perth Dr - Strath to Westwood
+CPLID853,Courtney Rd - Alfred to Windmill
+CPLID854,Alfred St - Courtney to End
+CPLID855,Farquharson St - Shawinigan to End
+CPLID856,Landrace Cres - Clysdale to End
+CPLID857,Cogswell St - Quinpool to Brunswick
+CPLID858,Barrington St - Duke to Blowers
+CPLID859,Spring Garden Rd - Barrington to Summer
+CPLID86,Dunbrack St (W) - Langbrae to Farnham Gate
+CPLID860,Preston St - Quinpool to Payzant
+CPLID861,Vestry St - Novalea to Barrington
+CPLID862,Devonshire Ave - Barrington to Duffus
+CPLID863,Almon St - Oxford to Gottingen
+CPLID864,Kempt Rd - Commission to Young
+CPLID865,Robie St - Livingstone to Young
+CPLID866,Windsor St - Bayers to Cork
+CPLID867,Bayers Rd - Windsor to Oxford
+CPLID868,Connolly St - Chebucto to Bayers
+CPLID869,St Margaret's Bay Rd - Quarry to Douglas
+CPLID87,Halifax Harbour Bridges (McKay)
+CPLID870,George Dauphinee Ave - Bayers to 2731 Ralph Devlin
+CPLID871,Inverness Ave - Purcell's Cove to Redwood
+CPLID872,Birch Cove Ln - Kearney Lake to End
+CPLID873,Dickson Ave - Woodbury to End
+CPLID874,Scarlet Rd - Gateway to Parmbelle
+CPLID875,Fox Glove Ln - Scarlet to End
+CPLID876,Parmbelle Ln - Scarlet to Scarlet
+CPLID877,Herring Cove Rd - Sarah to Hebridean
+CPLID878,St Margaret's Bay Rd - Sheppard's to NSTIR Limits
+CPLID879,Riverwood Dr - Eisener to Sprucewood (2nd Leg)
+CPLID88,Frenchman Lake
+CPLID880,Hammonds Plains Rd* - Lucasville to Kingswood
+CPLID881,Jubilee Ln - Sackville to End
+CPLID882,Baker Dr - Jubille to Civic #23
+CPLID883,Jubilee Crt - Jubilee to End
+CPLID884,Second Ave - Jubilee to First
+CPLID885,Tillock Dr - McDougall to Prince
+CPLID886,Tillock Crt - Tillock to End
+CPLID887,Lydgate Dr - Metropolitan to Lumsden
+CPLID888,Lynnville Dr - Lennox to Lyndgate
+CPLID889,Glendale Dr - Riverside to 150m SE McDougall
+CPLID89,Bay Look out Wharf
+CPLID890,Doyle St - Hammonds Plains to Landsburg
+CPLID891,Bedford Hwy - Hwy 102 to Rocky Lake
+CPLID892,Lewis Dr - Hammonds Plains to Bernard
+CPLID893,Bernard St - Olive to Lewis
+CPLID894,Alderney Gate
+CPLID895,Beazley Field
+CPLID896,Bedford Outdoor Pool
+CPLID897,BMO Centre
+CPLID898,Captain William Spry Centre
+CPLID899,Chocolate Lake Community Centre
+CPLID9,Main Ave. Titus to Berts
+CPLID90,Cumberland Dr
+CPLID900,Cole Harbour Place
+CPLID901,Commons
+CPLID902,Commodore Drive
+CPLID903,6838 Bayer's Road
+CPLID904,6850 Bayer's Road
+CPLID905,Fire Station #62
+CPLID906,Eric Spicer Building
+CPLID907,Station #8
+CPLID908,City Hall
+CPLID909,Cowie Hill Depot
+CPLID91,Sackville Landing
+CPLID910,Mackintosh Depot
+CPLID911,Turner Drive Depot
+CPLID912,Musquodoboit - Village Plaza Library
+CPLID913,Dartmouth Ferry Terminal
+CPLID914,200 Ilsley - Metro Transit
+CPLID915,Needham Centre
+CPLID916,North Branch Library
+CPLID917,Dartmouth Ferry Terminal
+CPLID918,Halifax Ferry Terminal
+CPLID919,Halifax Regional Police Headquarters
+CPLID92,Halifax Forum
+CPLID920,Metropark Parkade
+CPLID921,Canada Games Centre
+CPLID922,Alderney Landing
+CPLID923,St. Margaret's Bay Recreation Centre
+CPLID924,Spryfield Lions Rink
+CPLID925,Centennial Pool
+CPLID926,Eastern Shore Recreation Centre
+CPLID927,Musquodoboit Harbour Rec Facility (Village Plaza)
+CPLID928,Sackville Sports Stadium
+CPLID929,St. Margaret's Centre
+CPLID93,St. Mary's Boat Club
+CPLID930,Carroll's Corner
+CPLID931,Dartmouth North Community Centre
+CPLID932,Chocolate Lake Recreation Centre
+CPLID933,Evergreen House
+CPLID934,Hubbard's Community Centre
+CPLID935,Northbrook Community Centre
+CPLID936,MacPhee House
+CPLID937,Upper Hammonds Plains Community Centre
+CPLID938,Wallace Lucas Community Centre
+CPLID939,Sackville Sports Stadium
+CPLID94,Willett St
+CPLID940,Scotiabank Centre
+CPLID941,Fire Station #12 - 45 Highfield Park
+CPLID942,Fire Station #13 - 86 King Street
+CPLID943,Fire Station #20 - 2385 Crowell Road
+CPLID944,Fire Station #22 - North Preston Lake Echo
+CPLID945,Fire Station #35 - 39 Corbet Road
+CPLID946,Fire Station #38 - Musquodoboit
+CPLID947,Fire Station #53 - Terence Bay
+CPLID948,Bedford Leisure Centre
+CPLID949,Acadia Recreation Centre
+CPLID95,Prince St
+CPLID950,Keschan Goodman Library
+CPLID951,St. Andrew's Community Centre Renovation
+CPLID952,Sir Sandford Fleming Cottage
+CPLID953,Acadia School
+CPLID954,Shakespeare by the Sea
+CPLID955,Spencer House
+CPLID956,Tallahasse Community Centre
+CPLID957,Upper Hammonds Plains Community Centre
+CPLID958,Dartmouth Ferry Terminal
+CPLID959,Halifax Ferry Terminal
+CPLID96,Withrod Dr
+CPLID960,Scotia Square
+CPLID961,Cole Harbour - Gordon Bell Site
+CPLID962,Cornwallis Park
+CPLID963,Fort Needham
+CPLID964,First Lake
+CPLID965,Cole Harbour Common
+CPLID966,Hemlock Ravine
+CPLID967,Wallace Lucas Community Centre
+CPLID968,Westridge Ball Field
+CPLID969,Bayer's Westwood Park
+CPLID97,St. Mary's Boat club
+CPLID970,Sheldrake Lake
+CPLID971,Beaver Bank /Kinsac School
+CPLID972,Belmont Park
+CPLID973,Bristol Ave Park
+CPLID974,Ryan Rosen
+CPLID975,Caldwell Road School
+CPLID976,Chalamont Park
+CPLID977,Craigburn Drive Park
+CPLID978,Dartmouth Common
+CPLID979,DeYoung Drive
+CPLID98,Barrington St - Hanover to Duffus
+CPLID980,Ecole Bois-Jolie
+CPLID981,Evelyn Wood Place
+CPLID982,Fairview Heights Annex School
+CPLID983,George Dixon
+CPLID984,Ecole Chebucto Heights School
+CPLID985,Jollimore Park
+CPLID986,Lakeside Centre
+CPLID987,Leaside Park
+CPLID988,Pleasant Drive Park (Gaetz Brook)
+CPLID989,Oceanview Drive Park
+CPLID99,"Lady Hammond Rd (N, S) - Mackintosh to Windsor"
+CPLID990,Regatta Point
+CPLID991,Roleika Drive Park
+CPLID992,Sir Charles Tupper
+CPLID993,Sir Sandford Fleming Park
+CPLID994,Titus Smith Park.
+CPLID995,Jabaru Lane Park
+CPLID996,Sunset Acres Park
+CPLID997,Terence Bay Park
+CPLID998,Captain Spry Community Centre
+CPLID999,Murray Warrington Park
